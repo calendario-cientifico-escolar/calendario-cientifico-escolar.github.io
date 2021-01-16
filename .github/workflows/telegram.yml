@@ -1,4 +1,4 @@
-name: groovy-github-actions
+name: telegram
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
