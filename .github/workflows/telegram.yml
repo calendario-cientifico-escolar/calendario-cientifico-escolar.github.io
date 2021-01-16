@@ -3,6 +3,18 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 8 * * *'
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Year'     
+        required: true
+        default: '2021'
+      month:
+        description: 'Month'
+        required: true
+      day:
+        description: 'Day'
+        required: true
 jobs:
   check-groovy:
     runs-on: ubuntu-latest
@@ -18,4 +30,5 @@ jobs:
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
           sdk install groovy $GROOVY_VERSION
-          groovy scripts/telegram.groovy
+          groovy scripts/telegram.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }}
+
