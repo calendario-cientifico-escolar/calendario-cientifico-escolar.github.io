@@ -1,0 +1,21 @@
+name: groovy-github-actions
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 8 * * *'
+jobs:
+  check-groovy:
+    runs-on: ubuntu-latest
+    env:
+      GROOVY_VERSION: 3.0.5
+      TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+      - id: install
+        shell: bash
+        run: |
+          curl -s "https://get.sdkman.io" | bash
+          source "$HOME/.sdkman/bin/sdkman-init.sh"
+          sdk install groovy $GROOVY_VERSION
+          groovy scripts/telegram.groovy
