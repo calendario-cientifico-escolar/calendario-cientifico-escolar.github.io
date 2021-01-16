@@ -1,0 +1,366 @@
+dia	mes	agno	personaje	texto
+1	1	2021	1	1914/1/1. Manuela Garín Pinillos jaio zen, Mexikoko matematikaren aitzindarietako bat. Bere eredu matematikoak lagungarri izan ziren Lurraren eremu magnetikoa azaltzeko.
+2	1	2021	2	1839/1/2. Louis Daguerre espazioaren lehen argazkia egiten ahalegindu zen. Dagerrotipo bat eta teleskopio bat erabili zituen argazkia egiteko, baina ez zuen arrakastarik izan, argazkia lausotuta atera zelako.
+3	1	2021	3	1871/1/3. Henry Bradleyek lehen margarina patentatu zuen. Nagusiki kotoi-olioa eta animalia-koipea erabili zuen errezeta egiteko.
+4	1	2021	4	1963/1/4. May-Britt Moser neurozientifikoa jaio zen. Nobel Sari bat jaso zuen, garunean kokatutako sare-zelulei buruz egin zuen ikerketarengatik.
+5	1	2021	5	1895/1/5. Rebecca Craighill Lancefield mikrobiologoa jaio zen. Streptococcus taldeko bakterioak sailkatzeko metodo berri bat asmatu zuen.
+6	1	2021	6	1838/1/6. Samuel Morsek eta Alfred Vailek telegrafoa jendaurrean erabili zuten, lehen aldiz. Hamarkadatan, asmakizun hori komunikazio-sistema ezagunenetako bat izan zen.
+7	1	2021	7	1992/1/7. AT&T enpresak bideofonoa aurkeztu zuen. Bideo-pantaila zuen lehen telefonoa izan zen.
+8	1	2021	8	1988/1/8. Juan Carlos I Espainiako Base Antartikoa inauguratu zen. CSICek kudeatzen du base zientifiko hori, Antartikako Livingston uhartean.
+9	1	2021	9	1923/1/9. Juan de la Cierva asmatzaileak autogiroa arrakastaz erabili zuen. Aireontzi hori, hegazkinaren eta helikopteroaren arteko nahasketa bat da.
+10	1	2021	10	1860/1/10. Londresko metroa inauguratu zen. Metro hori, lurrazpiko garraio publikoko sistema zaharrena da munduan.
+11	1	2021	11	1907/1/11. Mary Shaw Shorb immunologoa jaio zen. Maryk B12 bitamina aztertzeko teknika bat garatu zuen. Horrekin, anemia kaltegarriari aurre egiten lagundu zuen.
+12	1	2021	12	1925/1/12. Miguel Cordero del Campillo albaitaria jaio zen. Mundu-mailako autoritate bat izan zen parasitologiaren alorrean. Funtsezko zeregin bat izan zuen Leongo Unibertsitatearen sorreran.
+13	1	2021	13	1927/1/13. Sydney Brenner biologoa jaio zen. Nobel Sari bat jaso zuen garapenaren erregulazio genetikoari eta zelulen heriotzari buruz egin zituen ikerketengatik.
+14	1	2021	14	1973/1/14. Elvis Presleyk satelite bidez transmititutako lehen kontzertua eman zuen. Honoluluko Nazioarteko Zentrotik egin zen, eta 40 herrialdetan ikusteko aukera izan zuten.
+15	1	2021	15	1826/1/15. Marie Pasteur laguntzaile zientifikoa jaio zen. Louis Pasteurren emaztea zen, eta haren laguntzaile eta kolaboratzaile gisa jardun zuen. Haren laguntza funtsezkoa izan zen ikertzailearen aurkikuntzetan.
+16	1	2021	16	1932/1/16. Dian Fossey zoologoa jaio zen. Pazientzia handiz behatu zuen gorilen portaera, eta, Ruandan, Karisokeko Ikerketa Zentroa fundatu zuen. Zentro hori, mendiko gorilen kontserbaziorako itxaropen nagusia da.
+17	1	2021	17	1897/1/17. Caroline Emilie Bleeker fisikaria jaio zen. Besteak beste, tresna optikoen diseinuari eta fabrikazioari buruzko azterlan ezagunak egin zituen.
+18	1	2021	18	1969/1/18. Arizonako Unibertsitateko astronomia-talde batek pulsar baten seinale optikoak detektatu zituen, lehen aldiz.
+19	1	2021	19	1915/1/19. Georges Claudek neoizko lehen hodia patentatu zuen. Asmakizun hori laster egin zen ezagun, publizitate-karteletan eman zitzaion erabilerari esker.
+20	1	2021	20	1944/1/20. Cogulladako Biologia Esperimentaleko Estazioa sortu zen; gaur egun, Aula Deiko Estazio Esperimentala deitzen zaio. CSICeko institutu horren helburua da nekazaritza-sektorearen lehiakortasuna eta jasangarritasuna hobetzea.
+21	1	2021	21	1865/1/21. Sophia Jex-Blake jaio zen, "Edinburgoko zazpietako" bat, hain zuzen. Emakumeak unibertsitate-hezkuntzan sar zitezela ziurtatzeko kanpaina zuzendu zuen, eta ondoren Medikuntza ikasi zuen.
+22	1	2021	22	1909/1/22. Faustino Cordón farmazialari eta biologoa jaio zen. Eboluzioaren eremuan ardaztutako ikerketak egin zituen. 1979an, Biologia Eboluzionistari buruzko Ikerketarako Fundazioa sortu zuen.
+23	1	2021	23	1921/1/23. Marija Gimbutas arkeologoa jaio zen. "Kurgan hipotesia" proposatu zuen. Hipotesi horrek arkeologia eta linguistika uztartu zituen, hizkuntza protoindoeuropeoan hitz egiten zuten herrien jatorria kokatzeko.
+24	1	2021	24	1809/1/24. Mariano de la Paz Graells naturalista jaio zen. Intsektu espezie berriak deskribatu zituen, besteak beste, isabel-tximeleta zoragarria (Graellsia isabelae).
+25	1	2021	25	1235/1/25. Litekeena da Ramón Llul urte hartan jaio izana. “El árbol de la ciencia” izeneko lana idatzi zuen, Espainian naturari buruz idatzitako lehen tratatu zientifikoa.
+26	1	2021	26	1941/1/26. Joan Elaine Argetsinger Steitz biokimikaria jaio zen. Nazioartean ospe handia lortu zuen RNAri buruzko aurkikuntzei esker.
+27	1	2021	27	1876/1/27. Elisha Gray ingeniari elektrikoak "musika-telegrafoaren" patentea eskatu zuen. Lehen musika-tresna elektrikoetako bat izan zen.
+28	1	2021	28	2013/1/28. IBM Sequoia superordenagailuak kalkulu-marka bat hautsi zuen, jet esperimental baterako motor bat modelatu zuelako. Horretarako, milioi bat prozesamendu-nukleo baino gehiagoren laguntza izan zuen.
+29	1	2021	29	1947/1/29. Linda Brown Buck biologo eta medikua jaio zen. Nobel sari bat irabazi zuen usaimenaren errezeptoreak eta usaimen-sistemaren antolamendua aurkitu zituelako.
+30	1	2021	30	1975/1/30. Ernő Rubik eskultoreak "kubo magikoaren" patentea eskatu zuen. Gaur egun, Rubiken kuboa esaten zaio asmakizun horri.
+31	1	2021	31	1925/1/31. Manuel Jalón jaio zen. Patente ugari egin zituen, zenbait tresna oso ezagun barne, hala nola lanbasa edo fregona, edo erabili eta botatzeko xiringa hipodermikoa.
+1	2	2021	32	1949/2/1. Hale teleskopioa martxan jarri zen, munduko handiena garai hartan, 200 hazbete baitzeuzkan.
+2	2	2021	33	1939/2/2. Mary-Dell Chilton bioteknologoa jaio zen. Landareetarako bioteknologia modernoaren fundatzaileetako bat izan zen.
+3	2	2021	34	1900/2/3. Juana Álvarez-Prida y Vega jaio zen. Espainiako lehen kimikarietako bat izan zen 1990ean, Zientziaren Emakume Aurrerazalearen lehen Saria jaso zuen.
+4	2	2021	35	1896/2/4. Thaddeus Cahillek telarmonioaren patentea eskatu zuen, guztiz elektronikoa eta polifonikoa zen lehen musika-tresnaren patentea, hain zuzen. Lehen prototipoak 200 tonako pisua zuen, eta 18 metroko luzera.
+5	2	2021	36	1949/2/5. Nieves López Martínez paleontologoa jaio zen. Nazioartean ospea lortu zuen, logomorfoen eboluzioan (untxiak, erbiak eta pikak) eta Kretazeo-Tertziarioko desagertze masiboarekin lotutako gertaera biotiko eta ingurumenekoen alorrean aditua baitzen.
+6	2	2021	37	2014/2/6. NASAk, Rover Curiosityk hartutako lehen irudia argitaratu zuen: Lurraren eta Ilargiaren irudia, Marteko zeruan.
+7	2	2021	38	1824/2/7. William Huggins jaio zen. Astronomia irauli zuen, izarren konposizio kimikoa zehazteko metodoak erabili zituelako.
+8	2	2021	39	1825/2/8. Henry Bates jaio zen. Zera aurkitu zuen, harrapariengandik babesteko, kaltegarriak ez diren tximeleta batzuek beste espezie toxiko batzuen itxura handia hartzen dutela (Batesen mimetismoa).
+9	2	2021	40	1859/2/9. Robert Hope-Jones organogilea jaio zen. Film mutuetan laguntzeko teatro-organo bat garatu zuen. Haren mekanismoan oinarrituta, diafonoa patentatu zuen, hau da, itsasargien ondoan kokaturik, itsasontziak lanbro artean gida ditzakeen sirena ozena.
+10	2	2021	41	1996/2/10. Estatu Batuetan, IBM Deep Blue superordenagailuak mendean hartu zuen lehen aldiz Garry Kasparov munduko xake-txapelduna.
+11	2	2021	42	1939/2/11. Lise Meitnerrek uranioaren fisio nuklearrari buruzko lehen aurkikuntza argitaratu zuen, uranioak neutroi osagarri bat xurgatzean zer gertatzen den aditzera emanez.
+12	2	2021	43	1809/2/12. Charles Darwin jaio zen, hautespen natural bidezko eboluzioaren teoria egin zuen naturalista ospetsua.
+13	2	2021	44	1946/2/13. Pilar Bayer matematikaria jaio zen. 1986an, Bartzelonako Zenbakiei buruzko Teoria Mintegia sortu zuen, eta hartan jardun zuen ikertzaile.
+14	2	2021	45	2005/2/14. CSICen ikertzaile talde batek, El Sidrón aztarnategiko gizabanako neandertal baten DNA lortu eta sekuentziatu zuen.
+15	2	2021	46	2001/2/15. Nature aldizkarian (eta hurrengo egunean, Science aldizkarian), giza genomaren sekuentziazioa eta hasierako analisia argitaratu zen.
+16	2	2021	47	2005/2/16. Kiotoko Protokoloa indarrean hasi zen, hau da, berotegi-efektuko gasen emisioak murrizteko mundu-hitzarmena.
+17	2	2021	48	1874/2/17. Ida Helen Ogilvie geologoa jaio zen. Labaren propietateak aurkitu zituen, baita aridotasunak lurzoruen higaduren gainean eragiten dituen efektuak ere.
+18	2	2021	49	1913/2/18. Frederick Soddy kimikari eta Nobel Sariak "isotopoa" terminoa erantsi zuen zientzia-hizkuntzan.
+19	2	2021	50	1878/2/19. Thomas A. Edisonek fonografoa patentatu zuen.
+20	2	2021	51	2016/2/20. IGMEko ikertzaileek lehen marisorgin fosila aurkitu zuten, munduan ezagutzen den zaharrenetako bat. San Justeko anbar-aztarnategian aurkitu zuten, Teruelgo Utrillas herrian. Aztarnategia Kretazeokoa da, eta 105 milioi urtetik gorako adina dauka.
+21	2	2021	52	1947/2/21. Edwin Herbert Land asmatzaileak, lehen aldiz, argazkien bat-bateko kamera bat aurkeztu zuen jendaurrean: Polaroid Land Camera.
+22	2	2021	53	1876/2/22. Johns Hopkins Unibertsitatea sortu zen. Estatu Batuetan ikerketa medikoan espezifikoki jardun zuen lehen unibertsitatea izan zen. Johns Hopkins enpresaburuaren herentziari esker sortu zen fundazioa.
+23	2	2021	54	1879/2/23. Agnes Arber jaio zen, landare monokotiledoneoen azterketan espezializatutako botanikaria.
+24	2	2021	55	1938/2/24. DuPont enpresa salmentarako nylonezko lehen produktua fabrikatzen hasi zen: hortzetako eskuila bat. Ordura arte, txerrien lepoko ileaz egiten ziren nagusiki.
+25	2	2021	56	1869/2/25. Phoebus Levene kimikaria jaio zen. Desoxirribosa aurkitu zuen, DNAren osagai nagusietako bat.
+26	2	2021	57	1958/2/26. Susan Helms jaio zen, espazioan barreneko paseorik luzeenaren marka hautsi zuen emakume astronauta: ia 9 ordu.
+27	2	2021	58	1869/2/27. Alice Hamilton patologoa jaio zen. Industria-gaixotasunei buruzko ikerketak egin zituen, eta lan-baldintza seguruagoak lortzen lagundu zuen.
+28	2	2021	59	1953/2/28. Francis Crickek eta James Watsonek DNAren egituraren aurkikuntza argitaratu zuten. Biek Nobel Saria jaso zuten, 1962. urtean. Rosalind Franklin, haien laguntzailea zena, 1958an hil zen inolako errekonozimendurik jaso gabe.
+1	3	2021	60	1893/3/1. Meteorologiako Institutu Nazionalak Espainiako lehen "eguraldi-mapa" egin zuen.
+2	3	2021	61	1922/3/2. Frances Bilas Spence programatzailea jaio zen. ENIAC xede orokorreko lehen ordenagailu digitalaren jatorrizko sei programatzaileetako bat izan zen.
+3	3	2021	62	1886/3/3. Helen Parkhurst hezitzaile eta pedagogoa jaio zen. Dalton Plana sortu zuen. Plan horren arabera, irakasgairik ez dago, eta ikerketa-gidak erabiltzen dira testu-liburuen ordez. Ikasgela laborategi bihurturik, ikasleek ikaskuntza osatzen dute, irakasleekin konpromiso bat hartuz «kontratu» baten bitartez.
+4	3	2021	63	1877/3/4. Robert Fritz Graebner etnologoa jaio zen. Kulturkreis edo Kultura-zirkuluaren teoria garatu zuen. Teoria horren arabera, kultura primitiboak eredu arkaiko bakar baten ondorio dira, eta hortik abiatuta zabaldu dira.
+5	3	2021	64	2013/3/5. Human Connectome Proiektuak, giza garunen oso irudi zehatzak argitaratu zituen. Irudi horiei esker, garun-egituren konplexutasuna aztertzeko eta neurona-nahasmenduen arrazoiak identifikatzeko aukera izan zen.
+6	3	2021	65	1937/3/6. Valentina Tereshkova ingeniari eta kosmonauta jaio zen. Vostok 6 ontzian, kanpo-espaziora bidaiatu zuen lehen emakumea izan zen.
+7	3	2021	66	2009/3/7. Kepler lehen behatoki espaziala jaurti zuten. Beste izar batzuen inguruan Lurraren antzeko planetak aurkitzeko eginkizuna zuen.
+8	3	2021	67	1839/3/8. Josephine Cochrane jaio zen. Lehen ontzi-garbigailu arrakastatsua asmatu zuen.
+9	3	2021	68	1961/3/9. Sputnik 9k Chernushka txakur emea espaziora eraman zuen. Akuri bat eta sagu bat ere eraman zuten, baita Ivan Ivanovich izeneko proba-maniki bat ere. Lurrera bueltan, manikia jaurtigailu batez atera zen, eta jausgailu baten laguntzarekin lehorreratu. Gainerakoak onik iritsi ziren, kapsularen barruan.
+10	3	2021	69	1876/3/10. Alexander Graham Bellek historiako lehen telefono-dei arrakastatsua egin zuen.
+11	3	2021	70	1926/3/11. Thomas Earl Starzl mediku eta ikertzailea jaio zen. 1967an, lehen gibel-transplante arrakastatsua burutu zuen, zenbait aldiz alferrik saiatu ondoren.
+12	3	2021	71	2015/3/12. Alzheimerren gaixotasunaren tratamendu berri bati esker, amiloide-plakak kasuen % 75ean desagerraraztea lortu zuten (saguengan).
+13	3	2021	72	1988/3/13. Seikan tunela inauguratu zen, Japoniako Aomori eta Hakodate hirien artean. Munduko urpeko tunelik luzeena da.
+14	3	2021	73	1963/3/14. Pedro Duque astronauta, politikari eta ingeniari aeronautikoa jaio zen. Batez ere, nazionalitate espainiarreko lehen astronauta izan zelako da ezaguna.
+15	3	2021	74	1985/3/15. Interneten lehen "punto com" domeinua erregistratu zen: Symbolics.com
+16	3	2021	75	1799/3/16. Anna Atkins botanikaria jaio zen. Lehen emakume argazkilaria izan zen.
+17	3	2021	76	1963/3/17. María Elisa Álvarez Obaya-ren analisiei esker, "metilikoaren kasua" azaleratu zen. Lanzaroteko bere farmazia xumetik, María Elisak frogatu zuen zenbait heriotza bitxi metanolarekin aizundutako likoreak kontsumitzearen ondorio zirela.
+18	3	2021	77	1987/3/18. Tenperatura altuko superkonektagarritasunaren aurkikuntza iragarri zen. New Yorkeko biltzar zientifiko batean izan zen.
+19	3	2021	78	2019/3/19. CSICen parte-hartzea izan zuen nazioarteko azterlan batek frogatu zuenez, ozeanoek xurgatzen dute giza jarduerak sortutako CO2aren % 31.
+20	3	2021	79	2021/3/20. Txolarrearen Mundu Eguna. Ekimen horren bitartez, txolarreen egoeraz ohartarazi nahi da. Txolarreen populazioa gainbehera nabarian baitago, hirietan bereziki.
+21	3	2021	80	1866/3/21. Antonia Maury astronomoa jaio zen. Harvard College Observatory-n lan egin zuen, eta izar-espektroen katalogo garrantzitsu bat argitaratu zuen.
+22	3	2021	81	1920/3/22. Katsuko Saruhashi geokimikaria jaio zen. CO2 karbono dioxidoko mailen lehen neurketak egin zituen itsasoko uretan. Agerian jarri zituen euri erradiaktiboak itsasoarentzat eta atmosferarentzat dakartzan arriskuak.
+23	3	2021	82	2005/3/23. José Luis Carrascosak eta Bioteknologia Zentro Nazionaleko bere taldeak baztangaren birusaren egitura deskribatu zuten, lehen aldiz.
+24	3	2021	83	1882/3/24. Robert Kochek, tuberkulosia dakarren bakterioaren aurkikuntza iragarri zuen. Mycobacterium tuberculosis zen (Kochen baziloa).
+25	3	2021	84	1914/3/25. Norman Borlaug agronomoa jaio zen. "Iraultza berdearen aita" izendatu zuten, eta Bakearen Nobel Saria jaso zuen Mexikoko, Pakistango eta Indiako nekazaritza-produkzioan hazi hibridoak sartzeko egin zituen ahaleginengatik. Horri esker, nekazaritza-produktibitateak gora egin zuen, eta milioika giza bizitza salbatu ziren.
+26	3	2021	85	1953/3/26. Jonas Salk ikertzaileak, poliomielitisaren aurkako txertoaren aurkikuntza iragarri zuen. Txertaketari esker, haur-paralisia esaten zaion gaixotasun infekzioso hori desagerrarazi da, Europan, Amerikan, Ozeanian eta Afrikan.
+27	3	2021	86	1827/3/27. Charles Darwinek, 18 urte zituela, bere lehen aurkikuntza zientifikoa aurkeztu zuen. Itsas animalia txikien biologiari buruzkoa zen.
+28	3	2021	87	2013/3/28. Stanfordeko Unibertsitateak, DNAko eta RNAko molekuletatik abiatuta egindako transistore biologiko baten garapena aurkeztu zuen jendaurrean.
+29	3	2021	88	1942/3/29. Ann A. Kiessling biologoa jaio zen. Mehran Goulianekin batera, alderantzizko transcriptasak giza zeluletan ziharduela aurkitu zuen. Ordura arte, entzima hori erretrobirusetan baino ez zegoela uste zen.
+30	3	2021	89	1900/3/30. María Moliner bibliotekari, filologo eta lexikografo espainiarra jaio zen. Espainieraren erabilera-hiztegia egin zuen.
+31	3	2021	90	1596/3/31. René Descartes filosofo eta matematikari frantziar ospetsua jaio zen. "Pentsatzen dut; beraz, banaiz" kontzeptua sortu zuen.
+1	4	2021	91	1940/4/1. Wangari Muta Maathai biologo eta ekologista jaio zen. 2004an Bakearen Nobel Saria jaso zuen, garapen jasangarriari eta demokraziari egindako ekarpenengatik. Sari hori lortu zuen lehen emakume afrikarra izan zen.
+2	4	2021	92	1618/4/2. Francesco Grimaldi fisikaria jaio zen. Argiaren difrakzioa aurkitu zuen.
+3	4	2021	93	1934/4/3. Jane Goodall primatologoa jaio zen. Mundu osoan ezaguna da txinpantzeen interakzio sozial eta familiarrei buruz egin dituen azterlanengatik.
+4	4	2021	94	1868/4/4. Philippa Garrett Fawcett matematikaria jaio zen. Cambridgeko Unibertsitateko beka bat irabazi zuen, Mathematical Tripos ikastaroan izan zuen egundoko arrakastari esker (1890). Fluidoen dinamikari buruzko ikerketak egin zituen.
+5	4	2021	95	1952/4/5. Venki Ramakrishnan kimikaria jaio zen. Nobel Saria irabazi zuen erribosomaren egitura eta funtzioari buruz egin zuen azterlanarengatik.
+6	4	2021	96	1846/4/6. Antonio Machado y Álvarez edo "Demófilo" jaio zen, Antonio eta Manuel Machado poeten aita. Flamenkoa zientifikoki aztertu zuten lehen folkloristetako bat izan zen.
+7	4	2021	97	1995/4/7. A Coruñan Domus inauguratu zen, gizakia modu global eta monografikoan aztertzen duen lehen museo interaktibo zientifikoa.
+8	4	2021	98	1911/4/8. Melvin Calvin kimikaria jaio zen. Kimikaren Nobel Saria irabazi zuen, landareen CO2aren asimilazioari buruzko lanengatik.
+9	4	2021	99	1860/4/9. Édouard-Léon Scott de Martinville asmatzaileak, giza ahotsaren lehen grabazio ezaguna egin zuen. Soprano ahots bat "Au clair de la Lune" abestia kantatzen ari zenean egin zuen grabazioa.
+10	4	2021	100	2011/4/10. IGMEren, CIATFren, eta Unibertsitate Konplutentsearen eta Lisboako Unibertsitatearen azterlan batean, Tenerifen tsunamien metakinak zeudela aurkitu zuten. Tsunamien ondorioz, 50 metrotik gorako olatuak izan ziren, eta Las Cañadaseko sumendi-eraikina suntsitzea ere eragin zuten, gaur egun Teide dagoen lekuan.
+11	4	2021	101	2013/4/11. Loaldian zehar, kontrolpeko denbora-tarteetan soinuak entzutea oroimenerako mesedegarri izan daitekeela aurkitu zuten.
+12	4	2021	102	1961/4/12. Yuri Gagarin espaziora bidaiatu zuen lehen gizakia izan zen. Vostok 1 ontzi sobietarrean egin zuen.
+13	4	2021	103	2014/4/13. IGMEren Subvent espedizioak muskuilu kimiosintetikoen multzo handiak aurkitu zituen metano-iturburuen inguruan, Cádizeko Golkoan. Lanzaroten urpeko sumendi berriak ere aurkitu zituen.
+14	4	2021	104	1977/4/14. Rosemary Huttonek artikulu bat argitaratu zuen, harkaitzen eroankortasun elektrikoa historia geologikoa ikertzeko nola erabil daitekeen aditzera emanez.
+15	4	2021	105	1452/4/15. Leonardo da Vinci jaio zen, Errenazimentuko pintore, eskultore, asmatzaile, ingeniari eta arkitekto handia.
+16	4	2021	106	1921/4/16. Isaac Carassok, "yoghourt” esaten diogun esne mamitua egiteko patentea eskatu zuen. Enpresari "Danone" izena jarri zion bere seme Danielen txikigarria erabiliz: "Danón".
+17	4	2021	107	1887/4/17. Clodomiro Picado jaio zen. Aitzindaria izan zen sugeei eta haien pozoiei buruzko ikerketan. Penizilinaren aurkikuntzaren aitzindarietako bat ere izan zen.
+18	4	2021	108	1917/4/18. Mamie Phipps Clark psikologoa jaio zen. Eskolaurreko haurren kontzientzia sozialaren garapena ulertzeko zereginean jardun zuen.
+19	4	2021	109	1946/4/19. María Vallet Regí kimikaria jaio zen. Aditua da traumatologiarako, odontologiarako edo ehunen ingeniaritzarako aplikazioak dauzkaten biomaterialen alorrean.
+20	4	2021	110	2017/4/20. Bryan Keith Hollandek GIBaren mikroRNA-ei buruzko doktorego-tesia aurkeztu zuen. Ezagunagoa da "Dexter" ezizenarekin eta The Offsprings punk rock bandako abeslaria eta gitarrista delako.
+21	4	2021	111	1838/4/21. John Muir kontserbazionista jaio zen. Sequonia eta Yosemite parke nazionalen ezarpena defendatu zuen.
+22	4	2021	112	1999/4/22. Logroñoko Zientzien Etxea ireki zuten. Zentro hori zientzia eta teknologiaren zabalkundeaz arduratzen da, erakusketa, konferentzia, ikastaro, proiekzio eta erakustaldi zientifikoen bitartez.
+23	4	2021	113	1933/4/23. Annie J. Easley informatikaria jaio zen. NASAko Lewis Research Center zentroan lan egin zuen. Centaur suziriaren softwarea garatu zuen taldeko kidea izan zen.
+24	4	2021	114	2013/4/24. IBMk robot bat garatu zuen telepresentzia eta errealitate areagotuko teknologiak uztartuz, urruneko eremuetako ingeniaritza-proiektuetan laguntzeko.
+25	4	2021	115	1945/4/25. Jean Marian Purdy enbriologoa jaio zen. In vitro ernalketaren garapenaren arduradunetako bat izan zen.
+26	4	2021	116	1927/4/26. Anne McLaren biologoa jaio zen. Aitzindaria izan zen garapenaren biologia aztertzeko lanetan. In vitro ernalketa-teknika garatzen lagundu zuen.
+27	4	2021	117	1993/4/27. John Kenny tronbonistak karnyx bat jo zuen, lehen aldiz garai zeltatik. John Purser musikologoak eta John Creed urregileak Deskfordeko karnyxetik egindako berreraikuntza erabili zuen horretarako. Jatorrizko instrumentua eta berreraikuntza Eskoziako Museo Nazionalean daude erakusgai.
+28	4	2021	118	1932/4/28. Sukar horiaren aurkako txertoa aurkitu zen.
+29	4	2021	119	1894/4/29. Marietta Blau fisikaria jaio zen. Aitzindaria izan zen partikula atomikoak emultsio fotografikoetako plaken bitartez erregistratu eta identifikatzeko lanetan. Haren lana lagungarri izan zen erreakzio nuklearrak hobeto ulertzeko.
+30	4	2021	120	2010/4/30. IGMEko ikertzaileek, erregistro historikotik desagertutako hezegune bat aurkitu zuten, XVIII. eta XIX. mendeetako mapetan.
+1	5	2021	121	2013/5/1. EMTASY proiektua abiatu zen, bihotza ezkerrean kokatzen duen mekanismoa zehazteko. Ángela Nieto Toledanok zuzendu zuen, eta sortzetiko malformazio asko ulertzeko lagungarri izan zen.
+2	5	2021	122	1997/5/2. Atapuercako talde zientifikoak Asturiasko Printzearen saria lortu zuen Ikerketa Zientifiko eta Teknikoaren alorrean, Homo antecessor aurkitzeagatik. Hominido hori Europan bizi izan zen orain 800.000 urte.
+3	5	2021	123	1910/5/3. Anne Strachan Robertson arkeologoa jaio zen. Ezaguna da Antoninoren harresiari eta erromatar inperioko monetei buruz egin dituen azterlanengatik.
+4	5	2021	124	1825/5/4. Thomas Huxley biologoa jaio zen. Hegaztiak dinosauroengandik abiatuta bilakatu zirela iradoki zuen lehena izan zen.
+5	5	2021	125	1882/5/5. Pío del Río Ortega mediku eta zientzialari espainiarra jaio zen. Mikroglia aurkitu zuen, nerbio-sistemaren zelula mota bat.
+6	5	2021	126	1840/5/6. Lehen postako zigilu itsasgarria salgai jarri zen. Erresuma Batuko Victoria erreginaren soslaia erakusten zuen, eta "penny black" deitzen zioten.
+7	5	2021	127	1954/5/7. Michiganen, Mackinac zubiaren eraikuntza hasi zen. Bere garaian, munduko zubi esekirik luzeena izan zen.
+8	5	2021	128	1980/5/8. OMEk baztangaren desagerrarazpena ziurtatu zuen. Mugarri hori txertaketari esker lortu zen.
+9	5	2021	129	1882/5/9. William H. Fordek estetoskopio baten diseinua patentatu zuen, gaur egun ere erabiltzen den formarekin.
+10	5	2021	130	1888/5/10. Lucy Wills hematologoa jaio zen. Legamian nutrizio-faktore bat aurkitu zuen, haurdunaldian anemia makrozitikoa prebenitu eta sendatzeko lagungarria. Willsen faktorea edo folatoa esaten zaio, eta azido folikoaren forma naturala da.
+11	5	2021	131	2001/5/11. Murtziako Lorca herrian lurrikara bat izan zen, 5,2 Mw-ko magnitudearekin. Inpaktu handia eragin zuen, eta 9 hildako eta kalte material izugarriak izan ziren.
+12	5	2021	132	1910/5/12. Dorothy Crowfoot Hodgkin Nobel Saria jaio zen. Penizilinaren edo intsulinaren molekulen 3Dko egitura zehaztu zuen. 3Dko egitura funtsezkoa da funtzioak ulertzeko.
+13	5	2021	133	1857/5/13. Ronald Ross bakteriologoa jaio zen. Malaria Anopheles eltxoaren bitartez transmititzen dela aurkitu zuen.
+14	5	2021	134	1899/5/14. Charlotte Auerbach biologoa jaio zen. Zoologian eta genetikan espezializatu zen, eta mutagenesiaren eta haren efektuen aurkikuntzan lagundu zuen. 1942an egin zen ospetsu, Alfred Joseph Clarkekin eta J. M. Robsonekin batera, ziape-gasa mutazioen eragile izan zitekeela aditzera eman zuenean.
+15	5	2021	135	1925/5/15. Mary Frances Lyon genetista jaio zen. Lionizazioa aurkitu zuen; fenomeno horren bitartez, X kromosomaren bi kopietako bat desaktibatzen da eme ugaztunen zeluletan.
+16	5	2021	136	1919/5/16. Ramón Margalef ozeanografo eta ekologoa jaio zen. Informazioaren Teoria Ekologian aplikatu zuen, eta Shannon-Weaverren indizea sortu zuen, dibertsitate-neurri gisa.
+17	5	2021	137	1749/5/17. Edward Jenner immunologoa jaio zen. Historiako lehen txertoa lortu zuen, zehazkiago, baztangaren aurkako txertoa.
+18	5	2021	138	2012/5/18. Landareekiko Liluramenduaren Nazioarteko lehen Eguna ospatu zen. Landareak gure bizitzan oso garrantzitsuak direla aitortzea zuen helburu, landareak lagungarri baitira pertsona eta animalientzako elikagaiak, papera, zura, energia eta produktu farmazeutikoak sortzeko.
+19	5	2021	139	2014/5/19. NASA InSight robot espaziala eraikitzen hasi zen, 2018an Marten lehorreratu zena.
+20	5	2021	140	1900/5/20. Erika Cremer kimikari eta fisikaria jaio zen. Gasen kromatografian aitzindaria izan zen. Alabaina, 1944an bere metodoari buruz idatzi zuen artikuluak ez zuen argia ikusi, bonbardaketa batek inprimategi-probak suntsitu zituelako, Naturwissenschaften aldizkariaren egoitzan.
+21	5	2021	141	1921/5/21. Andréi Sájarov fisikaria jaio zen. 50eko hamarkadan, bonba atomikoen garapenean parte hartu zuen. Ondoren, arma nuklearrak ugaritzearen aurka borrokatu zen, eta, 1975ean, Bakearen Nobel Saria jaso zuen.
+22	5	2021	142	1960/5/22. Txileko Lurrikara Handia izan zen. Inoiz erregistratutako magnitude handieneko lurrikara da (9,5 momentuko magnitudeko potentzian). Itsasikarak Hawairaino, Japoniaraino eta Errusiaraino ere iritsi ziren, eta Puyehue sumendiaren erupzioa ere eragin zuen.
+23	5	2021	143	1954/5/23. Keith Campbell biologoa jaio zen. Funtsezko pertsona bat izan zen Edinburgoko Roslin Institutuan Dolly ardia klonatu zuen taldean.
+24	5	2021	144	1878/5/24. Lillian Moller Gilbreth psikologo eta ingeniaria jaio zen. Ezaguna da antolamendu psikologikoa industrian aplikatzeko egin zuen lanarengatik.
+25	5	2021	145	1880/5/25. Jean Alexandre Barré neurologoa jaio zen. Guillain-Barréren sindromea identifikatu zuen, gaixotasun neurologiko arraro bat.
+26	5	2021	146	1872/5/26. Trinidad Arroyo Villaverde jaio zen. Espainiako lehen oftalmologoa izan zen.
+27	5	2021	147	1931/5/27. Philip Kotler ekonomialaria jaio zen. Marketin modernoaren aitatzat hartzen da.
+28	5	2021	148	1912/5/28. Ruby Violet Payne-Scott astronomoa jaio zen. Lurraren eremu magnetikoaren eragina eta eguzki-erupzioak aztertu zituen.
+29	5	2021	149	1826/5/29. Ebenezer Butterick sastrea jaio zen. Ellen Augusta Pollard emaztearekin batera, jostun-patroi modernoak asmatu eta merkaturatu zituen. Patroi horiek graduak zeuzkaten, neurri estandar ugarirekin.
+30	5	2021	150	2021/5/30. Esklerosi Anizkoitzaren Mundu Eguna. Urtero egiten da, kontakizunak partekatzeko, gizartea kontzientziatzeko eta gaixotasun hori duten guztiekin eta guztientzat kanpainak egiteko.
+31	5	2021	151	1903/5/31. Konstantin Tsiolkovsky fisikariak lehen aldiz proposatu zuen pertsonek espaziora bidaiatzeko aukera izango zutela, suziriak erabiliz.
+1	6	2021	152	1974/6/1. Emergency Medicine aldizkariak Heimlich-en maniobra argitaratu zuen. Eragiketa horrek aukera ematen du objektu arrotz batek buxatutako aire-bideak desblokeatzeko.
+2	6	2021	153	1911/6/2. Egunkari nagusiek Mondújarreko Gergal-Santa Fe trenbidearen elektrifikazioaren berri eman zuten. Espainian elektrifikatutako trenbide zabaleko lehen linea izan zen.
+3	6	2021	154	1976/6/3. Vicente Tofiño de San Miguel kosmografoak Venus Eguzkiaren aurretik igarotzen ikusi zuen, eklipse batean. Interes zientifiko handiko ohar batzuk argitaratu zituen.
+4	6	2021	155	1927/6/4. Lehen bidaiari-hegaldi komertzial transatlantikoa burutu zen. Wright-Bellanca WB-2 batean egin zen bidaia, Estatu Batuetatik Alemaniaraino.
+5	6	2021	156	2002/6/5. AMIT Asociación de Mujeres Investigadoras y Tecnólogas elkartea ofizialki aurkeztu zen. Elkarte horrek zera sustatzen du, emakumeek ikertze-jardueretan berdintasunean sartzeko aukera izatea, jakintzaren adar guztietan eta sektore teknologikoan.
+6	6	2021	157	1907/6/6. "Persil" merkaturatu zen. Akzio automatikoko lehen arropa-detergentea izan zen.
+7	6	2021	158	1886/6/7. Henri Coandă ingeniaria jaio zen. Abiazioaren aitzindaria izan zen, eta erreakzio-motor batek abiarazitako lehen hegazkina eraiki zuen.
+8	6	2021	159	2021/6/8. Ozeanoen Mundu Eguna. Ozeanoek eguneroko bizitzan duten zeregina gogora ekartzea du helburutzat. Gure planetako birikak dira, eta arnasten dugun oxigenoaren zati handiena sortzen dute.
+9	6	2021	160	1812/6/9. Johann Gottfried Galle astronomoa jaio zen. Neptuno aurkitu zuen, Urbain Le Verrierren kalkulu eta jarraibideei jarraikiz.
+10	6	2021	161	1948/6/10. Espainian telebistaren lehen erakustaldia egin zen. Bartzelonako Nazioarteko Erakustazokaren esparruan izan zen.
+11	6	2021	162	1910/6/11. Jacques-Yves Cousteau ozeanografo eta esploratzailea jaio zen. Urpeko munduaren dibulgatzaile ospetsuenetako bat da. Calypso ontzitik hainbat film eta dokumental grabatu zituen. Itsas ingurunea kutsaduratik babestu beharra defendatu zuen lehen pertsonetako bat ere izan zen.
+12	6	2021	163	1985/6/12. Blake Ross software ingeniaria jaio zen. Mozilla nabigatzaileak sortzeko lanetan aritzeagatik da ezaguna.
+13	6	2021	164	1868/6/13. Wallace Clement Sabine fisikaria jaio zen. Akustika arkitektonikoaren fundatzailea izan zen, baita Boston's Symphony Hall-eko kontsultore akustikoa ere. Kontzertu-areto hori munduko onenetako bat da, akustika bikaina duelako.
+14	6	2021	165	1880/6/14. Nicolás Achúcarro neurozientifikoa jaio zen. Ramón y Cajalen dizipuluetako bat izan zen, eta zelula glialen azterketan espezializatu zen.
+15	6	2021	166	1962/6/15. Talidomidak fetu-garapenean deformazioak eragiten zituela aurkitu zen. Haurdunaldiko lehen hilabeteetan goragaleak arintzeko erabiltzen zen lasaigarri hori.
+16	6	2021	167	1963/6/16. Valentina Tereshkova espaziora bidaiatu zuen lehen emakumea izan zen.
+17	6	2021	168	2017/6/17. Sunita Williams astronauta, espazioan jarraian luzaroen egondako emakumea bihurtu zen, Nazioarteko Estazio Espazialean 188 egun eta 4 ordu eman baitzituen Lurretik kanpo.
+18	6	2021	169	1466/6/18. Ottaviano Petrucci inprimatzailea jaio zen. Tipo mugikorren bidez musika inprimatzeko sistema asmatu zuen. Sistema horrekin, 1501ean "Harmonice Musices Odhecaton" abesti bilduma inprimatu zuen. Historiako musika inprimatuko lehen edizioa izan zen.
+19	6	2021	170	1903/6/19. Rebeca Gerschman biokimikaria jaio zen. Gerschman teoria defendatu zuen, erradikal askeen bidezko oxigenoaren toxikotasunari buruzkoa, garaiko giro zientifikoaren asaldurarako.
+20	6	2021	171	2019/6/20. Margarita Salas ikertzaileak "2019ko Europako Asmatzailearen Saria" jaso zuen. DNA polimerasa biralaren patentea izan da bere ekarpen nagusietako bat, CSICen emankorrena.
+21	6	2021	172	1997/6/21. Alboko Esklerosi Amiotrofikoaren Nazioarteko Eguna ezarri zen. Mundu osoko paziente elkarteek bultzatzen dute, eta oraindik sendaezina den gaixotasun horri buruz informatzea eta sentsibilizatzea du helburu.
+22	6	2021	173	1939/6/22. Ada Yonath kristalografoa jaio zen. Kimikaren Nobel Saria irabazi zuen, erribosomen egituraren gainean egin zituen lan aitzindariengatik.
+23	6	2021	174	1912/6/23. Alan Turing matematikaria, logikaria eta kriptoanalista jaio zen. Informatika modernoaren bide-erakuslea izan zen.
+24	6	2021	175	1400/6/24. Johannes Gutenberg jaio zen. Tipo mugikorren bidezko inprimategi modernoa asmatu zuen.
+25	6	2021	176	1866/6/25. Eloísa Díaz jaio zen, Hego Amerikako lehen emakume medikoa. Txileko Eskola Zerbitzu Medikoaren zuzendaria izanik, Eloisak hainbat eta hainbat ikasleri txertoa jartzea lortu zuen, eta errakitismoaren eta tuberkulosiaren aurka borrokatu zen.
+26	6	2021	177	1974/6/26. Estatu Batuetako Ohioko Marsh supermerkatuan, barra-kode baten munduko lehen irakurketa egin zuten. Txikle-pakete batekin egin zuten.
+27	6	2021	178	1915/6/27. Traude Bernert fisikaria jaio zen. Berta Karlik kimikariarekin batera, astatoaren 215, 216 eta 218 isotopoak identifikatu zituen. Elementu hori radioaren, torioaren eta aktinioaren deskonposizioan zehar sortzen zela ere aurkitu zuten.
+28	6	2021	179	2013/6/28. MITen, X izpien bidez ikusteko eskuzko gailu bat asmatu zuten, horman barrena mugimendua detektatzen duena.
+29	6	2021	180	1954/6/29. Stanley Cohenek, Rita Levi-Montalcinik eta Viktor Hamburgerrek nerbio-hazkundeko lehen faktoreari buruzko aurkikuntza argitaratu zuten. Lehen biek Fisiologia edo Medikuntzaren Nobel Saria jaso zuten, 1986. urtean.
+30	6	2021	181	1905/6/30. Albert Einsteinek "Mugitzen ari diren gorputzen elektrodinamikari buruz" izeneko lana argitaratu zuen. Erlatibitate bereziaren teoriaren hasiera izan zen.
+1	7	2021	182	1935/7/1. Josefina Castellví biologo eta ozeanografoa jaio zen. Antartikan nazioarteko espedizio batean parte hartu zuen lehen emakume espainiarra izan zen. Espainiako lehen base antartikoaren instalazioan lagundu zuen.
+2	7	2021	183	1982/7/2. Richard Walters Lawrencek heliozko 45 globo lotu zituen lorategiko aulki batera, eta aulkia 4.500 metrotik gora igo zen. Estatu Batuetako Indar Amatuetako pilotua izateko ametsa zapuztuta, modu xelebre horretan bere kasa hegan egitea erabaki zuen.
+3	7	2021	184	1865/7/3. Mary A. Kingsbury irakaslea jaio zen. Erasmus Hall Institutuko liburutegiaren ardura hartu zuen, eta historiako lehen emakume eskola-liburuzain bihurtu zen.
+4	7	2021	185	2019/7/4. PRISMA aurkeztu zen, Madrilgo Zientzia Naturalen Museo Nazionalean. PRISMA, Zientzia, Teknologia eta Berrikuntzaren Aniztasun Afektibo-sexualerako eta Genero Aniztasunerako Elkartea da. Zientziaren munduan LGTBIQA+ kolektiboaren agerikotasuna areagotzea du helburutzat.
+5	7	2021	186	1904/7/5. Ernst Walter Mayr biologoa jaio zen. Neodarwinismoaren garapenean aitzindaria izan zen, eboluzioaren teoria eta genetikaren alorreko ezagutzak uztartuz.
+6	7	2021	187	1885/7/6. Louis Pasteurrek amorruaren txertoa jarri zion Josef Meister 9 urteko haurrari, txakur amorratu batek hari koska egin ondoren. Arrisku handiko jarduna izan zen, Pasteur ez zelako mediku-titulazioaren jabe, eta txertoa oraindik onartu gabe zegoelako. Alabaina, horri esker Josefen bizitza salbatu zuen.
+7	7	2021	188	1924/7/7. Natalia Petrovna Bekhtereva neurozientifiko eta psikologoa jaio zen. Pentsamenduaren, oroimenaren, emozioen eta sormenaren garun-mekanismoak aztertzeko metodo konplexu bat jarri zuen abian.
+8	7	2021	189	1926/7/8. Elizabeth Kubler-Ross psikiatra jaio zen. Heriotzaren psikologiako aditu nagusitzat hartzen da gaur egun.
+9	7	2021	190	2015/7/9. IGMEko, Unibertsitate Konplutentseko eta Bartzelonako Unibertsitateko ikerketa-talde batek orain 105 milioi urteko euli bat aurkitu zuen, kontserbazio-egoera ezin hobean. Eulia anbarrean kontserbatu zen Kantabriako El Soplao kobazuloan, eta oraindik polen-karga bat zeraman abdomenean.
+10	7	2021	191	2020/7/10. CSICk nanozundak garatu zituen, gaixotasunen diagnostiko eta tratamendurako aplikazioekin. Nanozundak erabil daitezke gaixotasun baten lehen estadioak detektatzeko, botikak modu fokalizatuan bideratzeko, eta DNA edo birusak garraiatzeko.
+11	7	2021	192	1901/7/11. Angélique Arvanitaki neurofisiologoa jaio zen. Nick Chalazonitisekin batera, neuronen jarduera elektrikoa ikertu zuen, barraskilo arruntaren nerbio-zuntzak erabiliz.
+12	7	2021	193	1764/7/12. Lehen aldiz nebulosa bat begiztatu zuten. Charles Messier astronomoak aurkitu zuen, eta bere katalogoaren 27 zenbakia jarri zion (M27). Dumbbell nebulosa ere esaten zaio.
+13	7	2021	194	1923/7/13. Lehen aldiz onartu zen fosilizatutako dinosauro-arrautzak zeudela. Gobiko basamortuan aurkitu zituzten. Hasiera batean uste zuten Protoceratops espeziearenak zirela, baina 1995ean Oviraptor espeziearen arrautzak zirela ebatzi zuten.
+14	7	2021	195	1862/7/14. Florence Bascom kristalografian, mineralogian eta petrografian aditua jaio zen. Estatu Batuetako lehen geologoa izan zen.
+15	7	2021	196	1799/7/15. Napoleonen Egiptoko kanpainan, Rosetta harria aurkitu zuten. Harri horretan inskripzioak zeuden, grekoz, hieroglifikoz, eta demotikoz idatziak, eta hieroglifiko egiptoarrak deszifratzeko gakoa izan zen.
+16	7	2021	197	2020/7/16. ESA Europako Agentzia Espazialaren eta NASAren Solar Orbiter misioak, CSICen parte-hartzearekin, Eguzkiaren lehen mapa magnetikoa lortu zuen. Eguzki-eremu magnetikoak eragiten ditu Eguzkian ikus ditzakegun fenomenoak, hala nola orbanak, ekaitzak edo eguzki-haizea.
+17	7	2021	198	1819/7/17. Eunice Newton Foote klimatologo eta asmatzailea jaio zen. Aitzindaria izan zen berotegi-efektuaren ikerketan. Hiru urtez aurrea hartu zien John Tyndallen esperimentuei; CO2ak atmosferan eragindako efektuaren aurkitzailetzat hartzen zen Tyndall.
+18	7	2021	199	1881/7/18. María de Maeztu pedagogoa eta humanista jaio zen. Emakumeen irakaskuntzako erakunde pedagogiko nagusietako zuzendaria izan zen: Residencia Internacional de Señoritas, Instituto-Escuela eta Lyceum Club Femenino. Ikasleen eskura prestakuntza intelektual bat jartzeko, eta horren bitartez, gizartean berdintasunezko parte-hartze integrala eta erantzukizun zibila sustatzeko lan egin zuen.
+19	7	2021	200	1945/7/19. Nancy Wexler genetista jaio zen. Huntingtonen gaixotasuna eragiten duen genearen lokalizazioa aurkitzeko lanetan lagundu zuen.
+20	7	2021	201	1969/7/20. Apolo 11 misioaren Eagle izeneko ilargi-modulua Ilargiratzeko saioa arrakastaz burutu zen.
+21	7	2021	202	2013/7/21. Larruazal elektroniko sentikor eta malgu bat garatu zen, benetako giza larruazalaren antzekoa. Larruazal horrek zenbait presio-maila detekta ditzake, eta horien aurrean erantzun dezake.
+22	7	2021	203	1871/7/22. Eskozian, Tay ibaiko trenbide-zubiaren lehen harria jarri zuten. Bere garaian, munduko zubirik luzeena izan zen.
+23	7	2021	204	2020/7/23. CSICen parte-hartzea izan zuen azterlan batek aditzera eman zuenez, giza jarduerak sorrarazitako zarata sismikoa % 50 murriztu zen. Eta murrizketa hori gertatu zen, koronabirusaren pandemiaren eraginez hartutako konfinamendu-neurrien ondorioz.
+24	7	2021	205	2009/7/24. Canarias Teleskopio Handia inauguratu zen, Roque de los Muchachos-eko Behatokian. Munduko teleskopio optikorik handiena bihurtu zen.
+25	7	2021	206	1938/7/25. Davida Teller psikologoa jaio zen. Bere lana lagungarria izan zen haurren ikusmenaren garapena ulertzeko.
+26	7	2021	207	2005/7/26. Mangladien ekosistemaren defentsarako Nazioarteko lehen Eguna egin zen.
+27	7	2021	208	1995/7/27. Sheila Rowan irakasleak grabitazio-uhinen gaineko doktorego-tesia aurkeztu zuen.
+28	7	2021	209	1635/7/28. Robert Hooke zientzialari ingelesa jaio zen. Micrographia liburuan, bizitza mikroskopikoa deskribatu zuen lehen pertsona izan zen. Zelula hitza liburu horretan agertu zen lehen aldiz.
+29	7	2021	210	1796/7/29. Walter Hunt asmatzailea jaio zen. Kateorratza sortu zuelako da ezaguna.
+30	7	2021	211	1889/7/30. Vladimir Zworykin ingeniaria jaio zen. Izpi katodikoen hodia asmatu zuen, eta horregatik, telebistaren aita dela esaten da.
+31	7	2021	212	1923/7/31. Stephanie Kwolek kimikaria jaio zen. Kevlar polimeroa sintetizatu zuen lehen aldiz. Pneumatikoen, itsas belen edo balen aurkako txalekoen fabrikazioan erabiltzen da polimero hori, arina delako eta aparteko erresistentzia duelako.
+1	8	2021	213	1920/8/1. Henrietta Lacks jaio zen. 31 urterekin, umetoki-lepoko minbizi baten ondorioz hil zen, eta, nahi gabe, bere minbizi-zelulen emaile bihurtu zen. Zelula horiekin zelula-kultiboko linea hilezkor bat garatu zen, HeLa izenekoa (haren izenaren akronimoa), milaka eta milaka azterlan zientifiko egiteko baliagarri izan dena.
+2	8	2021	214	1941/8/2. Jules Hoffmann biologoa jaio zen. Nobel Saria jaso zuen immunologiaren alorrean egindako azterlanengatik. Lan horiek goitik behera aldatu zuten immunologia-sistema ulertzeko modua, haren aktibaziorako funtsezkoak diren printzipioak aurkituz.
+3	8	2021	215	1958/8/3. Nautilus urpekari atomikoa Ozeano Artikoko azal izoztuaren azpitik igaro zen, Ozeano Baretik Atlantikoraino.
+4	8	2021	216	1932/8/4. Frances Elizabeth Allen informatikaria jaio zen. 2006an, Turing Saria irabazi zuen lehen emakumea izan zen.
+5	8	2021	217	2013/8/5. Japoniako konpainia batek tirita berrerabilgarri bat garatu zuen hipertentsio arterial kronikoa tratatzeko, bisoprolola etengabe askatuz.
+6	8	2021	218	1991/8/6. 1 Tim Berners-Lee konputazioko zientzialariak lehen web zerbitzaria jarri zuen martxan. CERN Ikerketa Nuklearrerako Europako Erakundean zegoen zerbitzari hori."
+7	8	2021	219	1933/8/7. Elinor Ostrom politologoa jaio zen. 2009an, Ekonomiaren Nobel Saria lortu zuen lehen emakumea izan zen. Pertsonek baliabide komunen produkzio-mailak epe luzera iraunarazteko nola interaktuatzen duten aztertu zuen.
+8	8	2021	220	1948/8/8. Svetlana Savítskaya ingeniari eta kosmonauta jaio zen. Kanpo-espaziora bi bidaia egin zituen eta hartan barrena ibili zen lehen emakumea izan zen.
+9	8	2021	221	1966/8/9. Glenn Postolski ikertzailea jaio zen. Gizarte Zientzien alorreko lanak egin zituen, komunikabide masiboen politikak eta komunikaziorako eskubidea ardatz hartuta.
+10	8	2021	222	2017/8/10. IGMEko talde batek lehen aldiz lortu zuen sumendi-lumen irudi akustikoen sekuentzia bat, urpeko sumendi baten erupzioan zehar. El Hierro uhartetik gertu egin zen ikerketa.
+11	8	2021	223	1858/8/11. Christiaan Eijkman Nobel Saria jaio zen. Bitaminek dietan duten garrantzia aurkitu zuelako da ezaguna. B1 bitamina aurkitu zuen.
+12	8	2021	224	1898/8/12. María Vasílievna Kliónova itsas geologoa jaio zen. Antartikan ikertu zuen lehen emakumea izan zen.
+13	8	2021	225	1797/8/13. Casiano de Prado ingeniari eta geologoa jaio zen. 1862an, Iberiar penintsulako lehen aurkikuntza paleolitikoetan parte hartu zuen Manzanares ibaiaren haranean.
+14	8	2021	226	1777/8/14. Hans Christian Oersted jaio zen. Elektromagnetismoa aurkitu zuen fisikaria izan zen.
+15	8	2021	227	1896/8/15. Gerty Cori biokimikaria jaio zen. Carl senarrarekin batera, glukogenoaren bihurketa katalitikoaren mekanismoa aurkitu zuen: Coriren zikloa. Fisiologia eta Medikuntzaren Nobel Saria irabazi zuen lehen emakumea izan zen.
+16	8	2021	228	1884/8/16. Hugo Gernsback fikzio-zientziaren aitzindaria jaio zen. Egundoko talentua eta irudimena zuen, eta patente ugari erregistratu zituen. Esaterako, irratiko soinua hobeto hartzeko tresna bat, argizaririk gabe bipiltzeko metodo berri bat, edo makina hegalariak lurreratzeko plataforma bat.
+17	8	2021	229	1737/8/17. Antoine Parmentier agronomo, higienista eta nutrizionista jaio zen. Haren ahaleginei esker, patataren hazkuntza debekatzen zuten legeak indargabetu ziren. Ordura arte, Europako ia herrialde guztiek uste zuten patata ezin zitekeela jan.
+18	8	2021	230	1824/8/18. Real Conservatorio de Artes y Oficios sortu zen; informazio teknologiko guztia biltegiratzen du, eta jabetza intelektualaren erregistroa da.
+19	8	2021	231	1790/8/19. Edward John Dent erlojugilea jaio zen. Zehaztasun handiko erlojuak eta itsas kronometroak sortu zituelako da ezaguna. Londreseko Big Ben dago bere erlojurik ospetsuenen artean.
+20	8	2021	232	1994/8/20. Txertaketa-kanpainei esker, Amerikako kontinentean poliomielitisa desagerrarazia zela deklaratu zuten.
+21	8	2021	233	1961/8/21. Mara Dierssen neurobiologoa jaio zen. Mundu-mailako aditua da neurobiologia eta farmakologiaren eremuan, eta Downen sindromearen ikertzaile nagusietako bat.
+22	8	2021	234	1945/8/22. Ida Henrietta Hyde fisiologoa hil zen. Mikroelektrodo bat garatu zuen, ehunak estimulatzeko behar adinako indarra izanik, zelula batetik ehuna ateratzeko behar bezain txikia zena.
+23	8	2021	235	1931/8/23. Hamilton O. Smith mikrobiologoa jaio zen. Nobel Saria jaso zuen murrizketa-entzimen gainean egin zituen lanengatik; puntu jakinetan azido nukleikoak ebakitzeko gai dira entzima horiek.
+24	8	2021	236	1890/8/24. Pearl Louella Kendrick bakteriologoa jaio zen. Tosferinaren aurkako lehen txertoa garatu zuelako da ezaguna. Grace Eldering osasun publikoko adituarekin eta Loney Gordon kimikariarekin elkarlanean egin zuen.
+25	8	2021	237	1900/8/25. Hans Adolf Krebs Nobel Saria jaio zen. “Krebsen zikloari” izena eman zion: ibilbide metaboliko bat da, zelula aerobioetarako energia lortzea ahalbidetzen duena.
+26	8	2021	238	1860/8/26. Luis Siret y Cels ingeniari eta arkeologoa jaio zen. Kultura argarikoaren lehen aztarnategiak aurkitu zituen, Espainiako ipar-ekialdean. Gizarte argarikoa garrantzitsuenetako bat izan zen Europan, K.a. III. eta II. milurtekoetan.
+27	8	2021	239	1956/8/27. Calder Halleko zentral nuklearra, Erresuma Batuan biztanleria zibila elektrizitatez hornitu zuen lehena izan zen.
+28	8	2021	240	2013/8/28. Miniaturazko giza garunak hazi ziren, ilar baten tamainakoak, ama zeluletatik abiatuta.
+29	8	2021	241	2019/8/29. Geneek sexu-jokabidean duten garrantzia aztertzeko egin den azterlanik handienak berretsi zuen homosexualitatearen gen bakar bat ez dagoela, giza sexualitatearen konplexutasuna agerian jarriz.
+30	8	2021	242	1984/8/30. Discovery espaziontzia lehen aldiz aireratu zen. NASArentzat 39 misio egin zituen.
+31	8	2021	243	1912/8/31. Robert F. Borkenstein ikertzailea jaio zen. Alkohol-kontsumoak trafiko-istripuetan duen eragina ikertu zuen. Alkoholimetroa asmatu zuen, botatako arnasan alkohol-maila neurtzeko tresna iraultzaile bat.
+1	9	2021	244	1914/9/1. Martha hil zen, azken uso migratzailea (Ectopistes migratorius). 29 urte zeuzkan, eta itxian bizi zen Cincinnatiko zoologikoan, Estatu Batuetan. Mende bakar batean Ipar Ameriketan hegazti ugariena izatetik desagertzera igaro zen.
+2	9	2021	245	1948/9/2. Christa Corrigan McAuliffe bigarren hezkuntzako irakaslea jaio zen. 11.000 eskatzaile baino gehiagoren artean hautatu zuten NASAren "Irakaslea Espazioan" Proiektuan parte hartzeko. Christaren asmoa zen espaziotik esperimentuak egitea eta eskolak ematea. Bidaian zeraman transbordadore espaziala lehertu zen, aireratu eta 72 segundora.
+3	9	2021	246	1938/9/3. Ryōji Noyori kimikaria jaio zen. Nobel Saria irabazi zuen katalisiari buruz egin zituen ikerketengatik. Besteak beste, mentola sortzeko erabiltzen dira haren metodoak.
+4	9	2021	247	1998/9/4. Larry Pagek eta Sergei Brinek Google sortu zuten. Bilatzailea 1996an garatzen hasi zen ikerketa-proiektu baten antzera, biak doktoregoa ikasten ari zirela.
+5	9	2021	248	1885/9/5. Lehen gasolindegia ezarri zen. Indianako garaje batean izan zen, Estatu Batuetan.
+6	9	2021	249	1860/9/6. Jane Addams soziologoa eta Bakearen Nobel Saria jaio zen. Aitzindaria izan zen gizarte-lanean, eta Hull House harrera-etxea sortu zuen, emakumeentzako erakunde soziologiko gisa ere baliatu zena. Haren lanek eragin handia izan zuten Chicagoko soziologia-eskolan.
+7	9	2021	250	2016/9/7. IGMEko, CSICeko Instituto de Ciencias del Mar-eko eta Kanaria Handiko Las Palmaseko Unibertsitateko ikertzaileek aurkitu zutenez, El Hierro uharteak bere bolumenaren % 40 galdu zuen luizi itzel baten ondorioz. Megairristatze hori orain 80.000 urte gertatu zen.
+8	9	2021	251	1871/9/8. Mary Elizabeth Hallock-Greenewalt asmatzailea eta pianista jaio zen. Haren patenteek bide eman zuten Sarabet "koloretako organoa" garatzeko. Tresna horrek koloretako argiak emititzen zituen, musikarekin sinkronizatuta zeuden intentsitate eta ñabardurekin.
+9	9	2021	252	1936/9/9. Daisy Roulland-Dussoix mikrobiologo molekularra jaio zen. Murrizketa-entzimen aurkikuntzan lagundu zuen.
+10	9	2021	253	1984/9/10. Aztarna genetikoaren teknika abian jarri zen, pertsonak DNAren arabera identifikatzea ahalbidetzen duena. Pixka bat geroago, teknika hori kriminologian erabiltzen hasi zen.
+11	9	2021	254	1942/9/11. Deirdre McCloskey ekonomialaria eta ekonomiaren historialaria jaio zen. Besteak beste, mundu modernoko jatorrien, ekonomian esangura estatistikoa gaizki erabiltzearen eta kapitalismoaren gaineko ikerketak egin zituen.
+12	9	2021	255	1958/9/12. Jack Kilby ingeniari elektrikoak munduko lehen zirkuitu integratua aurkeztu zuen. Zirkuitu integratuei txipak edo mikrotxipak ere esaten zaie.
+13	9	2021	256	1956/9/13. IBM enpresak aurkeztu zuen diskoan biltegiratzeko aukera ematen zuen lehen ordenagailu komertziala.
+14	9	2021	257	1849/9/14. Iván Pavlov fisiologoa eta Nobel Sariduna jaio zen. Txakurrengan estimulua-erantzuna eredua deskribatu zuen: Pavloven baldintzapena.
+15	9	2021	258	1885/9/15. Constantin Fahlbergek sakarina patentatu zuen. Gozagarri hori lehen aldiz sintetizatu zen harrikatz-mundrunaren deribatuetatik abiatuta.
+16	9	2021	259	1884/9/16. Anestesia lokalaren eraginpeko lehen ebakuntza egin zen. Arrakasta izan zuenez, haren erabilera odontologian orokortu zen.
+17	9	2021	260	1857/9/17. Konstantín Tsiolkovski fisikaria eta matematikaria jaio zen. 10 urte zituela gor geratu zen, eta guztiz autodidakta izan zen. Haren lanek ahalbidetu zuten lehen satelite artifiziala orbitan jartzea, eta pertsona batek espaziora lehen bidaia egitea.
+18	9	2021	261	1819/9/18. Jean Foucault fisikaria jaio zen. Giroskopioa asmatu zuen, baita Lurraren biraketa frogatzen duen pendulua ere.
+19	9	2021	262	1991/9/19. Paleolitoko pertsona baten (Ötzi) hondar momifikatuak aurkitu zituzten Alpeetako Similaun glaziarrean, Italiaren eta Austriaren arteko mugan.
+20	9	2021	263	1906/9/20. Vera Faddéyeva matematikaria jaio zen. Algebra linealari buruzko lehen lanetako batzuk argitaratu zituen.
+21	9	2021	264	1866/9/21. Charles Nicolle medikua eta mikrobiologoa jaio zen. Nobel Saria irabazi zuen, zorriak tifusaren transmisore nagusiak zirela aurkitu zuelako.
+22	9	2021	265	1863/9/22. Alexandre Yersin mikrobiologoa jaio zen. Izurri bubonikoa eragiten duen bakterioaren koaurkitzailea izan zen, haren omenez Yersinia pestis izendatu zutena.
+23	9	2021	266	1889/9/23. Nintendo sortu zen. Japoniar karta-sorten fabrika bat zen hasiera batean. 1975ean bideojokoak garatzen hasi ziren, eta, gaur egun, munduko enpresa nagusietako bat da entretenimenduko softwarearen eta hardwarearen alorrean.
+24	9	2021	267	1905/9/24. Severo Ochoa mediku eta zientzialari espainiarra jaio zen. Nobel Saria irabazi zuen RNA azido erribonukleikoari buruz egin zituen azterlan aitzindariengatik.
+25	9	2021	268	1899/9/25. Margaret Kennard neurologoa jaio zen. Primateen kalte neurologikoaren efektuen gainean egin zituen azterlanengatik da ezaguna.
+26	9	2021	269	2013/9/26. NASAko Curiosity Roverrek ur-kantitate handi bat detektatu zuen, erraz iristeko modukoa, Marteko Gale kraterrean.
+27	9	2021	270	1818/9/27. Cosme García asmatzailea jaio zen. Urpekari-prototipo bat patentatu zuen lehen espainiarra izan zen. Behin eraiki ondoren, urpekari hori arrakastaz probatu zuten Alacanteko portuan, 1860an.
+28	9	2021	271	1889/9/28. Pisu eta Neurriei buruzko lehen Konferentzia Orokorrean metro baten luzera honela definitu zuten: platino eta iridioko (% 10) aleazio batez fabrikatutako barra bateko bi lerroen arteko distantzia, izotzaren fusio-puntuan neurtua.
+29	9	2021	272	1938/9/29. Enrico Fermi fisikaria jaio zen. 1938an, Fisikaren Nobel Saria jaso zuen, erradioaktibitate artifizialari buruz egin zituen lanengatik. Lau urte geroago, giza jatorriko lehen erreakzio nuklearra egin zuen.
+30	9	2021	273	2009/9/30. Mallorcako Behatoki Astronomikoak iragarri zuen '2009QG31 La Sagra' kometa aurkitua zuela, Marteren orbitatik haratago.
+1	10	2021	274	1883/10/1. Espainian, telefonoz komunikatzeko lehen saiakera egin zuten. Linea Errege Jauregiaren eta Ministerioen artean zegoen, Madrilen.
+2	10	2021	275	1846/10/2. Gaztelako telegrafia optikoko linea abian jarri zen, Madriletik Iruneraino. José María Mathék asmatu zuen.
+3	10	2021	276	1946/10/3. Rosalind Franklin kimikari eta kristalografoak ikatzaren kimikaren gaineko doktorego-lana argitaratu zuen. DNAren egitura molekularra ulertzeko funtsezko lana izan zen.
+4	10	2021	277	1949/10/4. Mariano Barbacid biokimikaria jaio zen. Lehen giza onkogenea isolatu zuen (H-ras). Onkogeneen eraginez, zelula arrunt bat minbizi bat garatuko duen zelula gaizto bihurtzen da.
+5	10	2021	278	1963/10/5. Francisco Juan Martínez Mojica mikrobiologoa jaio zen. Arkeoetan CRISPR sekuentzia errepikatuak aurkitu zituen. Aurkikuntza horretan oinarritzen da, neurri batean, edizio genetikoko CRISPR-Cas teknologia.
+6	10	2021	279	1897/10/6. Florence Barbara Seibert biokimikaria jaio zen. Tuberkulinatik eratorritako proteina (PPD-S) arazteko metodo bat garatu zuen. Horri esker, tuberkulosirako test fidagarri bat sortzeko aukera izan zuten.
+7	10	2021	280	1948/10/7. Diane Ackerman naturalista eta idazlea jaio zen. Zientzia-zabalkundeko lanetan, poesia eta estilo xume bat uztartzen ditu, eta, horri esker, argitalpen-arrakasta handia lortu du.
+8	10	2021	281	1958/10/8. Ake Senning zirujau suediarrak lehen taupada-markagailua inplantatu zuen.
+9	10	2021	282	1902/10/9. Nazioarteko komunitate zientifikoak Altamirako kobako Paleolito artearen egiazkotasuna onetsi zuen. María Sanz de Sautuola neskatoak lehenago aurkituak zituen pintura horiek, Marcelino aitarekin kobazuloan barrena zebilela.
+10	10	2021	283	1966/10/10. Carolyn Bertozzi kimikaria jaio zen. Gluzidoek minbizian, artritisean, tuberkulosian eta beste hainbat gaixotasunetan betetzen duten zeregina aztertu zuen.
+11	10	2021	284	1755/10/11. Fausto Delhuyar kimikaria jaio zen. Kimikaria ere bazen Juan José anaiarekin batera, wolframioa isolatu zuten lehen aldiz (74 zenbakia Taula Periodikoan). Metal hori oso urria da, eta oso preziatua aplikazio ugari dauzkalako.
+12	10	2021	285	1920/10/12. Leslie Barnett mikrobiologoa jaio zen. Geneen egituraren eta funtzioen gaineko aurrerapen eta aurkikuntza nagusietako batzuetan lagundu zuen.
+13	10	2021	286	1914/10/13. Garret Morganek gas-maskara patentatu zuen. Urte batzuk geroago, asmatzaile horrek semaforo automatikoa sortu zuen, ohartarazpen-argiaz hornitua.
+14	10	2021	287	1865/10/14. Edith Rebecca Saunders genetista jaio zen. Zeregin garrantzitsu bat bete zuen Mendelen legearen berraurkikuntzan eta landareen genetika ulertzean.
+15	10	2021	288	1902/10/15. Amparo Poch y Gascón medikua jaio zen. Haur-heziketan espezializatu zen, eta hezkuntza-lan handia egin zuen klase sozial apalenen artean, gaixotasun benereoak saihesteko.
+16	10	2021	289	1969/10/16. Doñana Parke Nazional bihurtu zen. Bertako padura paseko, hazkuntzako eta negu-pasako gunea da Europako eta Afrikako milaka hegaztirentzat.
+17	10	2021	290	1919/10/17. Espainiako lehen metro-linea abian jarri zen. Puerta del Soletik Cuatro Caminosera zihoan, Madrilen.
+18	10	2021	291	1799/10/18. Christian Schoenbein kimikaria jaio zen. Nitrozelulosa aurkitu zuen, eta ozonoari izena eman zion.
+19	10	2021	292	1924/10/19. Rosemary Bamforth patologoa jaio zen. Itsasontzietako langileen minbiziagatiko heriotzaren eta amiantoarekiko esposizioaren arteko lotura ezarri zuen.
+20	10	2021	293	1850/10/20. Alice Blanche Balfour naturalista jaio zen. Entomologiaren alorrean jardun zuen, eta genetikan aitzindaria izan zen. Zebren marretako patroia nola heredatzen den aztertu zuen.
+21	10	2021	294	1879/10/21. Thomas Edisonek bonbila elektrikoa aurkeztu zuen.
+22	10	2021	295	1949/10/22. Rafael Matesanz medikua jaio zen. 1989an Organización Nacional de Trasplantes (ONT) erakundea sortu zuen, eta, bertan ezarritako protokoloei esker, Espainia liderra da munduan transplanteen alorrean.
+23	10	2021	296	1887/10/23. Espainiako Armada Peral urpekaria eraikitzen hasi zen. Propultsio elektriko bidezko torpedo-urpekari hori historiako lehen urpekari militarra izan zen.
+24	10	2021	297	1924/10/24. Evangelina Villegas biokimikaria eta zerealetan aditua jaio zen. Surinder K. Vasal lankidearekin batera, kalitate handiko arto-proteina garatu zuen, eta horregatik, Elikagaien Mundu Saria lortu zuten.
+25	10	2021	298	1906/10/25. Santiago Ramón y Cajali jakinarazi zioten Medikuntzaren Nobel Saria irabazia zuela. Itxura denez, "ikasleen txantxa" baten aurrean zegoela esan zuen, hasiera batean. Hurrengo egunean egunkarietan irakurri zuen.
+26	10	2021	299	1878/10/26. Sixto Cámara Tecedor matematikaria jaio zen. Asociación Española para el Progreso de las Ciencias, Sociedad Matemática Española eta Laboratorio y Seminario Matemático de la Junta para la Ampliación de Estudios erakundeen kofundatzailea izan zen.
+27	10	2021	300	1904/10/27. Philip Downingek, oraindik erabiltzen dugun posta-kutxa asmatu zuen.
+28	10	2021	301	1848/10/28. Iberiar penintsulako lehen trenbidea inauguratu zen. Bartzelona eta Mataró lotzen zituen, eta, eraikuntza-lanetarako, Espainiako lehen trenbide-tunela zulatu behar izan zuten.
+29	10	2021	302	1969/10/29. Kaliforniako unibertsitate desberdinetako bi ordenagailuk elkarrekin konektatzea eta ARPANET protokolo berriaren bitartez mezu bat bidaltzea lortu zuten. Sare hori Interneten aitzindaria izan zen.
+30	10	2021	303	1900/10/30. Ragnar Granit zientzialaria jaio zen. Nobel Saria irabazi zuen begiko prozesu fisiologiko eta kimikoak aurkitzeagatik.
+31	10	2021	304	1798/10/31. John Daltonek diskromatopsia aurkitu zuen. Ikusmenaren gaixotasun horri daltonismoa esaten zaio normalean.
+1	11	2021	305	1952/11/1. 100 atomo-zenbakia daraman elementu kimikoa lehen aldiz isolatu zen. Fermio izena jarri zioten, Enrico Fermi fisikariaren omenez.
+2	11	2021	306	1919/11/2. Marie Morisawa jaio zen, ingurumen-geomorfologiaren fundatzaileetako bat. Geomorfologiak geografia eta geologia uztartzen ditu, lurreko azalaren formak aztertzeko eta gaur egun nola osatzen eta portatzen diren ulertzeko.
+3	11	2021	307	1957/11/3. Laikak espaziora bidaia egin zuen, Sputnik 2 ontzian. Hala, hegaldi espazial bat egin zuen lehen animalia izan zen.
+4	11	2021	308	2008/11/4. IGMEko ikerketa-talde batek El Soplaoko Kretazeoko anbar-hobiaren berri eman zuen. Aparteko tamaina eta aberastasuna dauzka, eta bertako anbar moreak sekulako luminiszentzia dauka, munduan parerik ez duena.
+5	11	2021	309	1794/11/5. Elizabeth Fulhame kimikariak "Errekuntzari buruzko saiakera bat" argitaratu zuen. Lehen katalisi-adibidea deskribatu zuen bertan.
+6	11	2021	310	1935/11/6. Edwin Armstrong ingeniariak "Irratiko eragozpenak murrizteko metodo bat, frekuentzia bidezko modulazio-sistema baten bidezkoa" izeneko azterlana aurkeztu zuen. Horrela FM irratia sortu zen: frekuentzia modulatua.
+7	11	2021	311	1867/11/7. Marie Curie kimikari eta fisikaria jaio zen. Erradioaktibitatea terminoa sortu zuen, eta espezialitate desberdinetan (Fisika eta Kimika) bi Nobel Sari jaso zituen lehen pertsona izan zen.
+8	11	2021	312	1878/11/8. Dorothea Bate paleontologo eta zoologoa jaio zen. Zooarkeologian aitzindaria izan zen, eta, Dorothy Garrodekin batera, deskribatu gabe zeuden hainbat espezieren hondar fosilak aurkitu zituen.
+9	11	2021	313	1795/11/9. James Barry zirujaua jaio zen. Armada britainiarreko medikua izan zen, eta zauritutako soldaduen baldintzak hobetzeko lan egin zuen. Afrikan egiaztatutako lehen zesarea arrakastatsua gauzatu zuen.
+10	11	2021	314	1983/11/10. Fred Cohen doktorego-ikasleak programa informatiko bat sortu zuen, berez instalatzeko, erreplikatzeko eta beste makina batzuetara hedatzeko gai dena. Horrela, lehen birus informatikoa sortu zen.
+11	11	2021	315	1930/11/11. Mildred Dresselhaus fisikaria jaio zen. Ikatzaren zientziako erregina deitzen diote grafitoaren gaineko lan bikainak egin dituelako.
+12	11	2021	316	1919/11/12. Grete Kellenberger-Gujer biologo molekularra jaio zen. Ospea lortu du birkonbinazio genetikoaren eta DNAren murrizketaren gainean egin dituen aurkikuntzengatik.
+13	11	2021	317	2013/11/13. NASAk bideo bat aurkeztu zuen, orain 4.000 milioi urte Marte, zeru urdinekin eta urarekin, nola izan zitekeen erakusteko.
+14	11	2021	318	1863/11/14. Leo Baekeland kimikaria jaio zen. Bakelita asmatu zuen, lehen plastiko sintetikoa. Oso ezaguna egin zen merkea eta moldaerraza zelako.
+15	11	2021	319	1873/11/15. Sara Josephine Baker medikua jaio zen. Haurren heriotza-tasa murrizteko ekarpen garrantzitsuak egin zituen.
+16	11	2021	320	1940/11/16. María Josefa Yzuel Giménez fisikaria jaio zen. Optikaren alorreko ikerlanak egin ditu, eta hainbat sari jaso ditu estatuan eta nazioartean.
+17	11	2021	321	2015/11/17. Guztira 195 estatuk berretsi zuten UNESCOren Mundu Geoparkeen sorkuntza. Leku horietako ondare geologikoak garrantzia du nazioartean, eta, horregatik, bertan bizi diren komunitateen garapen jasangarria sustatzeko erabiltzen dira.
+18	11	2021	322	2010/11/18. ASURrek Eskola Egutegi Zientifikoaren lehen edizioa kaleratu zuen, Errumanian.
+19	11	2021	323	2006/11/19. Japoniako Nintendo bideojoko-konpainiak Wii kontsola merkaturatu zuen.
+20	11	2021	324	1985/11/20. Leonard Lee Bailey zirujauak haur jaio berri bati lehen bihotz-transplante arrakastatsua egin zion.
+21	11	2021	325	2013/11/21. Hego Poloko IceCube behatokiak energia handiko neutrinoak detektatu zituen, jatorri estralurtarrekoak. Gure eguzki-sistemaren kanpotik datoz.
+22	11	2021	326	2013/11/22. Bönneko Unibertsitateko ikerketa-talde batek jatorri neandertaleko gene bat aurkitu zuen gaur egungo pertsonengan. Immunitatearen genea da, giza gorputz barrura sartzen diren arrotz arriskutsuak ezagutzeko eta erantzun immune bat emanez haien aurrean defendatzeko aukera ematen duena.
+23	11	2021	327	2002/11/23. Ángel Martín Municio biokimikaria hil zen, Biologia Molekularreko Europako Erakundeko lehen kide espainiarra. Zientzia Zehatzen, Fisikoen eta Naturalen Errege Akademiako presidentea izan zen, 17 urtez.
+24	11	2021	328	2021/11/24. Eboluzioaren eguna. 1859an Charles Darwinen "Espezieen jatorria" liburua argitaratu izana ospatzen da.
+25	11	2021	329	1884/11/25. Esne lurrundua sortzeko metodo bat patentatu zen, esnea luzaroago kontserbatzeko aproposa. Egun berean makina bat patentatu zen, esne hori kontserbatzeko erabilitako latak esterilizatzearren.
+26	11	2021	330	1857/11/26. Ferdinand de Saussure hizkuntzalaria jaio zen. Hizkuntzalaritza zientifikoaren aitzindaria da.
+27	11	2021	331	1895/11/27. Alfred Nobelek bere testamentua sinatu zuen. Testamentu horretan ezarri zuen funts bat sortu beharra zegoela urtean bost sari emateko: Nobel Sariak.
+28	11	2021	332	1920/11/28. Sagrario Ramírez Gallardo kimikaria jaio zen. Gasolina solidoa asmatu eta patentatu zuen.
+29	11	2021	333	1926/11/29. Dilhan Eryurt astronomoa jaio zen. Haren lanari esker, NASAk funtsezko informazioa eskuratu zuen, eguzkiak ilargiaren ingurunean eragindako inpaktua modelatzeko. Sari bat eman zioten Apolo 11 ilargiratzean egin zuen ekarpenarengatik.
+30	11	2021	334	1720/11/30. María Andresa Casamayor y de la Coma matematikari eta idazlea jaio zen. "Tirocinio Arithmetico" idatzi zuen, matematika eguneroko bizitzatik eta eguneroko bizitzarako irakasteko lana. Casandro Mamés de La Marca y Araioa gizonezko ezizenarekin argitaratu zuen liburu hori, bere izeneko letrak beste ordena batean erabiliz.
+1	12	2021	335	1913/12/1. Mary Ainsworth psikologoa jaio zen. John Bowlbyrekin batera, atxikimenduaren teoria garatu zuen.
+2	12	2021	336	1942/12/2. Enrico Fermik Chicago Pile-1 jarri zuen martxan, munduko lehen erreaktore nuklear artifiziala. Uraniozko pila bat eta grafitozko blokeak erabili zituzten erreaktorea osatzeko.
+3	12	2021	337	1842/12/3. Ellen Swallow Richards kimikari eta ekologoa jaio zen. Ingurumen-higienearen fundatzaileetako bat izan zen, ekologia modernoaren aurreko fase batean.
+4	12	2021	338	1844/12/4. Augusto Arcimís jaio zen. Espainiako lehen meteorologo profesionala eta Institutu Zentral Meteorologikoko (gaur egun, Meteorologiako Estatu Agentzia) lehen zuzendaria izan zen.
+5	12	2021	339	1854/12/5. Aaron H. Allenek eserleku eraisgarriko besaulkia patentatu zuen. Gaur egun, besaulki mota hori munduko ia antzoki eta auditorium guztietan erabiltzen da.
+6	12	2021	340	1888/12/6. Libbie Henrietta Hyman zoologoa jaio zen. "Ornogabeak" idatzi zuen, sei liburukiko lana, oraindik ere erreferentziazkoa dena.
+7	12	2021	341	1949/12/7. Ángela Ruiz Roblesek Entziklopedia Mekanikoa patentatu zuen. Asmakizun hori liburu elektronikoaren aitzindaritzat jotzen da. Aniztasunaren arretarako ikuspegi sendo bat biltzen zuen, integratzeko arazoak zeuzkaten ikasleei audio eta lupak eskuratzeko aukera emanez.
+8	12	2021	342	2013/12/8. Lyongo Unibertsitatean, harkaitzetatik eta uretik hidrogenoa ateratzeko metodo berri bat aurkeztu zuten. Teknika hori, energia berdeko iturri berri bat izan liteke.
+9	12	2021	343	1979/12/9. Lehen aldiz, gaixotasun bat desagerrarazi zen. Baztanga izan zen, eta txertaketari esker lortu zen.
+10	12	2021	344	1823/12/10. Mary Anning paleontologoak plesiosaurio baten lehen eskeleto osoa aurkitu zuen. Itsas narrasti handi hori Jurasikoaren hasieran bizi izan zen.
+11	12	2021	345	1863/12/11. Annie Jump Cannon astronomoa jaio zen. 300 izar aldakor aurkitu zituen, eta bere katalogazio-lana funtsezkoa izan zen gaur egun dugun izar-sailkapena lortzeko.
+12	12	2021	346	1901/12/12. Guglielmo Marconik lehen irrati-komunikazio transatlantikoa gauzatu zuen, Erresuma Batuko Cornuallesetik Kanadako Ternuara bitarte.
+13	12	2021	347	1816/12/13. Werner von Siemens asmatzailea jaio zen. Ingeniaritza elektrikoaren aitetako bat dela esaten da, eta haren abizena, sortu zuen enpresari lotuta geratu da betiko: Siemens.
+14	12	2021	348	1911/12/14. Roald Amundsenek zuzendutako norvegiar espedizioa Hego Polora iritsi zen. Bertan denda bat utzi zuten, eta, dendaren barruan, gutun bat, lorpenaren testigantza uzteko, litekeena zelako taldeak onik itzultzeko aukerarik ez izatea.
+15	12	2021	349	2010/12/15. Malaspina Zirkumnabigazio Espedizioa abiatu zen. Hespérides eta Sarmiento de Gamboa (CSIC) ontziek munduari bira eman zioten, ikerketa zientifikoak egiteko, ikertzaile gazteak trebatzeko eta itsas zientziak sustatzeko. XVIII. mendean Alejandro Malaspinak zuzendu zuen espedizioaren omenez jarri zioten izen hori.
+16	12	2021	350	1954/12/16. Tracy Hallek lehen diamante sintetikoak sortu zituen General Electrics-en laborategietan.
+17	12	2021	351	2014/12/17. IGMEko eta Bartzelonako eta Harvardeko Unibertsitateetako azterlan batek, Araban "lurreko ganbak" zeudela frogatu zuen. Krustazeo horiek orain 105 milioi urte bizi izan ziren, eta anbarrean kontserbatu ziren.
+18	12	2021	352	2019/12/18. Martsupialengan parasito espezie berri bat deskribatu zen. Theileria lupei du izena, eta Guadalupe Miró albaitaria omendu nahi du parasitologiari egindako ekarpenarengatik.
+19	12	2021	353	2016/12/19. Nature aldizkariaren ustetan, Alexandra Elbakyan zientziaren urteko hamar pertsona garrantzitsuenetako bat izan zen. Alexandrak Sci-Hub sortu zuen, milioika zientzia-artikulutan doan sartzeko bidea ematen duen webgunea.
+20	12	2021	354	1852/12/20. Kitasato Shibasaburō bakteriologoa jaio zen. Izurri bubonikoa eragiten duen bakterioaren koaurkitzailea izan zen, eta tetanoserako, difteriarako eta antraxerako tratamenduak garatu zituen. Horrez gain, laborategiko tresna bati izena eman zion: kitasato matrazea.
+21	12	2021	355	1773/12/21. Robert Brown botanikaria jaio zen. Likidoetan esekitako partikula txiki-txikiak mugitu egiten direla aurkitu zuen. Brownen mugimendua esaten zaio horri.
+22	12	2021	356	1882/12/22. Edward Hibberd Johnson, munduan Gabonetako zuhaitza argi elektrikoekin apaindu zuen lehen pertsona izan zen. Garai hartan kandelak erabiltzeko ohitura zuten, eta horren ondorioz sute ugari izaten ziren.
+23	12	2021	357	1947/12/23. Walter Brattain eta John Bardeen fisikariek lehen transistorea garatu zuten. Gailu hori, aparatu elektroniko gehienen funtzionamenduaren oinarria da.
+24	12	2021	358	1913/12/24. Miriam Michael Stimson kimikaria jaio zen. Potasio-bromurozko diskoaren teknika garatu zuen. Laginak prestatzeko metodo horrek analisia hobetzen du espektroskopia infragorriaren bitartez.
+25	12	2021	359	1901/12/25. Richard Shope jaio zen, animalien patologian espezialista eta influenzabirus bat lehen aldiz isolatu zuena. Birus horiek gripea eragiten dute hegazti eta ugaztunengan, gizakiak barne.
+26	12	2021	360	1780/12/26. Mary Fairfax Greig Somerville matematikari eta astronomoa jaio zen. Uranoren orbita aldarazten zuen planeta bat zegoela proposatu zuen. Ondoren, planeta hori Neptuno zela frogatu zen.
+27	12	2021	361	1822/12/27. Louis Pasteur kimikari eta mikrobiologoa jaio zen. Hartziduraren atzean mikroorganismoak zeudela frogatu zuen, eta pasteurizazioa asmatu zuen. Metodo horrek ahalbidetzen du mikrobioak likidoetan kontrolatzea, esnean adibidez.
+28	12	2021	362	1956/12/28. Teresa Rodrigo Anoro fisikaria jaio zen. Zeresan handia izan zuen Higgs bosoiaren aurkikuntzan, 2012. urtean. Kantabriako Fisika Institutuko zuzendaria izan zen, eta CERNeko Politika Zientifikoko Batzordeko kidea izan zen.
+29	12	2021	363	1800/12/29. Charles Goodyear asmatzailea jaio zen. Kautxua bulkanizatzeko prozesua aurkitu zuen, pneumatikoak egiteko baliagarria.
+30	12	2021	364	1930/12/30. Youyou Tu kimikari eta farmazialaria jaio zen. Nobel Saria jaso zuen malariaren aurkako terapia berri bat aurkitzeagatik.
+31	12	2021	365	2019/12/31. OMEren Txinako bulegoak abisu bat jaso zuen, Wuhan hirian jatorri ezezaguneko zenbait pneumonia-kasu zeudela zioena. Geroago, gaixotasunaren eragilea SARS-CoV-2 koronabirusa zela zehaztu zuten

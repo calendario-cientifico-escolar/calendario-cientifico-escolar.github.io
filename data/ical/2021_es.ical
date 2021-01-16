@@ -1,0 +1,2924 @@
+BEGIN:VCALENDAR
+PRODID:-//Ben Fortuna//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:20210101-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210101
+SUMMARY:1 de enero de 1914
+DESCRIPTION:1 de enero de 1914. Nació Manuela Garín Pinillos\, una de las pioneras de la matemática mexicana. Sus modelos matemáticos ayudaron a explicar el campo magnético de la Tierra.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210102-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210102
+SUMMARY:2 de enero de 1839
+DESCRIPTION:2 de enero de 1839. Louis Daguerre intentó hacer la primera foto del espacio. Para hacerla utilizó un daguerrotipo y un telescopio\, pero no tuvo éxito (la foto salió borrosa).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210103-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210103
+SUMMARY:3 de enero de 1871
+DESCRIPTION:3 de enero de 1871. Henry Bradley patentó la primera margarina. Su receta estaba hecha principalmente con aceite de algodón y grasa animal.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210104-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210104
+SUMMARY:4 de enero de 1963
+DESCRIPTION:4 de enero de 1963. Nació la neurocientífica May-Britt Moser. Recibió un Premio Nobel por su investigación sobre las células de red situadas en el cerebro.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210105-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210105
+SUMMARY:5 de enero de 1895
+DESCRIPTION:5 de enero de 1895. Nació la microbióloga Rebecca Craighill Lancefield. Inventó un nuevo método para clasificar las bacterias del grupo Streptococcus.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210106-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210106
+SUMMARY:6 de enero de 1838
+DESCRIPTION:6 de enero de 1838. Samuel Morse y Alfred Vail utilizaron el telégrafo en público por primera vez. Este invento se convirtió en uno de los sistemas de comunicación más populares durante décadas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210107-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210107
+SUMMARY:7 de enero de 1992
+DESCRIPTION:7 de enero de 1992. La empresa AT&T presentó el videófono. Fue el primer teléfono con pantalla de vídeo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210108-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210108
+SUMMARY:8 de enero de 1988
+DESCRIPTION:8 de enero de 1988. La Base Antártica Española Juan Carlos I quedó inaugurada. Esta base científica está gestionada por el CSIC y se localiza en la isla Livingston de la Antártida.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210109-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210109
+SUMMARY:9 de enero de 1923
+DESCRIPTION:9 de enero de 1923. El inventor Juan de la Cierva utilizó con éxito el autogiro. Esta aeronave es una mezcla de avión y helicóptero.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210110-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210110
+SUMMARY:10 de enero de 1860
+DESCRIPTION:10 de enero de 1860. El metro de Londres quedó inaugurado. Este metro es el sistema de transporte público bajo tierra más antiguo del mundo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210111-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210111
+SUMMARY:11 de enero de 1907
+DESCRIPTION:11 de enero de 1907. Nació la inmunóloga Mary Shaw Shorb. Mary desarrolló una técnica para analizar la vitamina B12. Con ello contribuyó a combatir la anemia perniciosa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210112-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210112
+SUMMARY:12 de enero de 1925
+DESCRIPTION:12 de enero de 1925. Nace el veterinario Miguel Cordero del Campillo. Fue una autoridad mundial en el campo de la parasitología. Tuvo un papel clave en el nacimiento de la Universidad de León.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210113-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210113
+SUMMARY:13 de enero de 1927
+DESCRIPTION:13 de enero de 1927. Nació el biólogo Sydney Brenner. Recibió un Premio Nobel por sus investigaciones sobre la regulación genética del desarrollo y la muerte celular.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210114-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210114
+SUMMARY:14 de enero de 1973
+DESCRIPTION:14 de enero de 1973. Elvis Presley realizó el primer concierto transmitido por vía satélite. Se hizo desde el Centro Internacional de Honolulu y se pudo ver en 40 países.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210115-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210115
+SUMMARY:15 de enero de 1826
+DESCRIPTION:15 de enero de 1826. Nació la asistente científica Marie Pasteur. Trabajó como asistente y colaboradora de Louis Pasteur\, con quien estaba casada. Su apoyo fue esencial en los descubrimientos del investigador.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210116-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210116
+SUMMARY:16 de enero de 1932
+DESCRIPTION:16 de enero de 1932. Nació la zoóloga Dian Fossey. Fue una observadora paciente del comportamiento de los gorilas y fundó el Centro de Investigación de Karisoke (Ruanda). Este centro es la mayor esperanza para la conservación de los gorilas de montaña.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210117-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210117
+SUMMARY:17 de enero de 1897
+DESCRIPTION:17 de enero de 1897. Nació la física Caroline Emilie Bleeker. Sus estudios más conocidos incluyen el diseño y la fabricación de instrumentos ópticos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210118-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210118
+SUMMARY:18 de enero de 1969
+DESCRIPTION:18 de enero de 1969. Un equipo de astronomía de la Universidad de Arizona detectó las señales ópticas de un púlsar por primera vez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210119-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210119
+SUMMARY:19 de enero de 1915
+DESCRIPTION:19 de enero de 1915. Georges Claude patentó el primer tubo de neón. Este invento se popularizó con rapidez gracias a su uso en carteles publicitarios.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210120-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210120
+SUMMARY:20 de enero de 1944
+DESCRIPTION:20 de enero de 1944. Se fundó la Estación de Biología Experimental de Cogullada (conocida actualmente como Estación Experimental de Aula Dei). El objetivo de este instituto del CSIC es mejorar la competitividad y sostenibilidad del sector agrícola.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210121-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210121
+SUMMARY:21 de enero de 1865
+DESCRIPTION:21 de enero de 1865. Nació Sophia Jex-Blake\, quien es conocida como una de las Siete de Edimburgo. Dirigió la campaña para asegurar el acceso de las mujeres a la educación universitaria y luego estudió Medicina.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210122-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210122
+SUMMARY:22 de enero de 1909
+DESCRIPTION:22 de enero de 1909. Nació el farmacéutico y biólogo Faustino Cordón. Sus investigaciones estuvieron centradas en el campo de la evolución. En 1979 creó la Fundación para la Investigación sobre la Biología Evolucionista.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210123-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210123
+SUMMARY:23 de enero de 1921
+DESCRIPTION:23 de enero de 1921. Nació la arqueóloga Marija Gimbutas. Propuso la hipótesis de los kurganes. Esta hipótesis combinó la arqueología y la lingüística para ubicar la sede originaria de los pueblos que hablaban el idioma protoindoeuropeo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210124-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210124
+SUMMARY:24 de enero de 1809
+DESCRIPTION:24 de enero de 1809. Nació el naturalista Mariano de la Paz Graells. Describió nuevas especies de insectos\, entre las que destaca la magnífica mariposa isabelina (Graellsia isabelae).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210125-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210125
+SUMMARY:25 de enero de 1235
+DESCRIPTION:25 de enero de 1235. Posible fecha de nacimiento de Ramón Llul. Su escrito titulado “El árbol de la ciencia” es el primer tratado científico sobre naturaleza en España.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210126-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210126
+SUMMARY:26 de enero de 1941
+DESCRIPTION:26 de enero de 1941. Nació la bioquímica Joan Elaine Argetsinger Steitz. Ganó fama internacional por sus descubrimientos sobre el ARN.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210127-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210127
+SUMMARY:27 de enero de 1876
+DESCRIPTION:27 de enero de 1876. El ingeniero eléctrico Elisha Gray solicitó la patente del telégrafo musical. Fue uno de los primeros instrumentos musicales eléctricos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210128-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210128
+SUMMARY:28 de enero de 2013
+DESCRIPTION:28 de enero de 2013. La supercomputadora IBM Sequoia batió un récord de cálculo al modelar un motor para un jet experimental. Para ello contó con la ayuda de más de un millón de núcleos de procesamiento.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210129-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210129
+SUMMARY:29 de enero de 1947
+DESCRIPTION:29 de enero de 1947. Nació la bióloga y médica Linda Brown Buck. Ganó un premio Nobel por su descubrimiento de los receptores del olfato y la organización del sistema olfativo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210130-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210130
+SUMMARY:30 de enero de 1975
+DESCRIPTION:30 de enero de 1975. El escultor Ernő Rubik solicitó la patente del cubo mágico. Este invento se conoce actualmente como el cubo de Rubik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210131-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210131
+SUMMARY:31 de enero de 1925
+DESCRIPTION:31 de enero de 1925. Nació Manuel Jalón. Realizó numerosas patentes\, incluyendo instrumentos tan conocidos como la fregona o la jeringuilla hipodérmica desechable.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210201-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210201
+SUMMARY:1 de febrero de 1949
+DESCRIPTION:1 de febrero de 1949. Entró en funcionamiento el telescopio Hale\, el más grande del mundo en ese momento (200 pulgadas).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210202-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210202
+SUMMARY:2 de febrero de 1939
+DESCRIPTION:2 de febrero de 1939. Nació la biotecnóloga Mary-Dell Chilton. Fue una de las fundadoras de la biotecnología moderna en plantas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210203-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210203
+SUMMARY:3 de febrero de 1900
+DESCRIPTION:3 de febrero de 1900. Nació Juana Álvarez-Prida y Vega. Fue una de las primeras químicas españolas. En 1990 recibió el primer Premio a la Mujer Progresista en la Ciencia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210204-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210204
+SUMMARY:4 de febrero de 1896
+DESCRIPTION:4 de febrero de 1896. Thaddeus Cahill solicitó la patente del telarmonio\, el primer instrumento musical enteramente electrónico y polifónico. El primer prototipo pesaba 200 toneladas y tenía una longitud de 18 metros de largo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210205-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210205
+SUMMARY:5 de febrero de 1949
+DESCRIPTION:5 de febrero de 1949. Nació la paleontóloga Nieves López Martínez. Fue reconocida internacionalmente como experta en la evolución de los lagomorfos (conejos\, liebres y picas) y en los eventos bióticos​ y ambientales relacionados con la extinción masiva del Cretácico-Terciario.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210206-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210206
+SUMMARY:6 de febrero de 2014
+DESCRIPTION:6 de febrero de 2014. La NASA publicó la primera imagen tomada por el Rover Curiosity: la imagen de la Tierra y la Luna en el cielo de Marte.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210207-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210207
+SUMMARY:7 de febrero de 1824
+DESCRIPTION:7 de febrero de 1824. Nació William Huggins. Revolucionó la astronomía al aplicar métodos para determinar la composición química de las estrellas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210208-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210208
+SUMMARY:8 de febrero de 1825
+DESCRIPTION:8 de febrero de 1825. Nació Henry Bates. Descubrió que\, para protegerse de los depredadores\, algunas mariposas inofensivas se parecen mucho a otras especies que son tóxicas (mimetismo batesiano).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210209-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210209
+SUMMARY:9 de febrero de 1859
+DESCRIPTION:9 de febrero de 1859. Nació el constructor de órganos Robert Hope-Jones. Desarrolló un órgano de teatro para acompañar a las películas mudas. Basándose en su mecanismo\, patentó el diáfono\, que es la potente sirena que se sitúa junto a los faros y puede guiar a los barcos en la niebla.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210210-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210210
+SUMMARY:10 de febrero de 1996
+DESCRIPTION:10 de febrero de 1996. En Estados Unidos\, la supercomputadora IBM Deep Blue derrotó por primera vez a Garry Kasparov\, campeón mundial de ajedrez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210211-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210211
+SUMMARY:11 de febrero de 1939
+DESCRIPTION:11 de febrero de 1939. Lise Meitner publicó el primer descubrimiento de fisión nuclear de uranio cuando absorbe un neutrón adicional.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210212-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210212
+SUMMARY:12 de febrero de 1809
+DESCRIPTION:12 de febrero de 1809. Nació Charles Darwin\, el famoso naturalista que elaboró la teoría de la evolución mediante selección natural.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210213-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210213
+SUMMARY:13 de febrero de 1946
+DESCRIPTION:13 de febrero de 1946. Nació la matemática Pilar Bayer. En 1986 fundó el Seminario de Teoría de Números de Barcelona\, en el cual se enmarca su actividad investigadora.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210214-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210214
+SUMMARY:14 de febrero de 2005
+DESCRIPTION:14 de febrero de 2005. Un equipo de investigadores del CSIC obtuvo y secuenció ADN de un individuo neandertal procedente del yacimiento de El Sidrón.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210215-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210215
+SUMMARY:15 de febrero de 2001
+DESCRIPTION:15 de febrero de 2001. Se publicó en Nature (y al día siguiente en Science) la secuenciación y análisis inicial del genoma humano.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210216-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210216
+SUMMARY:16 de febrero de 2005
+DESCRIPTION:16 de febrero de 2005. Entró en vigor el Protocolo de Kioto\, convenio mundial para reducir las emisiones de gases de efecto invernadero.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210217-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210217
+SUMMARY:17 de febrero de 1874
+DESCRIPTION:17 de febrero de 1874. Nació la geóloga Ida Helen Ogilvie. Descubrió propiedades de la lava y los efectos de la aridez sobre la erosión de los suelos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210218-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210218
+SUMMARY:18 de febrero de 1913
+DESCRIPTION:18 de febrero de 1913. El químico y Premio Nobel Frederick Soddy introdujo el término isótopo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210219-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210219
+SUMMARY:19 de febrero de 1878
+DESCRIPTION:19 de febrero de 1878. Thomas A. Edison patentó el fonógrafo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210220-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210220
+SUMMARY:20 de febrero de 2016
+DESCRIPTION:20 de febrero de 2016. Investigadores del IGME descubrieron la primera mantis religiosa fósil y una de las más antiguas que se conocen en el mundo. Se encontró en el yacimiento de ámbar de San Just\, en Utrillas (Teruel)\, que tiene una edad de unos 105 millones de años (periodo Cretácico).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210221-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210221
+SUMMARY:21 de febrero de 1947
+DESCRIPTION:21 de febrero de 1947. El inventor Edwin Herbert Land mostró por primera vez en público una cámara instantánea de fotos\, la Polaroid Land Camera.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210222-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210222
+SUMMARY:22 de febrero de 1876
+DESCRIPTION:22 de febrero de 1876. Se fundó la Universidad Johns Hopkins. Fue la primera universidad dedicada específicamente a la investigación médica en los Estados Unidos. La fundación fue posible gracias a la herencia del empresario Johns Hopkins.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210223-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210223
+SUMMARY:23 de febrero de 1879
+DESCRIPTION:23 de febrero de 1879. Nació Agnes Arber\, botánica especializada en el estudio de plantas monocotiledóneas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210224-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210224
+SUMMARY:24 de febrero de 1938
+DESCRIPTION:24 de febrero de 1938. La empresa DuPont comenzó la fabricación del primer producto de nailon destinado a la venta: un cepillo de dientes. Hasta entonces se fabricaban principalmente con pelo del cuello de los cerdos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210225-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210225
+SUMMARY:25 de febrero de 1869
+DESCRIPTION:25 de febrero de 1869. Nació el químico Phoebus Levene. Descubrió la desoxirribosa\, uno de los componentes principales del ADN
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210226-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210226
+SUMMARY:26 de febrero de 1958
+DESCRIPTION:26 de febrero de 1958. Nació Susan Helms\, mujer astronauta que batió el récord del paseo espacial más largo (casi 9 h).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210227-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210227
+SUMMARY:27 de febrero de 1869
+DESCRIPTION:27 de febrero de 1869. Nació la patóloga Alice Hamilton. Investigó sobre enfermedades industriales y ayudó a conseguir condiciones de trabajo más seguras.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210228-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210228
+SUMMARY:28 de febrero de 1953
+DESCRIPTION:28 de febrero de 1953. Francis Crick y James Watson publicaron el descubrimiento de la estructura del ADN. Ambos recibieron el Premio Nobel en 1962. Su colaboradora\, Rosalind Franklin\, falleció en 1958 sin recibir ningún reconocimiento.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210301-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210301
+SUMMARY:1 de marzo de 1893
+DESCRIPTION:1 de marzo de 1893. El Instituto Nacional de Meteorología elaboró el primer mapa del tiempo de España.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210302-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210302
+SUMMARY:2 de marzo de 1922
+DESCRIPTION:2 de marzo de 1922. Nació la programadora Frances Bilas Spence. Fue una de las seis programadoras originales de la primera computadora digital de propósito general ENIAC.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210303-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210303
+SUMMARY:3 de marzo de 1886
+DESCRIPTION:3 de marzo de 1886. Nació la educadora y pedagoga Helen Parkhurst. Creó el Plan Dalton. Este plan se basa en la ausencia de asignaturas y el uso de guías de investigación en lugar de libros de texto. La clase se convierte en un laboratorio donde el alumnado completa el aprendizaje al que se compromete mediante un contrato con el profesorado.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210304-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210304
+SUMMARY:4 de marzo de 1877
+DESCRIPTION:4 de marzo de 1877. Nació el etnólogo Robert Fritz Graebner. Desarrolló la teoría de Kulturkreis o Círculo cultural. Esta teoría postulaba la difusión de culturas primitivas derivadas de un solo tipo arcaico.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210305-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210305
+SUMMARY:5 de marzo de 2013
+DESCRIPTION:5 de marzo de 2013. El Proyecto Human Connectome publicó imágenes muy detalladas de cerebros humanos. Estas imágenes permitieron estudiar la complejidad de las estructuras cerebrales e identificar causas de los trastornos neuronales.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210306-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210306
+SUMMARY:6 de marzo de 1937
+DESCRIPTION:6 de marzo de 1937. Nació la ingeniera y cosmonauta Valentina Tereshkova. Fue la primera mujer que viajó al espacio exterior\, a bordo de la nave Vostok 6.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210307-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210307
+SUMMARY:7 de marzo de 2009
+DESCRIPTION:7 de marzo de 2009. Se lanzó el observatorio espacial Kepler. Su misión era descubrir planetas similares a la Tierra alrededor de otras estrellas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210308-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210308
+SUMMARY:8 de marzo de 1839
+DESCRIPTION:8 de marzo de 1839. Nació Josephine Cochrane. Fue la inventora de la primera máquina lavavajillas que resultó exitosa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210309-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210309
+SUMMARY:9 de marzo de 1961
+DESCRIPTION:9 de marzo de 1961. El Sputnik 9 llevó a la perra Chernushka al espacio. A bordo iban también una cobaya\, un ratón y un maniquí de pruebas llamado Ivan Ivanovich. El maniquí salió disparado durante la reentrada y aterrizó con un paracaídas. El resto llegaron ilesos dentro de la cápsula.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210310-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210310
+SUMMARY:10 de marzo de 1876
+DESCRIPTION:10 de marzo de 1876. Alexander Graham Bell hizo la primera llamada telefónica exitosa en la historia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210311-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210311
+SUMMARY:11 de marzo de 1926
+DESCRIPTION:11 de marzo de 1926. Nació el médico e investigador Thomas Earl Starzl. En 1967\, llevó a cabo el primer transplante de hígado exitoso (tras varios intentos fallidos).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210312-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210312
+SUMMARY:12 de marzo de 2015
+DESCRIPTION:12 de marzo de 2015. Un nuevo tratamiento de la enfermedad de Alzheimer consiguió eliminar las placas de amiloide en el 75% de los casos (en ratones).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210313-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210313
+SUMMARY:13 de marzo de 1988
+DESCRIPTION:13 de marzo de 1988. Se inauguró el túnel Seikan entre las ciudades de Aomori y Hakodate (Japón). Es el túnel submarino más largo del mundo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210314-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210314
+SUMMARY:14 de marzo de 1963
+DESCRIPTION:14 de marzo de 1963. Nació el astronauta\, político e ingeniero aeronáutico Pedro Duque. Es conocido principalmente por haber sido el primer astronauta de nacionalidad española.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210315-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210315
+SUMMARY:15 de marzo de 1985
+DESCRIPTION:15 de marzo de 1985. Se registró el primer dominio "punto com" en internet: Symbolics.com.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210316-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210316
+SUMMARY:16 de marzo de 1799
+DESCRIPTION:16 de marzo de 1799. Nació la botánica Anna Atkins. Es reconocida como la primera mujer fotógrafa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210317-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210317
+SUMMARY:17 de marzo de 1963
+DESCRIPTION:17 de marzo de 1963. María Elisa Álvarez Obaya realizó los análisis que destaparon el caso del metílico. Desde su modesta farmacia de Lanzarote\, María Elisa demostró que una serie de extrañas muertes se debían al consumo de licores adulterados con metanol.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210318-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210318
+SUMMARY:18 de marzo de 1987
+DESCRIPTION:18 de marzo de 1987. Se anunció el descubrimiento de la superconductividad a alta temperatura. Fue en un congreso científico en Nueva York.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210319-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210319
+SUMMARY:19 de marzo de 2019
+DESCRIPTION:19 de marzo de 2019. Un estudio internacional con participación del CSIC determinó que los océanos absorben el 31% del CO2 producido por la actividad humana.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210320-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210320
+SUMMARY:20 de marzo de 2021
+DESCRIPTION:20 de marzo de 2021. Día Mundial del Gorrión. Esta iniciativa busca llamar la atención sobre la situación de los gorriones. Su población sufre un importante declive\, especialmente en las ciudades.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210321-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210321
+SUMMARY:21 de marzo de 1866
+DESCRIPTION:21 de marzo de 1866. Nació la astrónoma Antonia Maury. Trabajó en el Harvard College Observatory y publicó un importante catálogo de espectros estelares.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210322-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210322
+SUMMARY:22 de marzo de 1920
+DESCRIPTION:22 de marzo de 1920. Nació la geoquímica Katsuko Saruhashi. Realizó las primeras mediciones de los niveles de dióxido de carbono (CO2) en el agua de mar. Mostró evidencias de los peligros de la lluvia radiactiva en el mar y la atmósfera.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210323-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210323
+SUMMARY:23 de marzo de 2005
+DESCRIPTION:23 de marzo de 2005. José Luis Carrascosa y su equipo del Centro Nacional de Biotecnología describieron por primera vez la estructura del virus de la viruela.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210324-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210324
+SUMMARY:24 de marzo de 1882
+DESCRIPTION:24 de marzo de 1882. Robert Koch anunció el descubrimiento de la bacteria responsable de la tuberculosis. Era la Mycobacterium tuberculosis (bacilo de Koch).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210325-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210325
+SUMMARY:25 de marzo de 1914
+DESCRIPTION:25 de marzo de 1914. Nació el agrónomo Norman Borlaug. Apodado el Padre de la Revolución Verde\, recibió el Premio Nobel de la Paz por sus esfuerzos para introducir las semillas híbridas en la producción agrícola en México\, Pakistán e India. Esto aumentó la productividad agrícola y se salvaron millones de vidas humanas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210326-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210326
+SUMMARY:26 de marzo de 1953
+DESCRIPTION:26 de marzo de 1953. El investigador Jonas Salk anunció el descubrimiento de la vacuna contra la poliomielitis. Gracias a la vacunación\, esta enfermedad infecciosa\, conocida como parálisis infantil\, ha sido erradicada de Europa\, América\, Oceanía y África.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210327-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210327
+SUMMARY:27 de marzo de 1827
+DESCRIPTION:27 de marzo de 1827. Charles Darwin\, con 18 años\, presentó su primer descubrimiento científico. Trataba sobre la biología de pequeños animales marinos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210328-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210328
+SUMMARY:28 de marzo de 2013
+DESCRIPTION:28 de marzo de 2013. La Universidad de Stanford hizo público el desarrollo de un transistor biológico realizado a partir de moléculas de ADN y ARN.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210329-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210329
+SUMMARY:29 de marzo de 1942
+DESCRIPTION:29 de marzo de 1942. Nació la bióloga Ann Kiessling. Junto a Mehran Goulian\, descubrió la actividad de la transcriptasa inversa en células humanas. Anteriormente se pensaba que esta enzima se encontraba solo en los retrovirus.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210330-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210330
+SUMMARY:30 de marzo de 1900
+DESCRIPTION:30 de marzo de 1900. Nació la bibliotecaria\, filóloga y lexicógrafa española María Moliner. Fue la autora del Diccionario de uso del español.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210331-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210331
+SUMMARY:31 de marzo de 1596
+DESCRIPTION:31 de marzo de 1596. Nació René Descartes\, el famoso filósofo y matemático francés. Fue el autor del concepto "Pienso\, luego existo".
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210401-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210401
+SUMMARY:1 de abril de 1940
+DESCRIPTION:1 de abril de 1940. Nació la bióloga y ecologista Wangari Muta Maathai. Recibió el Premio Nobel de la Paz 2004 por sus contribuciones al desarrollo sostenible y la democracia. Fue la primera africana en obtener este galardón.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210402-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210402
+SUMMARY:2 de abril de 1618
+DESCRIPTION:2 de abril de 1618. Nació el físico Francesco Grimaldi. Descubrió la difracción de la luz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210403-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210403
+SUMMARY:3 de abril de 1934
+DESCRIPTION:3 de abril de 1934. Nació la primatóloga Jane Goodall. Es reconocida mundialmente por sus estudios sobre las interacciones sociales y familiares de los chimpancés.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210404-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210404
+SUMMARY:4 de abril de 1868
+DESCRIPTION:4 de abril de 1868. Nació la matemática Philippa Garrett Fawcett. Ganó una beca en la Universidad de Cambridge gracias a su extraordinario éxito en el Mathematical Tripos (1890). Investigó sobre dinámica de fluidos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210405-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210405
+SUMMARY:5 de abril de 1952
+DESCRIPTION:5 de abril de 1952. Nació el químico Venki Ramakrishnan. Recibió el Premio Nobel por el estudio de la estructura y función del ribosoma.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210406-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210406
+SUMMARY:6 de abril de 1846
+DESCRIPTION:6 de abril de 1846. Nació Antonio Machado y Álvarez (Demófilo)\, padre de los poetas Antonio y Manuel Machado. Fue uno de los primeros folcloristas en estudiar científicamente el flamenco.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210407-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210407
+SUMMARY:7 de abril de 1995
+DESCRIPTION:7 de abril de 1995. Inauguración de la Domus de A Coruña\, el primer museo interactivo de carácter científico que trata el ser humano de una forma global y monográfica.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210408-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210408
+SUMMARY:8 de abril de 1911
+DESCRIPTION:8 de abril de 1911. Nació el químico Melvin Calvin. Recibió el Premio Nobel de Química por sus trabajos sobre la asimilación del CO2 por las plantas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210409-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210409
+SUMMARY:9 de abril de 1860
+DESCRIPTION:9 de abril de 1860. El inventor Édouard-León Scott de Martinville realizó la primera grabación conocida de la voz humana. Era una voz soprano que interpretaba la canción "Au clair de la Lune".
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210410-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210410
+SUMMARY:10 de abril de 2011
+DESCRIPTION:10 de abril de 2011. Un estudio del IGME\, CIATF y las Universidades Complutense y de Lisboa descubrió depósitos de tsunamis en Tenerife. Los tsunamis provocaron olas de más de 50 metros de altura y estuvieron asociados a la destrucción del edificio volcánico de Las Cañadas\, anterior al actual Teide.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210411-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210411
+SUMMARY:11 de abril de 2013
+DESCRIPTION:11 de abril de 2013. Se descubre que escuchar sonidos durante el sueño\, en intervalos de tiempo controlados\, puede mejorar la memoria.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210412-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210412
+SUMMARY:12 de abril de 1961
+DESCRIPTION:12 de abril de 1961. Yuri Gagarin se convirtió en el primer ser humano en viajar al espacio. Lo hizo a bordo de la nave soviética Vostok 1.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210413-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210413
+SUMMARY:13 de abril de 2014
+DESCRIPTION:13 de abril de 2014. La expedición Subvent del IGME descubrió grandes bancos de mejillones quimiosintéticos alrededor de manantiales de metano en el Golfo de Cádiz. También descubrió nuevos volcanes submarinos en Lanzarote.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210414-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210414
+SUMMARY:14 de abril de 1977
+DESCRIPTION:14 de abril de 1977. Rosemary Hutton publicó un artículo sobre cómo la conductividad eléctrica de las rocas puede usarse para investigar la historia geológica.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210415-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210415
+SUMMARY:15 de abril de 1452
+DESCRIPTION:15 de abril de 1452. Nació Leonardo da Vinci\, pintor\, escultor\, inventor\, ingeniero y arquitecto del Renacimiento.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210416-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210416
+SUMMARY:16 de abril de 1921
+DESCRIPTION:16 de abril de 1921. Isaac Carasso solicitó la patente para la elaboración de una leche cuajada llamada comúnmente yogur. Bautizó a su empresa Danone\, por el diminutivo del nombre de su hijo Daniel (Danón).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210417-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210417
+SUMMARY:17 de abril de 1887
+DESCRIPTION:17 de abril de 1887. Nació Clodomiro Picado. Fue pionero en la investigación sobre serpientes y sus venenos. También fue uno de los precursores del descubrimiento de la penicilina.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210418-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210418
+SUMMARY:18 de abril de 1917
+DESCRIPTION:18 de abril de 1917. Nació la psicóloga Mamie Phipps Clark. Trabajó en la comprensión del desarrollo de la conciencia social en niños preescolares.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210419-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210419
+SUMMARY:19 de abril de 1946
+DESCRIPTION:19 de abril de 1946. Nació la química María Vallet Regí. Es experta en el campo de los biomateriales con aplicaciones en traumatología\, odontología o ingeniería tisular.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210420-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210420
+SUMMARY:20 de abril de 2017
+DESCRIPTION:20 de abril de 2017. Bryan Keith Holland depositó su tesis doctoral sobre los microARN del VIH. Es más conocido por su apodo Dexter y por ser el cantante y guitarrista de la banda punk rock The Offsprings.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210421-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210421
+SUMMARY:21 de abril de 1838
+DESCRIPTION:21 de abril de 1838. Nació el conservacionista John Muir. Defendió el establecimiento de los parques nacionales Sequonia y Yosemite.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210422-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210422
+SUMMARY:22 de abril de 1999
+DESCRIPTION:22 de abril de 1999. Apertura de la Casa de las Ciencias de Logroño. Este centro está dedicado a la divulgación de la cultura de la ciencia y la tecnología\, a través de exposiciones\, conferencias\, cursos\, proyecciones y demostraciones científicas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210423-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210423
+SUMMARY:23 de abril de 1933
+DESCRIPTION:23 de abril de 1933. Nació la informática Annie Easley. Trabajó en el Lewis Research Center de la NASA. Formó parte del equipo que desarrolló el software del cohete Centauro.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210424-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210424
+SUMMARY:24 de abril de 2013
+DESCRIPTION:24 de abril de 2013. IBM desarrolló un robot que combina telepresencia y tecnologías de realidad aumentada para ayudar en proyectos de ingeniería en áreas remotas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210425-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210425
+SUMMARY:25 de abril de 1945
+DESCRIPTION:25 de abril de 1945. Nació la embrióloga Jean Marian Purdy. Fue una de las responsables del desarrollo de la fecundación in vitro.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210426-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210426
+SUMMARY:26 de abril de 1927
+DESCRIPTION:26 de abril de 1927. Nació la bióloga Anne McLaren. Fue pionera en el estudio de la biología del desarrollo. Su trabajo ayudó a desarrollar la técnica de fertilización in vitro.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210427-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210427
+SUMMARY:27 de abril de 1993
+DESCRIPTION:27 de abril de 1993. El trombonista John Kenny fue el primero en hacer sonar un carnyx desde la época celta. Para ello\, utilizó una reconstrucción del carnyx de Deskford realizada por el musicólogo John Purser y el orfebre John Creed. El instrumento original y la reconstrucción se muestran en el Museo Nacional de Escocia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210428-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210428
+SUMMARY:28 de abril de 1932
+DESCRIPTION:28 de abril de 1932. Se descubrió la vacuna contra la fiebre amarilla.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210429-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210429
+SUMMARY:29 de abril de 1894
+DESCRIPTION:29 de abril de 1894. Nació la física Marietta Blau. Fue pionera en el registro e identificación de partículas atómicas mediante placas de emulsiones fotográficas. Su trabajo contribuyó a entender mejor las reacciones nucleares.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210430-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210430
+SUMMARY:30 de abril de 2010
+DESCRIPTION:30 de abril de 2010. Investigadores del IGME localizan en mapas del siglo XVIII y XIX un humedal que había desaparecido del registro histórico.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210501-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210501
+SUMMARY:1 de mayo de 2013
+DESCRIPTION:1 de mayo de 2013. Arrancó el proyecto EMTASY para determinar el mecanismo que posiciona el corazón a la izquierda. Fue dirigido por Ángela Nieto Toledano y ayudó a entender muchas malformaciones congénitas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210502-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210502
+SUMMARY:2 de mayo de 1997
+DESCRIPTION:2 de mayo de 1997. El equipo científico de Atapuerca obtuvo el premio Príncipe de Asturias de Investigación Científica y Técnica por el descubrimiento del Homo antecessor. Este homínido vivió en Europa hace 800.000 años.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210503-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210503
+SUMMARY:3 de mayo de 1910
+DESCRIPTION:3 de mayo de 1910. Nació la arqueóloga Anne Strachan Robertson. Es conocida por sus estudios del muro de Antonino y las monedas imperiales romanas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210504-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210504
+SUMMARY:4 de mayo de 1825
+DESCRIPTION:4 de mayo de 1825. Nació el biólogo Thomas Huxley. Fue el primero en sugerir que las aves evolucionaron a partir de los dinosaurios.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210505-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210505
+SUMMARY:5 de mayo de 1882
+DESCRIPTION:5 de mayo de 1882. Nació el médico y científico español Pío del Río Ortega. Descubrió la microglía\, un tipo de célula del sistema nervioso.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210506-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210506
+SUMMARY:6 de mayo de 1840
+DESCRIPTION:6 de mayo de 1840. Salió a la venta el primer sello adhesivo. Tenía el perfil de la reina Victoria del Reino Unido y era conocido como el penny black.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210507-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210507
+SUMMARY:7 de mayo de 1954
+DESCRIPTION:7 de mayo de 1954. Empezó la construcción del Puente Mackinac en Michigan. Fue el puente colgante más largo del mundo en su momento.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210508-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210508
+SUMMARY:8 de mayo de 1980
+DESCRIPTION:8 de mayo de 1980. La OMS certificó la erradicación de la viruela. Este hito se consiguió gracias a la vacunación.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210509-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210509
+SUMMARY:9 de mayo de 1882
+DESCRIPTION:9 de mayo de 1882. William Ford patentó el diseño de un estetoscopio con la forma que aún se usa en la actualidad.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210510-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210510
+SUMMARY:10 de mayo de 1888
+DESCRIPTION:10 de mayo de 1888. Nació la hematóloga Lucy Wills. Descubrió un factor nutricional en la levadura que previene y cura la anemia macrocítica en el embarazo. Se conoce como el factor de Wills o folato\, la forma natural del ácido fólico.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210511-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210511
+SUMMARY:11 de mayo de 2001
+DESCRIPTION:11 de mayo de 2001. Tuvo lugar un terremoto en Lorca (Murcia) con una magnitud de 5\,2 Mw. Causó un gran impacto\, con 9 víctimas mortales y cuantiosos daños materiales.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210512-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210512
+SUMMARY:12 de mayo de 1910
+DESCRIPTION:12 de mayo de 1910. Nació la Premio Nobel Dorothy Crowfoot Hodgkin. Determinó la estructura 3D de moléculas como la penicilina o la insulina. La estructura 3D es clave para entender las funciones.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210513-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210513
+SUMMARY:13 de mayo de 1857
+DESCRIPTION:13 de mayo de 1857. Nació el bacteriólogo Ronald Ross. Descubrió que la malaria se transmite por el mosquito Anopheles.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210514-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210514
+SUMMARY:14 de mayo de 1899
+DESCRIPTION:14 de mayo de 1899. Nació la bióloga Charlotte Auerbach. Se especializó en zoología y genética\, y contribuyó al descubrimiento de la mutagénesis y de sus efectos. Se hizo célebre en 1942 cuando puso de manifiesto\, junto con Alfred Joseph Clark y John Michael Robson\, que el gas mostaza podía causar mutaciones.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210515-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210515
+SUMMARY:15 de mayo de 1925
+DESCRIPTION:15 de mayo de 1925. Nació la genetista Mary Frances Lyon. Descubrió la lionización\, un fenómeno mediante el cual se inactiva una de las dos copias del cromosoma X en las células de las hembras mamíferas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210516-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210516
+SUMMARY:16 de mayo de 1919
+DESCRIPTION:16 de mayo de 1919. Nació el oceanógrafo y ecólogo Ramón Margalef. Introdujo la Teoría de la Información en Ecología y el índice de Shannon-Weaver como medida de diversidad.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210517-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210517
+SUMMARY:17 de mayo de 1749
+DESCRIPTION:17 de mayo de 1749. Nació el inmunólogo Edward Jenner. Logró la primera vacuna de la historia\, concretamente contra la viruela.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210518-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210518
+SUMMARY:18 de mayo de 2012
+DESCRIPTION:18 de mayo de 2012. Se celebró el primer Día Internacional de la Fascinación por las Plantas. Su objetivo es reconocer la importancia de las plantas en nuestra vida\, gracias a la producción de alimentos para personas y animales\, papel\, madera\, energía y productos farmacéuticos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210519-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210519
+SUMMARY:19 de mayo de 2014
+DESCRIPTION:19 de mayo de 2014. La NASA comenzó la construcción del robot espacial InSight\, que aterrizó en Marte en 2018.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210520-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210520
+SUMMARY:20 de mayo de 1900
+DESCRIPTION:20 de mayo de 1900. Nació la química y física Erika Cremer. Fue pionera en cromatografía de gases. Sin embargo\, su artículo de 1944 acerca de su método no se llegó a publicar porque un bombardeo destruyó las pruebas de imprenta en la revista Naturwissenschaften.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210521-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210521
+SUMMARY:21 de mayo de 1921
+DESCRIPTION:21 de mayo de 1921. Nació el físico Andréi Sájarov. Participó en el desarrollo de bombas atómicas en los años 50. Posteriormente\, luchó contra la proliferación de armas nucleares y fue galardonado con el Premio Nobel de la Paz en 1975.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210522-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210522
+SUMMARY:22 de mayo de 1960
+DESCRIPTION:22 de mayo de 1960. Tuvo lugar el Gran Terremoto de Chile. Es el terremoto de mayor magnitud que haya sido registrado (9\,5 en potencia de magnitud de momento). Provocó maremotos que llegaron a Hawai\, Japón y Rusia\, y la erupción del volcán Puyehue.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210523-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210523
+SUMMARY:23 de mayo de 1954
+DESCRIPTION:23 de mayo de 1954. Nació el biólogo Keith Campbell. Fue una persona clave del equipo que clonó a la oveja Dolly en el Instituto Roslin de Edimburgo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210524-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210524
+SUMMARY:24 de mayo de 1878
+DESCRIPTION:24 de mayo de 1878. Nació la psicóloga e ingeniera Lillian Moller Gilbreth. Es conocida por su trabajo en la aplicación de la organización psicológica en la industria.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210525-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210525
+SUMMARY:25 de mayo de 1880
+DESCRIPTION:25 de mayo de 1880. Nació el neurólogo Jean Alexandre Barré. Identificó el síndrome de Guillain-Barré\, una enfermedad neurológica rara.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210526-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210526
+SUMMARY:26 de mayo de 1872
+DESCRIPTION:26 de mayo de 1872. Nació Trinidad Arroyo Villaverde. Fue la primera oftalmóloga española.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210527-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210527
+SUMMARY:27 de mayo de 1931
+DESCRIPTION:27 de mayo de 1931. Nació el economista Philip Kotler. Es considerado el padre del marketing moderno.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210528-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210528
+SUMMARY:28 de mayo de 1912
+DESCRIPTION:28 de mayo de 1912. Nació la astrónoma Ruby Violet Payne-Scott. Estudió la influencia del campo magnético de la Tierra y las erupciones solares.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210529-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210529
+SUMMARY:29 de mayo de 1826
+DESCRIPTION:29 de mayo de 1826. Nació el sastre Ebenezer Butterick. Junto a su mujer\, Ellen Augusta Pollard\, inventaron y comercializaron los patrones de costura modernos. Estos patrones tenían graduaciones con múltiples tallas estándar.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210530-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210530
+SUMMARY:30 de mayo de 2021
+DESCRIPTION:30 de mayo de 2021. Día Mundial de la Esclerosis Múltiple. Se celebra cada año para compartir historias\, concienciar a la sociedad y hacer campañas con y para todos los afectados por esta enfermedad.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210531-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210531
+SUMMARY:31 de mayo de 1903
+DESCRIPTION:31 de mayo de 1903. El físico Konstantin Tsiolkovsky propuso por primera vez que las personas podrían viajar al espacio usando cohetes.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210601-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210601
+SUMMARY:1 de junio de 1974
+DESCRIPTION:1 de junio de 1974. La revista Emergency Medicine publicó la maniobra de Heimlich. Esta operación permite desbloquear las vías aéreas obstruidas por un objeto extraño.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210602-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210602
+SUMMARY:2 de junio de 1911
+DESCRIPTION:2 de junio de 1911. Los principales diarios se hicieron eco de la electrificación del ferrocarril Gergal-Santa Fe de Mondújar. Fue la primera línea de tren de vía ancha electrificada de España.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210603-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210603
+SUMMARY:3 de junio de 1976
+DESCRIPTION:3 de junio de 1976. El cosmógrafo Vicente Tofiño de San Miguel observó el paso de Venus por el Sol durante un eclipse. Publicó unas anotaciones de gran interés científico.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210604-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210604
+SUMMARY:4 de junio de 1927
+DESCRIPTION:4 de junio de 1927. Tuvo lugar el primer vuelo comercial de pasajeros transatlántico. El viaje se produjo a bordo de un Wright-Bellanca WB-2\, desde Estados Unidos hasta Alemania.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210605-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210605
+SUMMARY:5 de junio de 2002
+DESCRIPTION:5 de junio de 2002. Se presentó oficialmente la AMIT (Asociación de Mujeres Investigadoras y Tecnólogas). Esta asociación promueve el acceso igualitario de las mujeres a la actividad investigadora en todas las ramas del conocimiento y en el sector tecnológico.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210606-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210606
+SUMMARY:6 de junio de 1907
+DESCRIPTION:6 de junio de 1907. Se lanzó Persil al mercado. Fue el primer detergente de ropa de acción automática.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210607-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210607
+SUMMARY:7 de junio de 1886
+DESCRIPTION:7 de junio de 1886. Nació el ingeniero Henri Coandă. Fue pionero de la aviación y construyó el primer avión accionado por un motor a reacción.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210608-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210608
+SUMMARY:8 de junio de 2021
+DESCRIPTION:8 de junio de 2021. Día mundial de los Océanos. Su objetivo es recordarnos el papel que tienen los océanos en la vida cotidiana. Ellos son los pulmones de nuestro planeta y producen la mayor parte del oxígeno que respiramos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210609-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210609
+SUMMARY:9 de junio de 1812
+DESCRIPTION:9 de junio de 1812. Nació el astrónomo Johann Gottfried Galle. Descubrió Neptuno siguiendo los cálculos e indicaciones de Urbain Le Verrier.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210610-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210610
+SUMMARY:10 de junio de 1948
+DESCRIPTION:10 de junio de 1948. Se efectuó la primera demostración de la televisión en España. Fue durante la Feria Internacional de Muestras de Barcelona.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210611-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210611
+SUMMARY:11 de junio de 1910
+DESCRIPTION:11 de junio de 1910. Nació el oceanógrafo y explorador Jacques-Yves Cousteau. Es uno de los divulgadores del mundo submarino más célebres. Ha grabado numerosas películas y documentales a bordo de su buque Calypso. También fue una de las primeras personas en defender el ambiente marino frente a la contaminación.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210612-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210612
+SUMMARY:12 de junio de 1985
+DESCRIPTION:12 de junio de 1985. Nació el ingeniero de software Blake Ross. Es conocido por trabajar en la creación de los navegadores Mozilla.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210613-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210613
+SUMMARY:13 de junio de 1868
+DESCRIPTION:13 de junio de 1868. Nació el físico Wallace Clement Sabine. Fue el fundador de la acústica arquitectónica y el consultor acústico del Boston's Symphony Hall. Esta sala de consciertos se considera una de las mejores del mundo por su excelente acústica.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210614-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210614
+SUMMARY:14 de junio de 1880
+DESCRIPTION:14 de junio de 1880. Nació el neurocientífico Nicolás Achúcarro. Fue uno de los discípulos de Ramón y Cajal y se especializó en el estudio de las células gliales.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210615-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210615
+SUMMARY:15 de junio de 1962
+DESCRIPTION:15 de junio de 1962. Se descubrió que la talidomida causaba deformaciones en el desarrollo fetal. Este sedante se utilizaba para calmar las náuseas durante los primeros meses de embarazo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210616-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210616
+SUMMARY:16 de junio de 1963
+DESCRIPTION:16 de junio de 1963. La cosmonauta Valentina Tereshkova fue la primera mujer en viajar al espacio.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210617-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210617
+SUMMARY:17 de junio de 2017
+DESCRIPTION:17 de junio de 2017. La astronauta Sunita Williams se convirtió en la mujer que más tiempo seguido había estado en el espacio (en la Estación Espacial Internacional)\, al completar 188 días y 4 horas fuera de la Tierra.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210618-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210618
+SUMMARY:18 de junio de 1466
+DESCRIPTION:18 de junio de 1466. Nació el impresor Ottaviano Petrucci. Inventó el sistema de impresión de música por medio de tipos móviles. Con este sistema\, en 1501 imprimió la colección de canciones Harmonice Musices Odhecaton. Esta fue la primera edición de música impresa de la historia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210619-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210619
+SUMMARY:19 de junio de 1903
+DESCRIPTION:19 de junio de 1903. Nació la bioquímica Rebeca Gerschman. Postuló la teoría Gerschman sobre la toxicidad del oxígeno mediante radicales libres y revolucionó el ambiente científico de la época.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210620-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210620
+SUMMARY:20 de junio de 2019
+DESCRIPTION:20 de junio de 2019. La investigadora Margarita Salas recibió el Premio al Inventor Europeo 2019. Entre sus mayores contribuciones destaca la patente de la DNA polimerasa viral\, la más productiva del CSIC.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210621-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210621
+SUMMARY:21 de junio de 1997
+DESCRIPTION:21 de junio de 1997. Se instauró el Día Internacional de la Esclerosis Lateral Amiotrófica (ELA). Está impulsado por asociaciones de pacientes de todo el mundo y tiene como objetivo informar y sensibilizar sobre esta enfermedad aún incurable.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210622-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210622
+SUMMARY:22 de junio de 1939
+DESCRIPTION:22 de junio de 1939. Nació la cristalógrafa Ada Yonath. Ganó el Premio Nobel de Química por sus trabajos pioneros sobre la estructura de los ribosomas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210623-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210623
+SUMMARY:23 de junio de 1912
+DESCRIPTION:23 de junio de 1912. Nació el matemático\, lógico y criptoanalista Alan Turing. Fue pionero de la informática moderna.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210624-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210624
+SUMMARY:24 de junio de 1400
+DESCRIPTION:24 de junio de 1400. Nació Johannes Gutenberg. Inventó la imprenta con tipos móviles moderna.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210625-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210625
+SUMMARY:25 de junio de 1866
+DESCRIPTION:25 de junio de 1866. Nació Eloísa Díaz\, la primera médica de América del Sur. Como directora del Servicio Médico Escolar de Chile\, Eloísa logró la vacunación de gran parte del alumnado y luchó contra el raquitismo y la tuberculosis.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210626-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210626
+SUMMARY:26 de junio de 1974
+DESCRIPTION:26 de junio de 1974. El supermercado Marsh\, en Ohio (Estados Unidos)\, efectuó la primera lectura de un código de barras en el mundo. Fue un paquete de chicles.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210627-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210627
+SUMMARY:27 de junio de 1915
+DESCRIPTION:27 de junio de 1915. Nació la física Traude Bernert. Junto a la química Berta Karlik\, identificaron los isótopos 215\, 216 y 218 del ástato. También descubrieron que este elemento se producía durante la descomposición del radio\, del torio y del actinio.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210628-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210628
+SUMMARY:28 de junio de 2013
+DESCRIPTION:28 de junio de 2013. Se inventó\, en el MIT\, un dispositivo de visión de rayos X de mano que detecta el movimiento a través de las paredes.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210629-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210629
+SUMMARY:29 de junio de 1954
+DESCRIPTION:29 de junio de 1954. Stanley Cohen\, Rita Levi-Montalcini y Viktor Hamburger publicaron el descubrimiento del primer factor de crecimiento nervioso. Los dos primeros recibieron el Premio Nobel de Fisiología o Medicina en 1986.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210630-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210630
+SUMMARY:30 de junio de 1905
+DESCRIPTION:30 de junio de 1905. Albert Einstein publicó "Sobre la electrodinámica de los cuerpos en movimiento". Sería el inicio de la teoría de la relatividad especial.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210701-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210701
+SUMMARY:1 de julio de 1935
+DESCRIPTION:1 de julio de 1935. Nació la bióloga y oceanógrafa Josefina Castellví. Fue la primera española en participar en una expedición internacional en la Antártida. Colaboró en la instalación de la primera base antártica española.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210702-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210702
+SUMMARY:2 de julio de 1982
+DESCRIPTION:2 de julio de 1982. Richard Walters Lawrence ató 45 globos de helio a una silla de jardín y esta se elevó a más de 4500 metros. Frustrado por no haber podido ser piloto de las Fuerzas Aéreas de los Estados Unidos de América\, decidió volar por su cuenta de esta forma tan especial.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210703-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210703
+SUMMARY:3 de julio de 1865
+DESCRIPTION:3 de julio de 1865. Nació la profesora Mary Kingsbury. Estuvo a cargo de la biblioteca del Instituto Erasmus Hall y se convirtió en la primera bibliotecaria escolar de la historia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210704-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210704
+SUMMARY:4 de julio de 2019
+DESCRIPTION:4 de julio de 2019. Se presentó PRISMA en el Museo Nacional de Ciencias Naturales de Madrid. PRISMA es la Asociación para la Diversidad Afectivo-sexual y de Género en Ciencia\, Tecnología e Innovación. Su objetivo es aumentar la visibilidad del colectivo LGTBIQA+ en el mundo científico.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210705-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210705
+SUMMARY:5 de julio de 1904
+DESCRIPTION:5 de julio de 1904. Nació el biólogo Ernst Walter Mayr. Fue líder en el desarrollo del neodarwinismo\, que integra la teoría de la evolución y los conocimientos en el campo de la genética.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210706-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210706
+SUMMARY:6 de julio de 1885
+DESCRIPTION:6 de julio de 1885. Louis Pasteur administró la vacuna de la rabia a Josef Meister\, un niño de 9 años al que había mordido un perro rabioso. Fue una actuación de riesgo porque Pasteur no tenía la titulación de médico y la vacuna no estaba aún aprobada. Sin embargo\, gracias a ello\, salvó la vida de Josef.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210707-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210707
+SUMMARY:7 de julio de 1924
+DESCRIPTION:7 de julio de 1924. Nació la neurocientífica y psicóloga Natalia Petrovna Bekhtereva. Puso en marcha un método complejo para estudiar los mecanismos cerebrales del pensamiento\, la memoria\, las emociones y la creatividad.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210708-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210708
+SUMMARY:8 de julio de 1926
+DESCRIPTION:8 de julio de 1926. Nació la psiquiatra Elizabeth Kubler-Ross. Es reconocida como la principal autoridad en psicología de la muerte.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210709-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210709
+SUMMARY:9 de julio de 2015
+DESCRIPTION:9 de julio de 2015. Un equipo de investigación del IGME\, la Universidad Complutense y la de Barcelona encontró una mosca de hace 105 millones de años en perfecto estado de conservación. La mosca se había conservado en ámbar en la cueva de El Soplao (Cantabria) y aún llevaba una carga de polen en su abdomen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210710-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210710
+SUMMARY:10 de julio de 2020
+DESCRIPTION:10 de julio de 2020. El CSIC desarrolló nanosondas con aplicaciones en el diagnóstico y tratamiento de enfermedades. Las nanosondas pueden utilizarse para detectar los primeros estadios de una enfermedad\, para dirigir fármacos de forma focalizada y como transportadores de ADN o virus.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210711-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210711
+SUMMARY:11 de julio de 1901
+DESCRIPTION:11 de julio de 1901. Nació la neurofisióloga Angélique Arvanitaki. Junto a Nick Chalazonitis investigó la actividad eléctrica de las neuronas utilizando las fibras nerviosas del caracol común.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210712-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210712
+SUMMARY:12 de julio de 1764
+DESCRIPTION:12 de julio de 1764. Tuvo lugar el primer avistamiento de una nebulosa. La descubrió el astrónomo Charles Messier y le puso el número 27 de su catálogo (M27). También se conoce como nebulosa Dumbbell.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210713-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210713
+SUMMARY:13 de julio de 1923
+DESCRIPTION:13 de julio de 1923. Se reconoció por primera vez la existencia de huevos de dinosaurio fosilizados. El descubrimiento tuvo lugar en el desierto de Gobi. Inicialmente se creía que pertenecían a Protoceratops\, pero en 1995 se determinó que pertenecen a Oviraptor.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210714-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210714
+SUMMARY:14 de julio de 1862
+DESCRIPTION:14 de julio de 1862. Nació la experta en cristalografía\, mineralogía y petrografía Florence Bascom. Fue la primera geóloga de EE.UU.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210715-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210715
+SUMMARY:15 de julio de 1799
+DESCRIPTION:15 de julio de 1799. Durante la campaña de Napoleón en Egipto\, se descubrió la piedra de Rosetta. Esta piedra está inscrita en griego\, jeroglífico y demótico\, y es la clave que permite descifrar los jeroglíficos egipcios.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210716-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210716
+SUMMARY:16 de julio de 2020
+DESCRIPTION:16 de julio de 2020. La misión Solar Orbiter\, de la Agencia Espacial Europea (ESA) y la NASA\, con participación del CSIC\, obtuvo el primer mapa magnético del Sol. El campo magnético solar es responsable de los fenómenos que observamos en el Sol\, como las manchas\, las tormentas o el viento solar.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210717-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210717
+SUMMARY:17 de julio de 1819
+DESCRIPTION:17 de julio de 1819. Nació la climatóloga e inventora Eunice Newton Foote. Fue una pionera en la investigación del efecto invernadero. Se anticipó tres años a los experimentos de John Tyndall\, al que se consideraba el descubridor del efecto del CO2 en la atmósfera.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210718-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210718
+SUMMARY:18 de julio de 1881
+DESCRIPTION:18 de julio de 1881. Nació la pedagoga y humanista María de Maeztu. Fue directora de importantes instituciones pedagógicas en la enseñanza de mujeres (la Residencia Internacional de Señoritas\, el Instituto-Escuela y el Lyceum Club Femenino). Trabajó para que sus alumnas tuvieran una formación intelectual que fomentase la responsabilidad civil y la participación igualitaria e integral en la sociedad.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210719-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210719
+SUMMARY:19 de julio de 1945
+DESCRIPTION:19 de julio de 1945. Nació la genetista Nancy Wexler. Colaboró en el descubrimiento de la localización del gen que causa la enfermedad de Huntington.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210720-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210720
+SUMMARY:20 de julio de 1969
+DESCRIPTION:20 de julio de 1969. El módulo lunar de Apolo 11\, llamado Eagle\, aterrizó con éxito en la Luna.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210721-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210721
+SUMMARY:21 de julio de 2013
+DESCRIPTION:21 de julio de 2013. Se desarrolló una piel electrónica sensible y flexible que imita la piel humana real. Esta piel puede detectar y responder a diferentes niveles de presión.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210722-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210722
+SUMMARY:22 de julio de 1871
+DESCRIPTION:22 de julio de 1871. Se colocó la primera piedra del puente ferroviario Tay (Escocia). Fue el puente más largo del mundo en su época.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210723-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210723
+SUMMARY:23 de julio de 2020
+DESCRIPTION:23 de julio de 2020. Un estudio con participación del CSIC reveló una reducción del 50% del ruido sísmico generado por la actividad humana. Esta reducción se produjo como consecuencia de las medidas de confinamiento por la pandemia del coronavirus.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210724-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210724
+SUMMARY:24 de julio de 2009
+DESCRIPTION:24 de julio de 2009. Se inauguró el Gran Telescopio Canarias\, en el Observatorio del Roque de los Muchachos. Se convirtió en el telescopio óptico más grande del mundo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210725-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210725
+SUMMARY:25 de julio de 1938
+DESCRIPTION:25 de julio de 1938. Nació la psicóloga Davida Teller. Su trabajo contribuyó a la comprensión del desarrollo visual infantil.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210726-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210726
+SUMMARY:26 de julio de 2005
+DESCRIPTION:26 de julio de 2005. Se celebró el primer Día Internacional para la defensa del ecosistema manglar.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210727-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210727
+SUMMARY:27 de julio de 1995
+DESCRIPTION:27 de julio de 1995. La profesora Sheila Rowan presentó su tesis doctoral sobre las ondas gravitacionales.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210728-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210728
+SUMMARY:28 de julio de 1635
+DESCRIPTION:28 de julio de 1635. Nació el científico inglés Robert Hooke. Fue la primera persona en describir la vida microscópica en su libro Micrographia. Este libro contiene por primera vez la palabra célula.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210729-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210729
+SUMMARY:29 de julio de 1796
+DESCRIPTION:29 de julio de 1796. Nació el inventor Walter Hunt. Es conocido por haber creado el imperdible.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210730-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210730
+SUMMARY:30 de julio de 1889
+DESCRIPTION:30 de julio de 1889. Nació el ingeniero Vladimir Zworykin. Inventó el tubo de rayos catódicos y\, por ello\, se le conoce como el padre de la televisión.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210731-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210731
+SUMMARY:31 de julio de 1923
+DESCRIPTION:31 de julio de 1923. Nació la química Stephanie Kwolek. Sintetizó por primera vez el Kevlar\, un polímero que se usa en la fabricación de neumáticos\, velas náuticas o chalecos antibalas por su ligereza y extraordinaria resistencia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210801-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210801
+SUMMARY:1 de agosto de 1920
+DESCRIPTION:1 de agosto de 1920. Nació Henrietta Lacks. A los 31 años falleció por un cáncer de cérvix y fue donante involuntaria de sus células cancerosas. Con ellas se desarrolló una línea de cultivo celular inmortal llamada HeLa\, acrónimo de su nombre\, con las que se han realizado decenas de miles de estudios científicos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210802-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210802
+SUMMARY:2 de agosto de 1941
+DESCRIPTION:2 de agosto de 1941. Nació el biólogo Jules Hoffmann. Recibió el Premio Nobel por sus estudios en el campo de la inmunología. Estos trabajos revolucionaron la comprensión del sistema inmune mediante el descubrimiento de principios fundamentales para su activación.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210803-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210803
+SUMMARY:3 de agosto de 1958
+DESCRIPTION:3 de agosto de 1958. El submarino atómico Nautilus pasó bajo la corteza helada del océano Ártico\, desde el océano Pacífico hasta el Atlántico.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210804-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210804
+SUMMARY:4 de agosto de 1932
+DESCRIPTION:4 de agosto de 1932. Nació la informática Frances Elizabeth Allen. En 2006 se convirtió en la primera mujer ganadora del Premio Turing.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210805-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210805
+SUMMARY:5 de agosto de 2013
+DESCRIPTION:5 de agosto de 2013. Una compañía japonesa desarrolló una tirita reutilizable para tratar la hipertensión arterial crónica mediante la liberación continua de bisoprolol.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210806-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210806
+SUMMARY:6 de agosto de 1991
+DESCRIPTION:6 de agosto de 1991. El científico de la computación Tim Berners-Lee puso en línea el primer servidor web. Este servidor se encontraba en la Organización Europea para la Investigación Nuclear (CERN).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210807-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210807
+SUMMARY:7 de agosto de 1933
+DESCRIPTION:7 de agosto de 1933. Nació la politóloga Elinor Ostrom. Fue la primera mujer en obtener el Premio Nobel de Economía\, en 2009. Estudió cómo las personas interactúan para mantener a largo plazo los niveles de producción de recursos comunes.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210808-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210808
+SUMMARY:8 de agosto de 1948
+DESCRIPTION:8 de agosto de 1948. Nació la ingeniera y cosmonauta Svetlana Savítskaya. Fue la primera mujer en realizar dos viajes al espacio exterior y en caminar por el mismo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210809-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210809
+SUMMARY:9 de agosto de 1966
+DESCRIPTION:9 de agosto de 1966. Nació el investigador Glenn Postolski. Sus trabajos en el campo de las Ciencias Sociales se centran en las políticas de medios masivos y el derecho a la comunicación.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210810-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210810
+SUMMARY:10 de agosto de 2017
+DESCRIPTION:10 de agosto de 2017. Un equipo del IGME obtuvo la primera secuencia de imágenes acústicas de las plumas volcánicas que se emiten durante la erupción de un volcán submarino. El estudio se realizó cerca de la isla de El Hierro.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210811-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210811
+SUMMARY:11 de agosto de 1858
+DESCRIPTION:11 de agosto de 1858. Nació el Premio Nobel Christiaan Eijkman. Es conocido por ser el descubridor de la importancia de las vitaminas en la dieta. Descubrió la vitamina B1.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210812-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210812
+SUMMARY:12 de agosto de 1898
+DESCRIPTION:12 de agosto de 1898. Nació la geóloga marina María Vasílievna Kliónova. Fue la primera mujer que investigó en la Antártida.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210813-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210813
+SUMMARY:13 de agosto de 1797
+DESCRIPTION:13 de agosto de 1797. Nació el ingeniero y geólogo Casiano de Prado. En 1862\, participó en el descubrimiento de los primeros hallazgos paleolíticos de la península Ibérica\, en el valle del Manzanares.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210814-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210814
+SUMMARY:14 de agosto de 1777
+DESCRIPTION:14 de agosto de 1777. Nació Hans Christian Oersted. Fue el físico que descubrió el electromagnetismo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210815-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210815
+SUMMARY:15 de agosto de 1896
+DESCRIPTION:15 de agosto de 1896. Nació la bioquímica Gerty Cori. Junto a su marido Carl\, descubrió el mecanismo de la conversión catalítica del glucógeno (el ciclo de Cori). Fue la primera mujer en ganar el Premio Nobel en Fisiología y Medicina.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210816-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210816
+SUMMARY:16 de agosto de 1884
+DESCRIPTION:16 de agosto de 1884. Nació el pionero de la ciencia ficción Hugo Gernsback. Su ingenio e imaginación fueron desbordantes y registró multitud de patentes. Por ejemplo: un instrumento para captar mejor el sonido en la radio\, un nuevo método de depilación sin cera o una plataforma de aterrizaje para máquinas voladoras.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210817-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210817
+SUMMARY:17 de agosto de 1737
+DESCRIPTION:17 de agosto de 1737. Nació el agrónomo\, higienista y nutricionista Antoine Parmentier. Gracias a su trabajo\, se anularon las leyes que prohibían el cultivo de la patata. Hasta entonces\, casi todos los países europeos consideraban que la patata no era comestible.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210818-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210818
+SUMMARY:18 de agosto de 1824
+DESCRIPTION:18 de agosto de 1824. Se fundó el Real Conservatorio de Artes y Oficios\, que almacena toda la información tecnológica y es el registro de la propiedad intelectual.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210819-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210819
+SUMMARY:19 de agosto de 1790
+DESCRIPTION:19 de agosto de 1790. Nació el relojero Edward John Dent. Es reconocido por la creación de relojes de gran precisión y cronómetros marinos. Entre sus relojes más famosos está el Big Ben de Londres.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210820-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210820
+SUMMARY:20 de agosto de 1994
+DESCRIPTION:20 de agosto de 1994. El continente americano quedó declarado libre de poliomielitis gracias a las campañas de vacunación.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210821-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210821
+SUMMARY:21 de agosto de 1961
+DESCRIPTION:21 de agosto de 1961. Nació la neurobióloga Mara Dierssen. Es una experta mundial en el campo de la neurobiología y la farmacología\, y una de las investigadoras más destacadas en el síndrome de Down.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210822-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210822
+SUMMARY:22 de agosto de 1945
+DESCRIPTION:22 de agosto de 1945. Falleció la fisióloga Ida Henrietta Hyde. Desarrolló un microelectrodo suficientemente potente como para estimular tejidos y lo suficientemente pequeño como para extraer tejido de una célula.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210823-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210823
+SUMMARY:23 de agosto de 1931
+DESCRIPTION:23 de agosto de 1931. Nació el microbiólogo Hamilton O. Smith. Recibió el Premio Nobel por sus trabajos sobre enzimas de restricción\, capaces de cortar los ácidos nucleicos en puntos concretos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210824-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210824
+SUMMARY:24 de agosto de 1890
+DESCRIPTION:24 de agosto de 1890. Nació la bacterióloga Pearl Louella Kendrick. Es conocida por desarrollar la primera vacuna contra la tosferina. Lo hizo en colaboración con la experta en salud pública Grace Eldering y la química Loney Gordon.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210825-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210825
+SUMMARY:25 de agosto de 1900
+DESCRIPTION:25 de agosto de 1900. Nació el Premio Nobel Hans Adolf Krebs. Dio nombre al ciclo de Krebs\, una ruta metabólica que permite la obtención de energía para las células aerobias.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210826-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210826
+SUMMARY:26 de agosto de 1860
+DESCRIPTION:26 de agosto de 1860. Nació el ingeniero y arqueólogo Luis Siret y Cels. Descubrió los primeros yacimientos de la cultura argárica en el sudeste español. La sociedad argárica fue una de las de mayor relevancia en la Europa del III y II milenio a.e.c.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210827-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210827
+SUMMARY:27 de agosto de 1956
+DESCRIPTION:27 de agosto de 1956. La central nuclear de Calder Hall se convirtió en la primera del Reino Unido en suministrar electricidad a la población civil.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210828-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210828
+SUMMARY:28 de agosto de 2013
+DESCRIPTION:28 de agosto de 2013. Se cultivaron cerebros humanos en miniatura\, del tamaño de un guisante\, a partir de células madre.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210829-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210829
+SUMMARY:29 de agosto de 2019
+DESCRIPTION:29 de agosto de 2019. El mayor estudio realizado para averiguar la importancia de los genes en la conducta sexual confirmó que no existe un único gen de la homosexualidad y puso de manifiesto la complejidad de la sexualidad humana.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210830-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210830
+SUMMARY:30 de agosto de 1984
+DESCRIPTION:30 de agosto de 1984. La nave espacial Discovery despegó por primera vez. Llegó a realizar 39 misiones para la NASA.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210831-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210831
+SUMMARY:31 de agosto de 1912
+DESCRIPTION:31 de agosto de 1912. Nació el investigador Robert F. Borkenstein. Investigó la influencia del consumo de alcohol en los accidentes de tráfico. Inventó el alcoholímetro\, un instrumento revolucionario para medir el nivel de alcohol en el aire espirado.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210901-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210901
+SUMMARY:1 de septiembre de 1914
+DESCRIPTION:1 de septiembre de 1914. Falleció Martha\, la última paloma migratoria (Ectopistes migratorius). Tenía 29 años y vivía en cautividad en el zoológico de Cincinnati (EE. UU.). En solo un siglo pasó de ser el ave más abundante de Norteamérica a extinguirse.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210902-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210902
+SUMMARY:2 de septiembre de 1948
+DESCRIPTION:2 de septiembre de 1948. Nació la profesora de secundaria Christa Corrigan McAuliffe. Fue seleccionada entre más de 11.000 solicitantes para participar en el Proyecto Profesor en el Espacio de la NASA. Christa planeaba realizar experimentos y enseñar lecciones desde el espacio. El transbordador espacial en el que viajaba explotó a los 72 segundos del despegue.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210903-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210903
+SUMMARY:3 de septiembre de 1938
+DESCRIPTION:3 de septiembre de 1938. Nació el químico Ryōji Noyori. Ganó el Premio Nobel por sus investigaciones sobre la catálisis. Sus métodos se usan\, por ejemplo\, para la producción de mentol.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210904-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210904
+SUMMARY:4 de septiembre de 1998
+DESCRIPTION:4 de septiembre de 1998. Larry Page y Sergei Brin fundaron Google. El buscador comenzó a desarrollarse en 1996 como un proyecto de investigación\, cuando ellos dos eran estudiantes de doctorado.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210905-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210905
+SUMMARY:5 de septiembre de 1885
+DESCRIPTION:5 de septiembre de 1885. Se instaló la primera gasolinera. Fue en un garaje de Indiana (Estados Unidos).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210906-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210906
+SUMMARY:6 de septiembre de 1860
+DESCRIPTION:6 de septiembre de 1860. Nació la socióloga y Premio Nobel de la Paz Jane Addams. Fue pionera en la profesión de trabajo social y fundó la casa de acogida Hull House\, que también servía como institución sociológica para mujeres. Sus trabajos tuvieron gran influencia sobre la escuela de sociología de Chicago.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210907-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210907
+SUMMARY:7 de septiembre de 2016
+DESCRIPTION:7 de septiembre de 2016. Investigadores del IGME\, el Instituto de Ciencias del Mar (CSIC) y la Universidad de Las Palmas de Gran Canaria descubrieron que la isla de El Hierro perdió el 40% de su volumen durante un enorme derrumbamiento de tierra. El megadeslizamiento tuvo lugar hace 80.000 años.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210908-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210908
+SUMMARY:8 de septiembre de 1871
+DESCRIPTION:8 de septiembre de 1871. Nació la inventora y pianista Mary Elizabeth Hallock-Greenewalt. Sus patentes permitieron el desarrollo de Sarabet\, un órgano de color. Este instrumento emitía luces de colores con intensidades y matices que estaban sincronizadas con la música.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210909-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210909
+SUMMARY:9 de septiembre de 1936
+DESCRIPTION:9 de septiembre de 1936. Nació la microbióloga molecular Daisy Roulland-Dussoix. Colaboró en el descubrimiento de las enzimas de restricción.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210910-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210910
+SUMMARY:10 de septiembre de 1984
+DESCRIPTION:10 de septiembre de 1984. Se puso a punto la técnica de huella genética\, que permite identificar a las personas según su ADN. Esta técnica comenzó a utilizarse en criminología poco después.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210911-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210911
+SUMMARY:11 de septiembre de 1942
+DESCRIPTION:11 de septiembre de 1942. Nació la economista e historiadora económica Deirdre McCloskey. Sus investigaciones incluyen el estudio de los orígenes del mundo moderno\, el mal uso de la significación estadística en la economía y otras ciencias\, y el estudio del capitalismo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210912-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210912
+SUMMARY:12 de septiembre de 1958
+DESCRIPTION:12 de septiembre de 1958. El ingeniero eléctrico Jack Kilby presentó el primer circuito integrado del mundo. Los circuitos integrados también se conocen como chips o microchips.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210913-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210913
+SUMMARY:13 de septiembre de 1956
+DESCRIPTION:13 de septiembre de 1956. La empresa IBM presentó el primer ordenador comercial que utilizaba almacenamiento en disco.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210914-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210914
+SUMMARY:14 de septiembre de 1849
+DESCRIPTION:14 de septiembre de 1849. Nació el fisiólogo y Premio Nobel Iván Pávlov. Describió en perros el modelo de estímulo-respuesta o condicionamiento de Pávlov.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210915-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210915
+SUMMARY:15 de septiembre de 1885
+DESCRIPTION:15 de septiembre de 1885. Constantin Fahlberg patentó la sacarina. Este endulzante se sintetizó por primera vez a partir de derivados del alquitrán de hulla.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210916-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210916
+SUMMARY:16 de septiembre de 1884
+DESCRIPTION:16 de septiembre de 1884. Se realizó la primera operación bajo anestesia local. Gracias a su éxito\, comenzó su uso generalizado en odontología.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210917-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210917
+SUMMARY:17 de septiembre de 1857
+DESCRIPTION:17 de septiembre de 1857. Nació el físico y matemático Konstantín Tsiolkovski. Era sordo desde los 10 años y completamente autodidacta. Sus trabajos permitieron poner en órbita el primer satélite artificial y el primer viaje de una persona al espacio.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210918-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210918
+SUMMARY:18 de septiembre de 1819
+DESCRIPTION:18 de septiembre de 1819. Nació el físico Jean Foucault. Inventó el giroscopio y el péndulo que demuestra la rotación de la Tierra.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210919-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210919
+SUMMARY:19 de septiembre de 1991
+DESCRIPTION:19 de septiembre de 1991. Se descubrieron los restos momificados de una persona paleolítica (Ötzi) en el glaciar Similaun de los Alpes\, en la frontera ítalo-austríaca.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210920-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210920
+SUMMARY:20 de septiembre de 1906
+DESCRIPTION:20 de septiembre de 1906. Nació la matemática Vera Faddéyeva. Publicó algunos de los primeros trabajos sobre álgebra lineal.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210921-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210921
+SUMMARY:21 de septiembre de 1866
+DESCRIPTION:21 de septiembre de 1866. Nació el médico y microbiólogo Charles Nicolle. Ganó el Premio Nobel al descubrir que los piojos eran los principales transmisores del tifus.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210922-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210922
+SUMMARY:22 de septiembre de 1863
+DESCRIPTION:22 de septiembre de 1863. Nació el microbiólogo Alexandre Yersin. Fue codescubridor de la bacteria responsable de la peste bubónica\, que se llama Yersinia pestis en su honor.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210923-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210923
+SUMMARY:23 de septiembre de 1889
+DESCRIPTION:23 de septiembre de 1889. Se fundó Nintendo. En sus inicios era una fábrica de barajas de naipes japoneses. En 1975 comenzó a desarrollar videojuegos y\, en la actualmente\, es una de las mayores empresas del mundo de hardware y software de entretenimiento.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210924-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210924
+SUMMARY:24 de septiembre de 1905
+DESCRIPTION:24 de septiembre de 1905. Nació el médico y científico español Severo Ochoa. Ganó el Premio Nobel por sus estudios pioneros sobre la síntesis del ácido ribonucleico (ARN).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210925-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210925
+SUMMARY:25 de septiembre de 1899
+DESCRIPTION:25 de septiembre de 1899. Nació la neuróloga Margaret Kennard. Es conocida por sus estudios sobre los efectos del daño neurológico en los primates.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210926-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210926
+SUMMARY:26 de septiembre de 2013
+DESCRIPTION:26 de septiembre de 2013. El Curiosity Rover de la NASA detectó una gran cantidad de agua de fácil acceso en el cráter Gale de Marte.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210927-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210927
+SUMMARY:27 de septiembre de 1818
+DESCRIPTION:27 de septiembre de 1818. Nació el inventor Cosme García. Fue el primer español en patentar un prototipo de submarino. Una vez construido\, este sumergible fue probado con éxito en el puerto de Alicante en 1860.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210928-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210928
+SUMMARY:28 de septiembre de 1889
+DESCRIPTION:28 de septiembre de 1889. La primera Conferencia General de Pesos y Medidas definió la longitud de un metro como la distancia entre dos líneas en una barra fabricada con una aleación de platino con 10% de iridio\, medida al punto de fusión del hielo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210929-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210929
+SUMMARY:29 de septiembre de 1938
+DESCRIPTION:29 de septiembre de 1938. Nació el físico Enrico Fermi. En 1938\, recibió el Premio Nobel de Física por sus trabajos sobre radiactividad inducida. Cuatro años después\, realizó la primera reacción nuclear de origen humano.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210930-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20210930
+SUMMARY:30 de septiembre de 2009
+DESCRIPTION:30 de septiembre de 2009. El Observatorio Astronómico de Mallorca anunció el descubrimiento del cometa '2009QG31 La Sagra'\, más allá de la órbita de Marte.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211001-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211001
+SUMMARY:1 de octubre de 1883
+DESCRIPTION:1 de octubre de 1883. Tuvo lugar el primer ensayo de comunicación por teléfono en España. La línea estaba entre el Palacio Real y los Ministerios en Madrid.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211002-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211002
+SUMMARY:2 de octubre de 1846
+DESCRIPTION:2 de octubre de 1846. Comenzó a funcionar la línea de telegrafía óptica de Castilla\, que iba desde Madrid hasta Irún. Fue ideada por José María Mathé.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211003-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211003
+SUMMARY:3 de octubre de 1946
+DESCRIPTION:3 de octubre de 1946. La química y cristalógrafa Rosalind Franklin publicó su doctorado sobre química del carbón. El trabajo fue clave para comprender la estructura molecular del ADN.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211004-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211004
+SUMMARY:4 de octubre de 1949
+DESCRIPTION:4 de octubre de 1949. Nació el bioquímico Mariano Barbacid. Aisló el primer oncogén humano (H-ras). Los oncogenes son los responsables de que una célula normal se transforme en una célula maligna que desarrollará un cáncer.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211005-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211005
+SUMMARY:5 de octubre de 1963
+DESCRIPTION:5 de octubre de 1963. Nació el microbiólogo Francisco Juan Martínez Mojica. Descubrió las secuencias repetidas CRISPR en arqueas. La tecnología CRISPR-Cas de edición genética se basa en parte en dicho descubrimiento.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211006-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211006
+SUMMARY:6 de octubre de 1897
+DESCRIPTION:6 de octubre de 1897. Nació la bioquímica Florence Barbara Seibert. Desarrolló un método para purificar la proteína derivada de la tuberculina (PPD-S). Esto permitió la creación de un test fiable para la tuberculosis.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211007-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211007
+SUMMARY:7 de octubre de 1948
+DESCRIPTION:7 de octubre de 1948. Nació la naturalista y escritora Diane Ackerman. Sus obras de divulgación científica unen la poesía y un estilo sencillo\, lo que le ha potenciado un gran éxito editorial.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211008-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211008
+SUMMARY:8 de octubre de 1958
+DESCRIPTION:8 de octubre de 1958. El cirujano sueco Ake Senning implantó el primer marcapasos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211009-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211009
+SUMMARY:9 de octubre de 1902
+DESCRIPTION:9 de octubre de 1902. La comunidad científica internacional reconoció la autenticidad del arte paleolítico de la cueva de Altamira. Estas pinturas habían sido descubiertas por la niña María Sanz de Sautuola cuando visitaba la cueva en compañía de su padre Marcelino.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211010-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211010
+SUMMARY:10 de octubre de 1966
+DESCRIPTION:10 de octubre de 1966. Nació la química Carolyn Bertozzi. Estudió el papel de los glúcidos en enfermedades como el cáncer\, la artritis o la tuberculosis.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211011-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211011
+SUMMARY:11 de octubre de 1755
+DESCRIPTION:11 de octubre de 1755. Nació el químico Fausto Delhuyar. Junto a su hermano Juan José\, también químico\, fueron los primeros en aislar el wolframio (número atómico 74 en la Tabla Periódica). Este metal es muy escaso y muy codiciado por sus múltiples aplicaciones.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211012-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211012
+SUMMARY:12 de octubre de 1920
+DESCRIPTION:12 de octubre de 1920. Nació la microbióloga Leslie Barnett. Colaboró en algunos de los avances y descubrimientos más importantes sobre la estructura y las funciones de los genes.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211013-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211013
+SUMMARY:13 de octubre de 1914
+DESCRIPTION:13 de octubre de 1914. Garret Morgan patentó la máscara de gas. Unos años después\, este inventor creó el semáforo automático con luz de advertencia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211014-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211014
+SUMMARY:14 de octubre de 1865
+DESCRIPTION:14 de octubre de 1865. Nació la genetista Edith Rebecca Saunders. Jugó un papel importante en el redescubrimiento de las leyes de la herencia mendeliana y la comprensión de la genética de las plantas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211015-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211015
+SUMMARY:15 de octubre de 1902
+DESCRIPTION:15 de octubre de 1902. Nació la médica Amparo Poch y Gascón. Se especializó en puericultura y realizó una gran labor educativa entre las clases sociales más modestas para evitar enfermedades de tipo venéreo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211016-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211016
+SUMMARY:16 de octubre de 1969
+DESCRIPTION:16 de octubre de 1969. Doñana se convirtió en Parque Nacional. Su marisma es lugar de paso\, cría e invernada para miles de aves europeas y africanas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211017-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211017
+SUMMARY:17 de octubre de 1919
+DESCRIPTION:17 de octubre de 1919. Comenzó a funcionar la primera línea de metro de España. Discurría entre la Puerta del Sol y Cuatro Caminos\, en Madrid.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211018-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211018
+SUMMARY:18 de octubre de 1799
+DESCRIPTION:18 de octubre de 1799. Nació el químico Christian Schoenbein. Descubrió la nitrocelulosa y puso nombre al ozono.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211019-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211019
+SUMMARY:19 de octubre de 1924
+DESCRIPTION:19 de octubre de 1924. Nació la patóloga Rosemary Bamforth. Estableció el vínculo entre la muerte por cáncer de trabajadores de barcos y la exposición al amianto.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211020-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211020
+SUMMARY:20 de octubre de 1850
+DESCRIPTION:20 de octubre de 1850. Nació la naturalista Alice Blanche Balfour. Trabajó en el campo de la entomología y fue pionera en genética. Estudió cómo se hereda el patrón de rayas de las cebras.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211021-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211021
+SUMMARY:21 de octubre de 1879
+DESCRIPTION:21 de octubre de 1879. Thomas Edison presentó la bombilla eléctrica.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211022-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211022
+SUMMARY:22 de octubre de 1949
+DESCRIPTION:22 de octubre de 1949. Nació el médico Rafael Matesanz. En 1989 fundó la Organización Nacional de Trasplantes (ONT)\, donde se establecieron los protocolos responsables de que España sea líder mundial en trasplantes.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211023-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211023
+SUMMARY:23 de octubre de 1887
+DESCRIPTION:23 de octubre de 1887. La Armada Española comenzó a construir el submarino Peral. Este sumergible torpedero a propulsión eléctrica fue el primer submarino militar de la historia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211024-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211024
+SUMMARY:24 de octubre de 1924
+DESCRIPTION:24 de octubre de 1924. Nació la bioquímica y especialista en cereales Evangelina Villegas. Con su colega Surinder Vasal\, desarrolló la proteína de maíz de alta calidad\, por lo que obtuvieron el Premio Mundial de Alimentos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211025-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211025
+SUMMARY:25 de octubre de 1906
+DESCRIPTION:25 de octubre de 1906. Santiago Ramón y Cajal recibió la notificación de que había ganado el premio Nobel de Medicina. Al parecer\, su primera reacción fue comentar que se trataba de una broma de los estudiantes. Al día siguiente lo leyó en los periódicos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211026-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211026
+SUMMARY:26 de octubre de 1878
+DESCRIPTION:26 de octubre de 1878. Nació el matemático Sixto Cámara Tecedor. Fue cofundador de la Asociación Española para el Progreso de las Ciencias\, la Sociedad Matemática Española y el Laboratorio y Seminario Matemático de la Junta para la Ampliación de Estudios.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211027-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211027
+SUMMARY:27 de octubre de 1904
+DESCRIPTION:27 de octubre de 1904. Philip Downing inventó el apartado de correos\, todavía en uso en la actualidad.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211028-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211028
+SUMMARY:28 de octubre de 1848
+DESCRIPTION:28 de octubre de 1848. Se inaugura el primer ferrocarril de la península ibérica. Conectaba Barcelona con Mataró y su construcción obligó a perforar el primer túnel ferroviario de España.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211029-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211029
+SUMMARY:29 de octubre de 1969
+DESCRIPTION:29 de octubre de 1969. Dos ordenadores de distintas universidades californianas consiguieron conectarse y enviar un mensaje a través de un nuevo protocolo\, ARPANET. Esta red es la precursora de internet.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211030-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211030
+SUMMARY:30 de octubre de 1900
+DESCRIPTION:30 de octubre de 1900. Nació el científico Ragnar Granit. Ganó el Premio Nobel por sus descubrimientos de los procesos fisiológicos y químicos en el ojo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211031-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211031
+SUMMARY:31 de octubre de 1798
+DESCRIPTION:31 de octubre de 1798. John Dalton descubrió la discromatopsia. Esta enfermedad de la vista se conoce vulgarmente como daltonismo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211101-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211101
+SUMMARY:1 de noviembre de 1952
+DESCRIPTION:1 de noviembre de 1952. Se aisló por primera vez el elemento químico con número atómico 100. Su nombre (fermio) es un homenaje al físico Enrico Fermi.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211102-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211102
+SUMMARY:2 de noviembre de 1919
+DESCRIPTION:2 de noviembre de 1919. Nació Marie Morisawa\, una de las fundadoras de la geomorfología ambiental. La geomorfología une geografía​ y geología para estudiar las formas de la superficie terrestre y entender su formación y comportamiento actual.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211103-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211103
+SUMMARY:3 de noviembre de 1957
+DESCRIPTION:3 de noviembre de 1957. Laika viajó al espacio a bordo del Sputnik 2. Se convirtió así en el primer animal en hacer un vuelo espacial.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211104-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211104
+SUMMARY:4 de noviembre de 2008
+DESCRIPTION:4 de noviembre de 2008. Un equipo de investigación del IGME dió a conocer el yacimiento de ámbar cretácico de El Soplao. Tiene una dimensión y riqueza excepcionales y su ámbar azul-púrpura muestra una luminiscencia sin parangón en el mundo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211105-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211105
+SUMMARY:5 de noviembre de 1794
+DESCRIPTION:5 de noviembre de 1794. La química Elizabeth Fulhame publicó Un ensayo sobre la combustión. Fue el primer ejemplo de catálisis que se describió.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211106-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211106
+SUMMARY:6 de noviembre de 1935
+DESCRIPTION:6 de noviembre de 1935. El ingeniero Edwin Armstrong presentó el estudio titulado Un método de reducción de molestias en la radio mediante un sistema de modulación por frecuencia. Se creó así la radio FM (frecuencia modulada).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211107-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211107
+SUMMARY:7 de noviembre de 1867
+DESCRIPTION:7 de noviembre de 1867. Nació la química y física Marie Curie. Acuñó el término radioactividad y fue la primera persona en recibir dos premios Nobel en distintas especialidades (Física y Química).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211108-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211108
+SUMMARY:8 de noviembre de 1878
+DESCRIPTION:8 de noviembre de 1878. Nació la paleontóloga y zoóloga Dorothea Bate. Fue pionera en zooarqueología y\, junto a Dorothy Garrod\, encontraron los restos fósiles de numerosas especies que no habían sido descritas.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211109-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211109
+SUMMARY:9 de noviembre de 1795
+DESCRIPTION:9 de noviembre de 1795. Nació el cirujano James Barry. Fue médico de la Armada británica y trabajó para mejorar las condiciones de los soldados heridos. Realizó la primera cesárea exitosa de la que se tiene constancia en África.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211110-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211110
+SUMMARY:10 de noviembre de 1983
+DESCRIPTION:10 de noviembre de 1983. El estudiante de doctorado Fred Cohen creó un programa informático que es capaz de instalarse a sí mismo\, replicarse y propagarse a otras máquinas. Nació así el primer virus informático.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211111-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211111
+SUMMARY:11 de noviembre de 1930
+DESCRIPTION:11 de noviembre de 1930. Nació la física Mildred Dresselhaus. Es conocida como la reina de la ciencia del carbón por sus notables trabajos sobre el grafito.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211112-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211112
+SUMMARY:12 de noviembre de 1919
+DESCRIPTION:12 de noviembre de 1919. Nació la bióloga molecular Grete Kellenberger-Gujer. Su prestigio deriva de sus descubrimientos sobre la recombinación genética y la restricción del ADN.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211113-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211113
+SUMMARY:13 de noviembre de 2013
+DESCRIPTION:13 de noviembre de 2013. La NASA publicó un vídeo que presenta a Marte como podría haber sido hace 4.000 millones de años\, con cielos azules y agua.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211114-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211114
+SUMMARY:14 de noviembre de 1863
+DESCRIPTION:14 de noviembre de 1863. Nació el químico Leo Baekeland. Inventó la baquelita\, el primer plástico sintético. Su bajo coste y versatilidad la hicieron muy popular.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211115-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211115
+SUMMARY:15 de noviembre de 1873
+DESCRIPTION:15 de noviembre de 1873. Nació la médica Sara Josephine Baker. Realizó importantes contribuciones para disminuir la tasa de mortalidad infantil.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211116-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211116
+SUMMARY:16 de noviembre de 1940
+DESCRIPTION:16 de noviembre de 1940. Nació la física María Josefa Yzuel Giménez. Su investigación se ha centrado en el campo de la óptica y ha recibido numerosas distinciones a nivel nacional e internacional.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211117-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211117
+SUMMARY:17 de noviembre de 2015
+DESCRIPTION:17 de noviembre de 2015. Un total de 195 estados ratificó la creación de los Geoparques Mundiales de la UNESCO. Se trata de lugares con un patrimonio geológico de relevancia internacional que se emplean para promover el desarrollo sostenible de las comunidades que habitan en ellos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211118-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211118
+SUMMARY:18 de noviembre de 2010
+DESCRIPTION:18 de noviembre de 2010. ASUR lanzó la primera edición del Calendario Científico Escolar (en Rumanía).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211119-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211119
+SUMMARY:19 de noviembre de 2006
+DESCRIPTION:19 de noviembre de 2006. La compañía japonesa de videojuegos Nintendo sacó al mercado la consola Wii.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211120-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211120
+SUMMARY:20 de noviembre de 1985
+DESCRIPTION:20 de noviembre de 1985. El cirujano Leonard Lee Bailey realizó el primer trasplante de corazón exitoso en un recién nacido.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211121-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211121
+SUMMARY:21 de noviembre de 2013
+DESCRIPTION:21 de noviembre de 2013. El observatorio IceCube del Polo Sur detectó neutrinos de alta energía de origen extraterrestre. Su procedencia se sitúa fuera de nuestro sistema solar.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211122-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211122
+SUMMARY:22 de noviembre de 2013
+DESCRIPTION:22 de noviembre de 2013. Un equipo de investigación de la Universidad de Bönn descubrió un gen de origen neandertal en personas actuales. Se trata de un gen de la inmunidad que permite reconocer intrusos peligrosos y defenderse antes ellos mediante una respuesta inmune.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211123-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211123
+SUMMARY:23 de noviembre de 2002
+DESCRIPTION:23 de noviembre de 2002. Falleció el bioquímico Ángel Martín Municio\, el primer miembro español de la Organización Europea de Biología Molecular. Fue presidente de la Real Academia de Ciencias Exactas\, Físicas y Naturales durante 17 años.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211124-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211124
+SUMMARY:24 de noviembre de 2021
+DESCRIPTION:24 de noviembre de 2021. Día de la evolución. Se conmemora la publicación en 1859 del libro El origen de las especies\, de Charles Darwin.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211125-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211125
+SUMMARY:25 de noviembre de 1884
+DESCRIPTION:25 de noviembre de 1884. Se patentó un método para producir leche evaporada\, para poder conservar la leche más tiempo. Ese mismo día\, se patentó una máquina para esterilizar las latas en las que se conservaba esta leche.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211126-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211126
+SUMMARY:26 de noviembre de 1857
+DESCRIPTION:26 de noviembre de 1857. Nació el lingüista Ferdinand de Saussure. Es reconocido como el pionero de la lingüística científica.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211127-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211127
+SUMMARY:27 de noviembre de 1895
+DESCRIPTION:27 de noviembre de 1895. Alfred Nobel firmó su testamento. En él establecía la creación de un fondo que se emplearía para otorgar cinco premios anuales: los Premios Nobel.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211128-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211128
+SUMMARY:28 de noviembre de 1920
+DESCRIPTION:28 de noviembre de 1920. Nació la química Sagrario Ramírez Gallardo. Inventó y patentó la gasolina sólida.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211129-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211129
+SUMMARY:29 de noviembre de 1926
+DESCRIPTION:29 de noviembre de 1926. Nació la astrónoma Dilhan Eryurt. Su trabajo proporcionó información crucial a la NASA para modelar el impacto solar en el entorno lunar. Fue premiada por su contribución en el alunizaje del Apolo 11.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211130-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211130
+SUMMARY:30 de noviembre de 1720
+DESCRIPTION:30 de noviembre de 1720. Nació la matemática y escritora María Andresa Casamayor y de la Coma. Fue autora del Tirocinio Arithmetico\, obra para enseñar matemáticas desde y para la vida diaria. Publicó este libro con el pseudónimo masculino Casandro Mamés de La Marca y Araioa\, usando las letras de su nombre en diferente orden.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211201-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211201
+SUMMARY:1 de diciembre de 1913
+DESCRIPTION:1 de diciembre de 1913. Nació la psicóloga Mary Ainsworth. Junto a John Bowlby\, desarrollaron la teoría del apego.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211202-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211202
+SUMMARY:2 de diciembre de 1942
+DESCRIPTION:2 de diciembre de 1942. Enrico Fermi puso en funcionamiento la Chicago Pile-1\, el primer reactor nuclear artificial del mundo. El reactor estaba formado por una pila de uranio y bloques de grafito.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211203-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211203
+SUMMARY:3 de diciembre de 1842
+DESCRIPTION:3 de diciembre de 1842. Nació la química y ecóloga Ellen Swallow Richards. Fue una de las fundadoras de la higiene ambiental\, fase previa a la ecología moderna.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211204-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211204
+SUMMARY:4 de diciembre de 1844
+DESCRIPTION:4 de diciembre de 1844. Nació Augusto Arcimís. Fue el primer meteorólogo profesional español y el primer director del Instituto Central Meteorológico (ahora Agencia Estatal de Meteorología).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211205-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211205
+SUMMARY:5 de diciembre de 1854
+DESCRIPTION:5 de diciembre de 1854. Aaron Allen patentó la butaca con asiento abatible. Hoy en día\, este tipo de butaca se usa en casi todos los teatros y auditorios del mundo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211206-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211206
+SUMMARY:6 de diciembre de 1888
+DESCRIPTION:6 de diciembre de 1888. Nació la zoóloga Libbie Henrietta Hyman. Su obra en seis volúmenes titulada Los invertebrados sigue siendo un trabajo de referencia en la actualidad.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211207-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211207
+SUMMARY:7 de diciembre de 1949
+DESCRIPTION:7 de diciembre de 1949. La maestra Ángela Ruiz Robles patentó la Enciclopedia Mecánica. Este invento se considera el precursor del libro electrónico. Incluía una fuerte perspectiva de atención a la diversidad\, con la posibilidad de montar audios y lupas para el alumnado con problemas de acceso.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211208-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211208
+SUMMARY:8 de diciembre de 2013
+DESCRIPTION:8 de diciembre de 2013. En la Universidad de Lyon se mostró un nuevo método para extraer hidrógeno de las rocas y el agua. Esta técnica podría convertirse en una nueva fuente de energía verde.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211209-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211209
+SUMMARY:9 de diciembre de 1979
+DESCRIPTION:9 de diciembre de 1979. Se erradicó por primera vez una enfermedad. Fue la viruela y se logró gracias a la vacunación.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211210-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211210
+SUMMARY:10 de diciembre de 1823
+DESCRIPTION:10 de diciembre de 1823. La paleontóloga Mary Anning descubrió el primer esqueleto completo de un plesiosaurio. Este gran reptil marino vivió a principios del Jurásico.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211211-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211211
+SUMMARY:11 de diciembre de 1863
+DESCRIPTION:11 de diciembre de 1863. Nació la astrónoma Annie Jump Cannon. Descubrió 300 estrellas variables y su trabajo de catalogación fue fundamental para la actual clasificación estelar.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211212-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211212
+SUMMARY:12 de diciembre de 1901
+DESCRIPTION:12 de diciembre de 1901. Guglielmo Marconi realizó la primera comunicación radiofónica trasatlántica entre Cornualles (Reino Unido) y Terranova (Canadá).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211213-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211213
+SUMMARY:13 de diciembre de 1816
+DESCRIPTION:13 de diciembre de 1816. Nació el inventor Werner von Siemens. Está considerado uno de los padres de la ingeniería eléctrica y su apellido ha quedado ligado para siempre a la empresa que fundó: Siemens.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211214-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211214
+SUMMARY:14 de diciembre de 1911
+DESCRIPTION:14 de diciembre de 1911. La expedición noruega dirigida por Roald Amundsen llegó al Polo Sur. Por si el equipo no conseguía regresar\, dejaron allí una tienda con una carta en su interior para demostrar su logro.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211215-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211215
+SUMMARY:15 de diciembre de 2010
+DESCRIPTION:15 de diciembre de 2010. Arrancó la Expedición de Circunnavegación Malaspina. Los buques Hespérides y Sarmiento de Gamboa (CSIC) dieron la vuelta al mundo para realizar investigación científica\, formar jóvenes investigadores y fomentar las ciencias marinas. Su nombre es un homenaje a la expedición que dirigió Alejandro Malaspina en el siglo XVIII.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211216-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211216
+SUMMARY:16 de diciembre de 1954
+DESCRIPTION:16 de diciembre de 1954. Tracy Hall obtuvo los primeros diamantes sintéticos en los laboratorios de General Electrics.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211217-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211217
+SUMMARY:17 de diciembre de 2014
+DESCRIPTION:17 de diciembre de 2014. Un estudio del IGME y las Universidades de Barcelona y Harvard demostró la existencia de gambas de tierra en Álava. Estos crustáceos vivieron hace 105 millones de años y quedaron conservados en ámbar.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211218-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211218
+SUMMARY:18 de diciembre de 2019
+DESCRIPTION:18 de diciembre de 2019. Se describió una nueva especie de parásito en marsupiales. Su nombre es Theileria lupei en reconocimiento a la veterinaria Guadalupe Miró\, por su contribución al campo de la parasitología.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211219-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211219
+SUMMARY:19 de diciembre de 2016
+DESCRIPTION:19 de diciembre de 2016. La revista Nature nombró a Alexandra Elbakyan una de las diez personas más destacadas del año en ciencia. Alexandra es la fundadora de Sci-Hub\, una página web con acceso gratuito a millones de artículos científicos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211220-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211220
+SUMMARY:20 de diciembre de 1852
+DESCRIPTION:20 de diciembre de 1852. Nació el bacteriólogo Kitasato Shibasaburō. Fue codescubridor de la bacteria que causa la peste bubónica y desarrolló tratamientos para el tétanos\, la difteria y el ántrax. También dio nombre a un instrumento de laboratorio: el matraz kitasato.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211221-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211221
+SUMMARY:21 de diciembre de 1773
+DESCRIPTION:21 de diciembre de 1773. Nació el botánico Robert Brown. Descubrió que las minúsculas partículas suspendidas en los líquidos están en movimiento. Esto se conoce como movimiento browniano.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211222-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211222
+SUMMARY:22 de diciembre de 1882
+DESCRIPTION:22 de diciembre de 1882. Edward Hibberd Johnson se convirtió en la primera persona en el mundo que adornó su árbol navideño con luces eléctricas. En esa época\, era habitual utilizar velas\, lo que provocaba numerosos incendios.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211223-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211223
+SUMMARY:23 de diciembre de 1947
+DESCRIPTION:23 de diciembre de 1947. Los físicos Walter Brattain y John Bardeen desarrollaron el primer transistor. Este dispositivo es la base del funcionamiento de la mayoría de los aparatos electrónicos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211224-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211224
+SUMMARY:24 de diciembre de 1913
+DESCRIPTION:24 de diciembre de 1913. Nació la química Miriam Michael Stimson. Desarrolló la técnica de disco de bromuro de potasio. Este método de preparación de las muestras mejora su análisis mediante espectroscopía infrarroja.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211225-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211225
+SUMMARY:25 de diciembre de 1901
+DESCRIPTION:25 de diciembre de 1901. Nació Richard Shope\, el especialista en patología animal que aisló por primera vez un influenzavirus. Estos virus causan la gripe en aves y mamíferos (incluyendo los humanos).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211226-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211226
+SUMMARY:26 de diciembre de 1780
+DESCRIPTION:26 de diciembre de 1780. Nació la matemática y astrónoma Mary Fairfax Greig Somerville. Propuso la existencia de un planeta que alteraba la órbita de Urano. Posteriormente se demostró que ese planeta era Neptuno.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211227-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211227
+SUMMARY:27 de diciembre de 1822
+DESCRIPTION:27 de diciembre de 1822. Nació el químico y microbiólogo Louis Pasteur. Demostró que la fermentación era causada por microorganismos e inventó la pasteurización. Este método permite el control de los microbios en líquidos\, como la leche.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211228-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211228
+SUMMARY:28 de diciembre de 1956
+DESCRIPTION:28 de diciembre de 1956. Nació la física Teresa Rodrigo Anoro. Jugó un papel importante en el descubrimiento del bosón de Higgs en el año 2012. Fue directora del Instituto de Física de Cantabria y formó parte del Comité de Política Científica del CERN.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211229-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211229
+SUMMARY:29 de diciembre de 1800
+DESCRIPTION:29 de diciembre de 1800. Nació el inventor Charles Goodyear. Descubrió el proceso de vulcanización del caucho\, con el que se hacen los neumáticos.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211230-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211230
+SUMMARY:30 de diciembre de 1930
+DESCRIPTION:30 de diciembre de 1930. Nació la química y farmacéutica Youyou Tu. Recibió el Premio Nobel por descubrir una nueva terapia contra la malaria.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211231-es
+DTSTAMP:20210116T111327Z
+DTSTART;VALUE=DATE:20211231
+SUMMARY:31 de diciembre de 2019
+DESCRIPTION:31 de diciembre de 2019. La Oficina de la OMS en China recibió un aviso de varios casos de neumonía de causa desconocida en la ciudad de Wuhan. Posteriormente\, se determinó que el causante de la enfermedad era el coronavirus SARS-CoV-2.
+ACTION:DISPLAY
+END:VEVENT
+END:VCALENDAR
