@@ -30,7 +30,7 @@ html = ''
     
     String[]found
 
-    new File("docs/csv/${year}_${lang}.tsv").withReader{ reader ->
+    new File("static/data/csv/${year}_${lang}.tsv").withReader{ reader ->
         reader.readLine()
         String line
         while( (line=reader.readLine()) != null){
