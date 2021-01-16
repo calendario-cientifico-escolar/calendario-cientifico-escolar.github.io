@@ -1,0 +1,2924 @@
+BEGIN:VCALENDAR
+PRODID:-//Ben Fortuna//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:20210101-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210101
+SUMMARY:1914/1/1
+DESCRIPTION:1914/1/1. Manuela Garín Pinillos jaio zen\, Mexikoko matematikaren aitzindarietako bat. Bere eredu matematikoak lagungarri izan ziren Lurraren eremu magnetikoa azaltzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210102-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210102
+SUMMARY:1839/1/2
+DESCRIPTION:1839/1/2. Louis Daguerre espazioaren lehen argazkia egiten ahalegindu zen. Dagerrotipo bat eta teleskopio bat erabili zituen argazkia egiteko\, baina ez zuen arrakastarik izan\, argazkia lausotuta atera zelako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210103-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210103
+SUMMARY:1871/1/3
+DESCRIPTION:1871/1/3. Henry Bradleyek lehen margarina patentatu zuen. Nagusiki kotoi-olioa eta animalia-koipea erabili zuen errezeta egiteko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210104-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210104
+SUMMARY:1963/1/4
+DESCRIPTION:1963/1/4. May-Britt Moser neurozientifikoa jaio zen. Nobel Sari bat jaso zuen\, garunean kokatutako sare-zelulei buruz egin zuen ikerketarengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210105-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210105
+SUMMARY:1895/1/5
+DESCRIPTION:1895/1/5. Rebecca Craighill Lancefield mikrobiologoa jaio zen. Streptococcus taldeko bakterioak sailkatzeko metodo berri bat asmatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210106-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210106
+SUMMARY:1838/1/6
+DESCRIPTION:1838/1/6. Samuel Morsek eta Alfred Vailek telegrafoa jendaurrean erabili zuten\, lehen aldiz. Hamarkadatan\, asmakizun hori komunikazio-sistema ezagunenetako bat izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210107-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210107
+SUMMARY:1992/1/7
+DESCRIPTION:1992/1/7. AT&T enpresak bideofonoa aurkeztu zuen. Bideo-pantaila zuen lehen telefonoa izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210108-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210108
+SUMMARY:1988/1/8
+DESCRIPTION:1988/1/8. Juan Carlos I Espainiako Base Antartikoa inauguratu zen. CSICek kudeatzen du base zientifiko hori\, Antartikako Livingston uhartean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210109-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210109
+SUMMARY:1923/1/9
+DESCRIPTION:1923/1/9. Juan de la Cierva asmatzaileak autogiroa arrakastaz erabili zuen. Aireontzi hori\, hegazkinaren eta helikopteroaren arteko nahasketa bat da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210110-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210110
+SUMMARY:1860/1/10
+DESCRIPTION:1860/1/10. Londresko metroa inauguratu zen. Metro hori\, lurrazpiko garraio publikoko sistema zaharrena da munduan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210111-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210111
+SUMMARY:1907/1/11
+DESCRIPTION:1907/1/11. Mary Shaw Shorb immunologoa jaio zen. Maryk B12 bitamina aztertzeko teknika bat garatu zuen. Horrekin\, anemia kaltegarriari aurre egiten lagundu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210112-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210112
+SUMMARY:1925/1/12
+DESCRIPTION:1925/1/12. Miguel Cordero del Campillo albaitaria jaio zen. Mundu-mailako autoritate bat izan zen parasitologiaren alorrean. Funtsezko zeregin bat izan zuen Leongo Unibertsitatearen sorreran.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210113-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210113
+SUMMARY:1927/1/13
+DESCRIPTION:1927/1/13. Sydney Brenner biologoa jaio zen. Nobel Sari bat jaso zuen garapenaren erregulazio genetikoari eta zelulen heriotzari buruz egin zituen ikerketengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210114-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210114
+SUMMARY:1973/1/14
+DESCRIPTION:1973/1/14. Elvis Presleyk satelite bidez transmititutako lehen kontzertua eman zuen. Honoluluko Nazioarteko Zentrotik egin zen\, eta 40 herrialdetan ikusteko aukera izan zuten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210115-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210115
+SUMMARY:1826/1/15
+DESCRIPTION:1826/1/15. Marie Pasteur laguntzaile zientifikoa jaio zen. Louis Pasteurren emaztea zen\, eta haren laguntzaile eta kolaboratzaile gisa jardun zuen. Haren laguntza funtsezkoa izan zen ikertzailearen aurkikuntzetan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210116-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210116
+SUMMARY:1932/1/16
+DESCRIPTION:1932/1/16. Dian Fossey zoologoa jaio zen. Pazientzia handiz behatu zuen gorilen portaera\, eta\, Ruandan\, Karisokeko Ikerketa Zentroa fundatu zuen. Zentro hori\, mendiko gorilen kontserbaziorako itxaropen nagusia da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210117-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210117
+SUMMARY:1897/1/17
+DESCRIPTION:1897/1/17. Caroline Emilie Bleeker fisikaria jaio zen. Besteak beste\, tresna optikoen diseinuari eta fabrikazioari buruzko azterlan ezagunak egin zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210118-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210118
+SUMMARY:1969/1/18
+DESCRIPTION:1969/1/18. Arizonako Unibertsitateko astronomia-talde batek pulsar baten seinale optikoak detektatu zituen\, lehen aldiz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210119-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210119
+SUMMARY:1915/1/19
+DESCRIPTION:1915/1/19. Georges Claudek neoizko lehen hodia patentatu zuen. Asmakizun hori laster egin zen ezagun\, publizitate-karteletan eman zitzaion erabilerari esker.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210120-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210120
+SUMMARY:1944/1/20
+DESCRIPTION:1944/1/20. Cogulladako Biologia Esperimentaleko Estazioa sortu zen\; gaur egun\, Aula Deiko Estazio Esperimentala deitzen zaio. CSICeko institutu horren helburua da nekazaritza-sektorearen lehiakortasuna eta jasangarritasuna hobetzea.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210121-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210121
+SUMMARY:1865/1/21
+DESCRIPTION:1865/1/21. Sophia Jex-Blake jaio zen\, "Edinburgoko zazpietako" bat\, hain zuzen. Emakumeak unibertsitate-hezkuntzan sar zitezela ziurtatzeko kanpaina zuzendu zuen\, eta ondoren Medikuntza ikasi zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210122-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210122
+SUMMARY:1909/1/22
+DESCRIPTION:1909/1/22. Faustino Cordón farmazialari eta biologoa jaio zen. Eboluzioaren eremuan ardaztutako ikerketak egin zituen. 1979an\, Biologia Eboluzionistari buruzko Ikerketarako Fundazioa sortu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210123-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210123
+SUMMARY:1921/1/23
+DESCRIPTION:1921/1/23. Marija Gimbutas arkeologoa jaio zen. "Kurgan hipotesia" proposatu zuen. Hipotesi horrek arkeologia eta linguistika uztartu zituen\, hizkuntza protoindoeuropeoan hitz egiten zuten herrien jatorria kokatzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210124-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210124
+SUMMARY:1809/1/24
+DESCRIPTION:1809/1/24. Mariano de la Paz Graells naturalista jaio zen. Intsektu espezie berriak deskribatu zituen\, besteak beste\, isabel-tximeleta zoragarria (Graellsia isabelae).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210125-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210125
+SUMMARY:1235/1/25
+DESCRIPTION:1235/1/25. Litekeena da Ramón Llul urte hartan jaio izana. “El árbol de la ciencia” izeneko lana idatzi zuen\, Espainian naturari buruz idatzitako lehen tratatu zientifikoa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210126-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210126
+SUMMARY:1941/1/26
+DESCRIPTION:1941/1/26. Joan Elaine Argetsinger Steitz biokimikaria jaio zen. Nazioartean ospe handia lortu zuen RNAri buruzko aurkikuntzei esker.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210127-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210127
+SUMMARY:1876/1/27
+DESCRIPTION:1876/1/27. Elisha Gray ingeniari elektrikoak "musika-telegrafoaren" patentea eskatu zuen. Lehen musika-tresna elektrikoetako bat izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210128-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210128
+SUMMARY:2013/1/28
+DESCRIPTION:2013/1/28. IBM Sequoia superordenagailuak kalkulu-marka bat hautsi zuen\, jet esperimental baterako motor bat modelatu zuelako. Horretarako\, milioi bat prozesamendu-nukleo baino gehiagoren laguntza izan zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210129-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210129
+SUMMARY:1947/1/29
+DESCRIPTION:1947/1/29. Linda Brown Buck biologo eta medikua jaio zen. Nobel sari bat irabazi zuen usaimenaren errezeptoreak eta usaimen-sistemaren antolamendua aurkitu zituelako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210130-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210130
+SUMMARY:1975/1/30
+DESCRIPTION:1975/1/30. Ernő Rubik eskultoreak "kubo magikoaren" patentea eskatu zuen. Gaur egun\, Rubiken kuboa esaten zaio asmakizun horri.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210131-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210131
+SUMMARY:1925/1/31
+DESCRIPTION:1925/1/31. Manuel Jalón jaio zen. Patente ugari egin zituen\, zenbait tresna oso ezagun barne\, hala nola lanbasa edo fregona\, edo erabili eta botatzeko xiringa hipodermikoa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210201-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210201
+SUMMARY:1949/2/1
+DESCRIPTION:1949/2/1. Hale teleskopioa martxan jarri zen\, munduko handiena garai hartan\, 200 hazbete baitzeuzkan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210202-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210202
+SUMMARY:1939/2/2
+DESCRIPTION:1939/2/2. Mary-Dell Chilton bioteknologoa jaio zen. Landareetarako bioteknologia modernoaren fundatzaileetako bat izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210203-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210203
+SUMMARY:1900/2/3
+DESCRIPTION:1900/2/3. Juana Álvarez-Prida y Vega jaio zen. Espainiako lehen kimikarietako bat izan zen 1990ean\, Zientziaren Emakume Aurrerazalearen lehen Saria jaso zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210204-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210204
+SUMMARY:1896/2/4
+DESCRIPTION:1896/2/4. Thaddeus Cahillek telarmonioaren patentea eskatu zuen\, guztiz elektronikoa eta polifonikoa zen lehen musika-tresnaren patentea\, hain zuzen. Lehen prototipoak 200 tonako pisua zuen\, eta 18 metroko luzera.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210205-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210205
+SUMMARY:1949/2/5
+DESCRIPTION:1949/2/5. Nieves López Martínez paleontologoa jaio zen. Nazioartean ospea lortu zuen\, logomorfoen eboluzioan (untxiak\, erbiak eta pikak) eta Kretazeo-Tertziarioko desagertze masiboarekin lotutako gertaera biotiko eta ingurumenekoen alorrean aditua baitzen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210206-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210206
+SUMMARY:2014/2/6
+DESCRIPTION:2014/2/6. NASAk\, Rover Curiosityk hartutako lehen irudia argitaratu zuen: Lurraren eta Ilargiaren irudia\, Marteko zeruan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210207-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210207
+SUMMARY:1824/2/7
+DESCRIPTION:1824/2/7. William Huggins jaio zen. Astronomia irauli zuen\, izarren konposizio kimikoa zehazteko metodoak erabili zituelako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210208-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210208
+SUMMARY:1825/2/8
+DESCRIPTION:1825/2/8. Henry Bates jaio zen. Zera aurkitu zuen\, harrapariengandik babesteko\, kaltegarriak ez diren tximeleta batzuek beste espezie toxiko batzuen itxura handia hartzen dutela (Batesen mimetismoa).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210209-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210209
+SUMMARY:1859/2/9
+DESCRIPTION:1859/2/9. Robert Hope-Jones organogilea jaio zen. Film mutuetan laguntzeko teatro-organo bat garatu zuen. Haren mekanismoan oinarrituta\, diafonoa patentatu zuen\, hau da\, itsasargien ondoan kokaturik\, itsasontziak lanbro artean gida ditzakeen sirena ozena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210210-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210210
+SUMMARY:1996/2/10
+DESCRIPTION:1996/2/10. Estatu Batuetan\, IBM Deep Blue superordenagailuak mendean hartu zuen lehen aldiz Garry Kasparov munduko xake-txapelduna.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210211-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210211
+SUMMARY:1939/2/11
+DESCRIPTION:1939/2/11. Lise Meitnerrek uranioaren fisio nuklearrari buruzko lehen aurkikuntza argitaratu zuen\, uranioak neutroi osagarri bat xurgatzean zer gertatzen den aditzera emanez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210212-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210212
+SUMMARY:1809/2/12
+DESCRIPTION:1809/2/12. Charles Darwin jaio zen\, hautespen natural bidezko eboluzioaren teoria egin zuen naturalista ospetsua.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210213-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210213
+SUMMARY:1946/2/13
+DESCRIPTION:1946/2/13. Pilar Bayer matematikaria jaio zen. 1986an\, Bartzelonako Zenbakiei buruzko Teoria Mintegia sortu zuen\, eta hartan jardun zuen ikertzaile.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210214-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210214
+SUMMARY:2005/2/14
+DESCRIPTION:2005/2/14. CSICen ikertzaile talde batek\, El Sidrón aztarnategiko gizabanako neandertal baten DNA lortu eta sekuentziatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210215-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210215
+SUMMARY:2001/2/15
+DESCRIPTION:2001/2/15. Nature aldizkarian (eta hurrengo egunean\, Science aldizkarian)\, giza genomaren sekuentziazioa eta hasierako analisia argitaratu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210216-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210216
+SUMMARY:2005/2/16
+DESCRIPTION:2005/2/16. Kiotoko Protokoloa indarrean hasi zen\, hau da\, berotegi-efektuko gasen emisioak murrizteko mundu-hitzarmena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210217-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210217
+SUMMARY:1874/2/17
+DESCRIPTION:1874/2/17. Ida Helen Ogilvie geologoa jaio zen. Labaren propietateak aurkitu zituen\, baita aridotasunak lurzoruen higaduren gainean eragiten dituen efektuak ere.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210218-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210218
+SUMMARY:1913/2/18
+DESCRIPTION:1913/2/18. Frederick Soddy kimikari eta Nobel Sariak "isotopoa" terminoa erantsi zuen zientzia-hizkuntzan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210219-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210219
+SUMMARY:1878/2/19
+DESCRIPTION:1878/2/19. Thomas A. Edisonek fonografoa patentatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210220-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210220
+SUMMARY:2016/2/20
+DESCRIPTION:2016/2/20. IGMEko ikertzaileek lehen marisorgin fosila aurkitu zuten\, munduan ezagutzen den zaharrenetako bat. San Justeko anbar-aztarnategian aurkitu zuten\, Teruelgo Utrillas herrian. Aztarnategia Kretazeokoa da\, eta 105 milioi urtetik gorako adina dauka.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210221-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210221
+SUMMARY:1947/2/21
+DESCRIPTION:1947/2/21. Edwin Herbert Land asmatzaileak\, lehen aldiz\, argazkien bat-bateko kamera bat aurkeztu zuen jendaurrean: Polaroid Land Camera.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210222-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210222
+SUMMARY:1876/2/22
+DESCRIPTION:1876/2/22. Johns Hopkins Unibertsitatea sortu zen. Estatu Batuetan ikerketa medikoan espezifikoki jardun zuen lehen unibertsitatea izan zen. Johns Hopkins enpresaburuaren herentziari esker sortu zen fundazioa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210223-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210223
+SUMMARY:1879/2/23
+DESCRIPTION:1879/2/23. Agnes Arber jaio zen\, landare monokotiledoneoen azterketan espezializatutako botanikaria.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210224-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210224
+SUMMARY:1938/2/24
+DESCRIPTION:1938/2/24. DuPont enpresa salmentarako nylonezko lehen produktua fabrikatzen hasi zen: hortzetako eskuila bat. Ordura arte\, txerrien lepoko ileaz egiten ziren nagusiki.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210225-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210225
+SUMMARY:1869/2/25
+DESCRIPTION:1869/2/25. Phoebus Levene kimikaria jaio zen. Desoxirribosa aurkitu zuen\, DNAren osagai nagusietako bat.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210226-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210226
+SUMMARY:1958/2/26
+DESCRIPTION:1958/2/26. Susan Helms jaio zen\, espazioan barreneko paseorik luzeenaren marka hautsi zuen emakume astronauta: ia 9 ordu.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210227-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210227
+SUMMARY:1869/2/27
+DESCRIPTION:1869/2/27. Alice Hamilton patologoa jaio zen. Industria-gaixotasunei buruzko ikerketak egin zituen\, eta lan-baldintza seguruagoak lortzen lagundu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210228-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210228
+SUMMARY:1953/2/28
+DESCRIPTION:1953/2/28. Francis Crickek eta James Watsonek DNAren egituraren aurkikuntza argitaratu zuten. Biek Nobel Saria jaso zuten\, 1962. urtean. Rosalind Franklin\, haien laguntzailea zena\, 1958an hil zen inolako errekonozimendurik jaso gabe.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210301-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210301
+SUMMARY:1893/3/1
+DESCRIPTION:1893/3/1. Meteorologiako Institutu Nazionalak Espainiako lehen "eguraldi-mapa" egin zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210302-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210302
+SUMMARY:1922/3/2
+DESCRIPTION:1922/3/2. Frances Bilas Spence programatzailea jaio zen. ENIAC xede orokorreko lehen ordenagailu digitalaren jatorrizko sei programatzaileetako bat izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210303-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210303
+SUMMARY:1886/3/3
+DESCRIPTION:1886/3/3. Helen Parkhurst hezitzaile eta pedagogoa jaio zen. Dalton Plana sortu zuen. Plan horren arabera\, irakasgairik ez dago\, eta ikerketa-gidak erabiltzen dira testu-liburuen ordez. Ikasgela laborategi bihurturik\, ikasleek ikaskuntza osatzen dute\, irakasleekin konpromiso bat hartuz «kontratu» baten bitartez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210304-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210304
+SUMMARY:1877/3/4
+DESCRIPTION:1877/3/4. Robert Fritz Graebner etnologoa jaio zen. Kulturkreis edo Kultura-zirkuluaren teoria garatu zuen. Teoria horren arabera\, kultura primitiboak eredu arkaiko bakar baten ondorio dira\, eta hortik abiatuta zabaldu dira.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210305-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210305
+SUMMARY:2013/3/5
+DESCRIPTION:2013/3/5. Human Connectome Proiektuak\, giza garunen oso irudi zehatzak argitaratu zituen. Irudi horiei esker\, garun-egituren konplexutasuna aztertzeko eta neurona-nahasmenduen arrazoiak identifikatzeko aukera izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210306-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210306
+SUMMARY:1937/3/6
+DESCRIPTION:1937/3/6. Valentina Tereshkova ingeniari eta kosmonauta jaio zen. Vostok 6 ontzian\, kanpo-espaziora bidaiatu zuen lehen emakumea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210307-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210307
+SUMMARY:2009/3/7
+DESCRIPTION:2009/3/7. Kepler lehen behatoki espaziala jaurti zuten. Beste izar batzuen inguruan Lurraren antzeko planetak aurkitzeko eginkizuna zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210308-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210308
+SUMMARY:1839/3/8
+DESCRIPTION:1839/3/8. Josephine Cochrane jaio zen. Lehen ontzi-garbigailu arrakastatsua asmatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210309-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210309
+SUMMARY:1961/3/9
+DESCRIPTION:1961/3/9. Sputnik 9k Chernushka txakur emea espaziora eraman zuen. Akuri bat eta sagu bat ere eraman zuten\, baita Ivan Ivanovich izeneko proba-maniki bat ere. Lurrera bueltan\, manikia jaurtigailu batez atera zen\, eta jausgailu baten laguntzarekin lehorreratu. Gainerakoak onik iritsi ziren\, kapsularen barruan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210310-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210310
+SUMMARY:1876/3/10
+DESCRIPTION:1876/3/10. Alexander Graham Bellek historiako lehen telefono-dei arrakastatsua egin zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210311-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210311
+SUMMARY:1926/3/11
+DESCRIPTION:1926/3/11. Thomas Earl Starzl mediku eta ikertzailea jaio zen. 1967an\, lehen gibel-transplante arrakastatsua burutu zuen\, zenbait aldiz alferrik saiatu ondoren.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210312-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210312
+SUMMARY:2015/3/12
+DESCRIPTION:2015/3/12. Alzheimerren gaixotasunaren tratamendu berri bati esker\, amiloide-plakak kasuen % 75ean desagerraraztea lortu zuten (saguengan).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210313-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210313
+SUMMARY:1988/3/13
+DESCRIPTION:1988/3/13. Seikan tunela inauguratu zen\, Japoniako Aomori eta Hakodate hirien artean. Munduko urpeko tunelik luzeena da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210314-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210314
+SUMMARY:1963/3/14
+DESCRIPTION:1963/3/14. Pedro Duque astronauta\, politikari eta ingeniari aeronautikoa jaio zen. Batez ere\, nazionalitate espainiarreko lehen astronauta izan zelako da ezaguna.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210315-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210315
+SUMMARY:1985/3/15
+DESCRIPTION:1985/3/15. Interneten lehen "punto com" domeinua erregistratu zen: Symbolics.com
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210316-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210316
+SUMMARY:1799/3/16
+DESCRIPTION:1799/3/16. Anna Atkins botanikaria jaio zen. Lehen emakume argazkilaria izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210317-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210317
+SUMMARY:1963/3/17
+DESCRIPTION:1963/3/17. María Elisa Álvarez Obaya-ren analisiei esker\, "metilikoaren kasua" azaleratu zen. Lanzaroteko bere farmazia xumetik\, María Elisak frogatu zuen zenbait heriotza bitxi metanolarekin aizundutako likoreak kontsumitzearen ondorio zirela.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210318-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210318
+SUMMARY:1987/3/18
+DESCRIPTION:1987/3/18. Tenperatura altuko superkonektagarritasunaren aurkikuntza iragarri zen. New Yorkeko biltzar zientifiko batean izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210319-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210319
+SUMMARY:2019/3/19
+DESCRIPTION:2019/3/19. CSICen parte-hartzea izan zuen nazioarteko azterlan batek frogatu zuenez\, ozeanoek xurgatzen dute giza jarduerak sortutako CO2aren % 31.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210320-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210320
+SUMMARY:2021/3/20
+DESCRIPTION:2021/3/20. Txolarrearen Mundu Eguna. Ekimen horren bitartez\, txolarreen egoeraz ohartarazi nahi da. Txolarreen populazioa gainbehera nabarian baitago\, hirietan bereziki.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210321-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210321
+SUMMARY:1866/3/21
+DESCRIPTION:1866/3/21. Antonia Maury astronomoa jaio zen. Harvard College Observatory-n lan egin zuen\, eta izar-espektroen katalogo garrantzitsu bat argitaratu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210322-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210322
+SUMMARY:1920/3/22
+DESCRIPTION:1920/3/22. Katsuko Saruhashi geokimikaria jaio zen. CO2 karbono dioxidoko mailen lehen neurketak egin zituen itsasoko uretan. Agerian jarri zituen euri erradiaktiboak itsasoarentzat eta atmosferarentzat dakartzan arriskuak.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210323-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210323
+SUMMARY:2005/3/23
+DESCRIPTION:2005/3/23. José Luis Carrascosak eta Bioteknologia Zentro Nazionaleko bere taldeak baztangaren birusaren egitura deskribatu zuten\, lehen aldiz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210324-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210324
+SUMMARY:1882/3/24
+DESCRIPTION:1882/3/24. Robert Kochek\, tuberkulosia dakarren bakterioaren aurkikuntza iragarri zuen. Mycobacterium tuberculosis zen (Kochen baziloa).
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210325-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210325
+SUMMARY:1914/3/25
+DESCRIPTION:1914/3/25. Norman Borlaug agronomoa jaio zen. "Iraultza berdearen aita" izendatu zuten\, eta Bakearen Nobel Saria jaso zuen Mexikoko\, Pakistango eta Indiako nekazaritza-produkzioan hazi hibridoak sartzeko egin zituen ahaleginengatik. Horri esker\, nekazaritza-produktibitateak gora egin zuen\, eta milioika giza bizitza salbatu ziren.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210326-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210326
+SUMMARY:1953/3/26
+DESCRIPTION:1953/3/26. Jonas Salk ikertzaileak\, poliomielitisaren aurkako txertoaren aurkikuntza iragarri zuen. Txertaketari esker\, haur-paralisia esaten zaion gaixotasun infekzioso hori desagerrarazi da\, Europan\, Amerikan\, Ozeanian eta Afrikan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210327-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210327
+SUMMARY:1827/3/27
+DESCRIPTION:1827/3/27. Charles Darwinek\, 18 urte zituela\, bere lehen aurkikuntza zientifikoa aurkeztu zuen. Itsas animalia txikien biologiari buruzkoa zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210328-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210328
+SUMMARY:2013/3/28
+DESCRIPTION:2013/3/28. Stanfordeko Unibertsitateak\, DNAko eta RNAko molekuletatik abiatuta egindako transistore biologiko baten garapena aurkeztu zuen jendaurrean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210329-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210329
+SUMMARY:1942/3/29
+DESCRIPTION:1942/3/29. Ann A. Kiessling biologoa jaio zen. Mehran Goulianekin batera\, alderantzizko transcriptasak giza zeluletan ziharduela aurkitu zuen. Ordura arte\, entzima hori erretrobirusetan baino ez zegoela uste zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210330-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210330
+SUMMARY:1900/3/30
+DESCRIPTION:1900/3/30. María Moliner bibliotekari\, filologo eta lexikografo espainiarra jaio zen. Espainieraren erabilera-hiztegia egin zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210331-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210331
+SUMMARY:1596/3/31
+DESCRIPTION:1596/3/31. René Descartes filosofo eta matematikari frantziar ospetsua jaio zen. "Pentsatzen dut\; beraz\, banaiz" kontzeptua sortu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210401-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210401
+SUMMARY:1940/4/1
+DESCRIPTION:1940/4/1. Wangari Muta Maathai biologo eta ekologista jaio zen. 2004an Bakearen Nobel Saria jaso zuen\, garapen jasangarriari eta demokraziari egindako ekarpenengatik. Sari hori lortu zuen lehen emakume afrikarra izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210402-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210402
+SUMMARY:1618/4/2
+DESCRIPTION:1618/4/2. Francesco Grimaldi fisikaria jaio zen. Argiaren difrakzioa aurkitu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210403-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210403
+SUMMARY:1934/4/3
+DESCRIPTION:1934/4/3. Jane Goodall primatologoa jaio zen. Mundu osoan ezaguna da txinpantzeen interakzio sozial eta familiarrei buruz egin dituen azterlanengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210404-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210404
+SUMMARY:1868/4/4
+DESCRIPTION:1868/4/4. Philippa Garrett Fawcett matematikaria jaio zen. Cambridgeko Unibertsitateko beka bat irabazi zuen\, Mathematical Tripos ikastaroan izan zuen egundoko arrakastari esker (1890). Fluidoen dinamikari buruzko ikerketak egin zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210405-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210405
+SUMMARY:1952/4/5
+DESCRIPTION:1952/4/5. Venki Ramakrishnan kimikaria jaio zen. Nobel Saria irabazi zuen erribosomaren egitura eta funtzioari buruz egin zuen azterlanarengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210406-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210406
+SUMMARY:1846/4/6
+DESCRIPTION:1846/4/6. Antonio Machado y Álvarez edo "Demófilo" jaio zen\, Antonio eta Manuel Machado poeten aita. Flamenkoa zientifikoki aztertu zuten lehen folkloristetako bat izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210407-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210407
+SUMMARY:1995/4/7
+DESCRIPTION:1995/4/7. A Coruñan Domus inauguratu zen\, gizakia modu global eta monografikoan aztertzen duen lehen museo interaktibo zientifikoa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210408-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210408
+SUMMARY:1911/4/8
+DESCRIPTION:1911/4/8. Melvin Calvin kimikaria jaio zen. Kimikaren Nobel Saria irabazi zuen\, landareen CO2aren asimilazioari buruzko lanengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210409-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210409
+SUMMARY:1860/4/9
+DESCRIPTION:1860/4/9. Édouard-Léon Scott de Martinville asmatzaileak\, giza ahotsaren lehen grabazio ezaguna egin zuen. Soprano ahots bat "Au clair de la Lune" abestia kantatzen ari zenean egin zuen grabazioa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210410-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210410
+SUMMARY:2011/4/10
+DESCRIPTION:2011/4/10. IGMEren\, CIATFren\, eta Unibertsitate Konplutentsearen eta Lisboako Unibertsitatearen azterlan batean\, Tenerifen tsunamien metakinak zeudela aurkitu zuten. Tsunamien ondorioz\, 50 metrotik gorako olatuak izan ziren\, eta Las Cañadaseko sumendi-eraikina suntsitzea ere eragin zuten\, gaur egun Teide dagoen lekuan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210411-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210411
+SUMMARY:2013/4/11
+DESCRIPTION:2013/4/11. Loaldian zehar\, kontrolpeko denbora-tarteetan soinuak entzutea oroimenerako mesedegarri izan daitekeela aurkitu zuten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210412-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210412
+SUMMARY:1961/4/12
+DESCRIPTION:1961/4/12. Yuri Gagarin espaziora bidaiatu zuen lehen gizakia izan zen. Vostok 1 ontzi sobietarrean egin zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210413-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210413
+SUMMARY:2014/4/13
+DESCRIPTION:2014/4/13. IGMEren Subvent espedizioak muskuilu kimiosintetikoen multzo handiak aurkitu zituen metano-iturburuen inguruan\, Cádizeko Golkoan. Lanzaroten urpeko sumendi berriak ere aurkitu zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210414-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210414
+SUMMARY:1977/4/14
+DESCRIPTION:1977/4/14. Rosemary Huttonek artikulu bat argitaratu zuen\, harkaitzen eroankortasun elektrikoa historia geologikoa ikertzeko nola erabil daitekeen aditzera emanez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210415-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210415
+SUMMARY:1452/4/15
+DESCRIPTION:1452/4/15. Leonardo da Vinci jaio zen\, Errenazimentuko pintore\, eskultore\, asmatzaile\, ingeniari eta arkitekto handia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210416-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210416
+SUMMARY:1921/4/16
+DESCRIPTION:1921/4/16. Isaac Carassok\, "yoghourt” esaten diogun esne mamitua egiteko patentea eskatu zuen. Enpresari "Danone" izena jarri zion bere seme Danielen txikigarria erabiliz: "Danón".
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210417-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210417
+SUMMARY:1887/4/17
+DESCRIPTION:1887/4/17. Clodomiro Picado jaio zen. Aitzindaria izan zen sugeei eta haien pozoiei buruzko ikerketan. Penizilinaren aurkikuntzaren aitzindarietako bat ere izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210418-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210418
+SUMMARY:1917/4/18
+DESCRIPTION:1917/4/18. Mamie Phipps Clark psikologoa jaio zen. Eskolaurreko haurren kontzientzia sozialaren garapena ulertzeko zereginean jardun zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210419-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210419
+SUMMARY:1946/4/19
+DESCRIPTION:1946/4/19. María Vallet Regí kimikaria jaio zen. Aditua da traumatologiarako\, odontologiarako edo ehunen ingeniaritzarako aplikazioak dauzkaten biomaterialen alorrean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210420-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210420
+SUMMARY:2017/4/20
+DESCRIPTION:2017/4/20. Bryan Keith Hollandek GIBaren mikroRNA-ei buruzko doktorego-tesia aurkeztu zuen. Ezagunagoa da "Dexter" ezizenarekin eta The Offsprings punk rock bandako abeslaria eta gitarrista delako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210421-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210421
+SUMMARY:1838/4/21
+DESCRIPTION:1838/4/21. John Muir kontserbazionista jaio zen. Sequonia eta Yosemite parke nazionalen ezarpena defendatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210422-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210422
+SUMMARY:1999/4/22
+DESCRIPTION:1999/4/22. Logroñoko Zientzien Etxea ireki zuten. Zentro hori zientzia eta teknologiaren zabalkundeaz arduratzen da\, erakusketa\, konferentzia\, ikastaro\, proiekzio eta erakustaldi zientifikoen bitartez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210423-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210423
+SUMMARY:1933/4/23
+DESCRIPTION:1933/4/23. Annie J. Easley informatikaria jaio zen. NASAko Lewis Research Center zentroan lan egin zuen. Centaur suziriaren softwarea garatu zuen taldeko kidea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210424-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210424
+SUMMARY:2013/4/24
+DESCRIPTION:2013/4/24. IBMk robot bat garatu zuen telepresentzia eta errealitate areagotuko teknologiak uztartuz\, urruneko eremuetako ingeniaritza-proiektuetan laguntzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210425-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210425
+SUMMARY:1945/4/25
+DESCRIPTION:1945/4/25. Jean Marian Purdy enbriologoa jaio zen. In vitro ernalketaren garapenaren arduradunetako bat izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210426-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210426
+SUMMARY:1927/4/26
+DESCRIPTION:1927/4/26. Anne McLaren biologoa jaio zen. Aitzindaria izan zen garapenaren biologia aztertzeko lanetan. In vitro ernalketa-teknika garatzen lagundu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210427-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210427
+SUMMARY:1993/4/27
+DESCRIPTION:1993/4/27. John Kenny tronbonistak karnyx bat jo zuen\, lehen aldiz garai zeltatik. John Purser musikologoak eta John Creed urregileak Deskfordeko karnyxetik egindako berreraikuntza erabili zuen horretarako. Jatorrizko instrumentua eta berreraikuntza Eskoziako Museo Nazionalean daude erakusgai.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210428-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210428
+SUMMARY:1932/4/28
+DESCRIPTION:1932/4/28. Sukar horiaren aurkako txertoa aurkitu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210429-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210429
+SUMMARY:1894/4/29
+DESCRIPTION:1894/4/29. Marietta Blau fisikaria jaio zen. Aitzindaria izan zen partikula atomikoak emultsio fotografikoetako plaken bitartez erregistratu eta identifikatzeko lanetan. Haren lana lagungarri izan zen erreakzio nuklearrak hobeto ulertzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210430-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210430
+SUMMARY:2010/4/30
+DESCRIPTION:2010/4/30. IGMEko ikertzaileek\, erregistro historikotik desagertutako hezegune bat aurkitu zuten\, XVIII. eta XIX. mendeetako mapetan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210501-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210501
+SUMMARY:2013/5/1
+DESCRIPTION:2013/5/1. EMTASY proiektua abiatu zen\, bihotza ezkerrean kokatzen duen mekanismoa zehazteko. Ángela Nieto Toledanok zuzendu zuen\, eta sortzetiko malformazio asko ulertzeko lagungarri izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210502-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210502
+SUMMARY:1997/5/2
+DESCRIPTION:1997/5/2. Atapuercako talde zientifikoak Asturiasko Printzearen saria lortu zuen Ikerketa Zientifiko eta Teknikoaren alorrean\, Homo antecessor aurkitzeagatik. Hominido hori Europan bizi izan zen orain 800.000 urte.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210503-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210503
+SUMMARY:1910/5/3
+DESCRIPTION:1910/5/3. Anne Strachan Robertson arkeologoa jaio zen. Ezaguna da Antoninoren harresiari eta erromatar inperioko monetei buruz egin dituen azterlanengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210504-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210504
+SUMMARY:1825/5/4
+DESCRIPTION:1825/5/4. Thomas Huxley biologoa jaio zen. Hegaztiak dinosauroengandik abiatuta bilakatu zirela iradoki zuen lehena izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210505-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210505
+SUMMARY:1882/5/5
+DESCRIPTION:1882/5/5. Pío del Río Ortega mediku eta zientzialari espainiarra jaio zen. Mikroglia aurkitu zuen\, nerbio-sistemaren zelula mota bat.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210506-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210506
+SUMMARY:1840/5/6
+DESCRIPTION:1840/5/6. Lehen postako zigilu itsasgarria salgai jarri zen. Erresuma Batuko Victoria erreginaren soslaia erakusten zuen\, eta "penny black" deitzen zioten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210507-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210507
+SUMMARY:1954/5/7
+DESCRIPTION:1954/5/7. Michiganen\, Mackinac zubiaren eraikuntza hasi zen. Bere garaian\, munduko zubi esekirik luzeena izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210508-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210508
+SUMMARY:1980/5/8
+DESCRIPTION:1980/5/8. OMEk baztangaren desagerrarazpena ziurtatu zuen. Mugarri hori txertaketari esker lortu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210509-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210509
+SUMMARY:1882/5/9
+DESCRIPTION:1882/5/9. William H. Fordek estetoskopio baten diseinua patentatu zuen\, gaur egun ere erabiltzen den formarekin.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210510-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210510
+SUMMARY:1888/5/10
+DESCRIPTION:1888/5/10. Lucy Wills hematologoa jaio zen. Legamian nutrizio-faktore bat aurkitu zuen\, haurdunaldian anemia makrozitikoa prebenitu eta sendatzeko lagungarria. Willsen faktorea edo folatoa esaten zaio\, eta azido folikoaren forma naturala da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210511-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210511
+SUMMARY:2001/5/11
+DESCRIPTION:2001/5/11. Murtziako Lorca herrian lurrikara bat izan zen\, 5\,2 Mw-ko magnitudearekin. Inpaktu handia eragin zuen\, eta 9 hildako eta kalte material izugarriak izan ziren.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210512-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210512
+SUMMARY:1910/5/12
+DESCRIPTION:1910/5/12. Dorothy Crowfoot Hodgkin Nobel Saria jaio zen. Penizilinaren edo intsulinaren molekulen 3Dko egitura zehaztu zuen. 3Dko egitura funtsezkoa da funtzioak ulertzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210513-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210513
+SUMMARY:1857/5/13
+DESCRIPTION:1857/5/13. Ronald Ross bakteriologoa jaio zen. Malaria Anopheles eltxoaren bitartez transmititzen dela aurkitu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210514-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210514
+SUMMARY:1899/5/14
+DESCRIPTION:1899/5/14. Charlotte Auerbach biologoa jaio zen. Zoologian eta genetikan espezializatu zen\, eta mutagenesiaren eta haren efektuen aurkikuntzan lagundu zuen. 1942an egin zen ospetsu\, Alfred Joseph Clarkekin eta J. M. Robsonekin batera\, ziape-gasa mutazioen eragile izan zitekeela aditzera eman zuenean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210515-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210515
+SUMMARY:1925/5/15
+DESCRIPTION:1925/5/15. Mary Frances Lyon genetista jaio zen. Lionizazioa aurkitu zuen\; fenomeno horren bitartez\, X kromosomaren bi kopietako bat desaktibatzen da eme ugaztunen zeluletan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210516-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210516
+SUMMARY:1919/5/16
+DESCRIPTION:1919/5/16. Ramón Margalef ozeanografo eta ekologoa jaio zen. Informazioaren Teoria Ekologian aplikatu zuen\, eta Shannon-Weaverren indizea sortu zuen\, dibertsitate-neurri gisa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210517-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210517
+SUMMARY:1749/5/17
+DESCRIPTION:1749/5/17. Edward Jenner immunologoa jaio zen. Historiako lehen txertoa lortu zuen\, zehazkiago\, baztangaren aurkako txertoa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210518-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210518
+SUMMARY:2012/5/18
+DESCRIPTION:2012/5/18. Landareekiko Liluramenduaren Nazioarteko lehen Eguna ospatu zen. Landareak gure bizitzan oso garrantzitsuak direla aitortzea zuen helburu\, landareak lagungarri baitira pertsona eta animalientzako elikagaiak\, papera\, zura\, energia eta produktu farmazeutikoak sortzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210519-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210519
+SUMMARY:2014/5/19
+DESCRIPTION:2014/5/19. NASA InSight robot espaziala eraikitzen hasi zen\, 2018an Marten lehorreratu zena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210520-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210520
+SUMMARY:1900/5/20
+DESCRIPTION:1900/5/20. Erika Cremer kimikari eta fisikaria jaio zen. Gasen kromatografian aitzindaria izan zen. Alabaina\, 1944an bere metodoari buruz idatzi zuen artikuluak ez zuen argia ikusi\, bonbardaketa batek inprimategi-probak suntsitu zituelako\, Naturwissenschaften aldizkariaren egoitzan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210521-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210521
+SUMMARY:1921/5/21
+DESCRIPTION:1921/5/21. Andréi Sájarov fisikaria jaio zen. 50eko hamarkadan\, bonba atomikoen garapenean parte hartu zuen. Ondoren\, arma nuklearrak ugaritzearen aurka borrokatu zen\, eta\, 1975ean\, Bakearen Nobel Saria jaso zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210522-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210522
+SUMMARY:1960/5/22
+DESCRIPTION:1960/5/22. Txileko Lurrikara Handia izan zen. Inoiz erregistratutako magnitude handieneko lurrikara da (9\,5 momentuko magnitudeko potentzian). Itsasikarak Hawairaino\, Japoniaraino eta Errusiaraino ere iritsi ziren\, eta Puyehue sumendiaren erupzioa ere eragin zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210523-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210523
+SUMMARY:1954/5/23
+DESCRIPTION:1954/5/23. Keith Campbell biologoa jaio zen. Funtsezko pertsona bat izan zen Edinburgoko Roslin Institutuan Dolly ardia klonatu zuen taldean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210524-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210524
+SUMMARY:1878/5/24
+DESCRIPTION:1878/5/24. Lillian Moller Gilbreth psikologo eta ingeniaria jaio zen. Ezaguna da antolamendu psikologikoa industrian aplikatzeko egin zuen lanarengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210525-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210525
+SUMMARY:1880/5/25
+DESCRIPTION:1880/5/25. Jean Alexandre Barré neurologoa jaio zen. Guillain-Barréren sindromea identifikatu zuen\, gaixotasun neurologiko arraro bat.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210526-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210526
+SUMMARY:1872/5/26
+DESCRIPTION:1872/5/26. Trinidad Arroyo Villaverde jaio zen. Espainiako lehen oftalmologoa izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210527-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210527
+SUMMARY:1931/5/27
+DESCRIPTION:1931/5/27. Philip Kotler ekonomialaria jaio zen. Marketin modernoaren aitatzat hartzen da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210528-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210528
+SUMMARY:1912/5/28
+DESCRIPTION:1912/5/28. Ruby Violet Payne-Scott astronomoa jaio zen. Lurraren eremu magnetikoaren eragina eta eguzki-erupzioak aztertu zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210529-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210529
+SUMMARY:1826/5/29
+DESCRIPTION:1826/5/29. Ebenezer Butterick sastrea jaio zen. Ellen Augusta Pollard emaztearekin batera\, jostun-patroi modernoak asmatu eta merkaturatu zituen. Patroi horiek graduak zeuzkaten\, neurri estandar ugarirekin.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210530-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210530
+SUMMARY:2021/5/30
+DESCRIPTION:2021/5/30. Esklerosi Anizkoitzaren Mundu Eguna. Urtero egiten da\, kontakizunak partekatzeko\, gizartea kontzientziatzeko eta gaixotasun hori duten guztiekin eta guztientzat kanpainak egiteko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210531-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210531
+SUMMARY:1903/5/31
+DESCRIPTION:1903/5/31. Konstantin Tsiolkovsky fisikariak lehen aldiz proposatu zuen pertsonek espaziora bidaiatzeko aukera izango zutela\, suziriak erabiliz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210601-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210601
+SUMMARY:1974/6/1
+DESCRIPTION:1974/6/1. Emergency Medicine aldizkariak Heimlich-en maniobra argitaratu zuen. Eragiketa horrek aukera ematen du objektu arrotz batek buxatutako aire-bideak desblokeatzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210602-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210602
+SUMMARY:1911/6/2
+DESCRIPTION:1911/6/2. Egunkari nagusiek Mondújarreko Gergal-Santa Fe trenbidearen elektrifikazioaren berri eman zuten. Espainian elektrifikatutako trenbide zabaleko lehen linea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210603-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210603
+SUMMARY:1976/6/3
+DESCRIPTION:1976/6/3. Vicente Tofiño de San Miguel kosmografoak Venus Eguzkiaren aurretik igarotzen ikusi zuen\, eklipse batean. Interes zientifiko handiko ohar batzuk argitaratu zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210604-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210604
+SUMMARY:1927/6/4
+DESCRIPTION:1927/6/4. Lehen bidaiari-hegaldi komertzial transatlantikoa burutu zen. Wright-Bellanca WB-2 batean egin zen bidaia\, Estatu Batuetatik Alemaniaraino.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210605-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210605
+SUMMARY:2002/6/5
+DESCRIPTION:2002/6/5. AMIT Asociación de Mujeres Investigadoras y Tecnólogas elkartea ofizialki aurkeztu zen. Elkarte horrek zera sustatzen du\, emakumeek ikertze-jardueretan berdintasunean sartzeko aukera izatea\, jakintzaren adar guztietan eta sektore teknologikoan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210606-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210606
+SUMMARY:1907/6/6
+DESCRIPTION:1907/6/6. "Persil" merkaturatu zen. Akzio automatikoko lehen arropa-detergentea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210607-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210607
+SUMMARY:1886/6/7
+DESCRIPTION:1886/6/7. Henri Coandă ingeniaria jaio zen. Abiazioaren aitzindaria izan zen\, eta erreakzio-motor batek abiarazitako lehen hegazkina eraiki zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210608-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210608
+SUMMARY:2021/6/8
+DESCRIPTION:2021/6/8. Ozeanoen Mundu Eguna. Ozeanoek eguneroko bizitzan duten zeregina gogora ekartzea du helburutzat. Gure planetako birikak dira\, eta arnasten dugun oxigenoaren zati handiena sortzen dute.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210609-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210609
+SUMMARY:1812/6/9
+DESCRIPTION:1812/6/9. Johann Gottfried Galle astronomoa jaio zen. Neptuno aurkitu zuen\, Urbain Le Verrierren kalkulu eta jarraibideei jarraikiz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210610-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210610
+SUMMARY:1948/6/10
+DESCRIPTION:1948/6/10. Espainian telebistaren lehen erakustaldia egin zen. Bartzelonako Nazioarteko Erakustazokaren esparruan izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210611-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210611
+SUMMARY:1910/6/11
+DESCRIPTION:1910/6/11. Jacques-Yves Cousteau ozeanografo eta esploratzailea jaio zen. Urpeko munduaren dibulgatzaile ospetsuenetako bat da. Calypso ontzitik hainbat film eta dokumental grabatu zituen. Itsas ingurunea kutsaduratik babestu beharra defendatu zuen lehen pertsonetako bat ere izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210612-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210612
+SUMMARY:1985/6/12
+DESCRIPTION:1985/6/12. Blake Ross software ingeniaria jaio zen. Mozilla nabigatzaileak sortzeko lanetan aritzeagatik da ezaguna.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210613-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210613
+SUMMARY:1868/6/13
+DESCRIPTION:1868/6/13. Wallace Clement Sabine fisikaria jaio zen. Akustika arkitektonikoaren fundatzailea izan zen\, baita Boston's Symphony Hall-eko kontsultore akustikoa ere. Kontzertu-areto hori munduko onenetako bat da\, akustika bikaina duelako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210614-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210614
+SUMMARY:1880/6/14
+DESCRIPTION:1880/6/14. Nicolás Achúcarro neurozientifikoa jaio zen. Ramón y Cajalen dizipuluetako bat izan zen\, eta zelula glialen azterketan espezializatu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210615-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210615
+SUMMARY:1962/6/15
+DESCRIPTION:1962/6/15. Talidomidak fetu-garapenean deformazioak eragiten zituela aurkitu zen. Haurdunaldiko lehen hilabeteetan goragaleak arintzeko erabiltzen zen lasaigarri hori.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210616-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210616
+SUMMARY:1963/6/16
+DESCRIPTION:1963/6/16. Valentina Tereshkova espaziora bidaiatu zuen lehen emakumea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210617-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210617
+SUMMARY:2017/6/17
+DESCRIPTION:2017/6/17. Sunita Williams astronauta\, espazioan jarraian luzaroen egondako emakumea bihurtu zen\, Nazioarteko Estazio Espazialean 188 egun eta 4 ordu eman baitzituen Lurretik kanpo.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210618-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210618
+SUMMARY:1466/6/18
+DESCRIPTION:1466/6/18. Ottaviano Petrucci inprimatzailea jaio zen. Tipo mugikorren bidez musika inprimatzeko sistema asmatu zuen. Sistema horrekin\, 1501ean "Harmonice Musices Odhecaton" abesti bilduma inprimatu zuen. Historiako musika inprimatuko lehen edizioa izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210619-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210619
+SUMMARY:1903/6/19
+DESCRIPTION:1903/6/19. Rebeca Gerschman biokimikaria jaio zen. Gerschman teoria defendatu zuen\, erradikal askeen bidezko oxigenoaren toxikotasunari buruzkoa\, garaiko giro zientifikoaren asaldurarako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210620-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210620
+SUMMARY:2019/6/20
+DESCRIPTION:2019/6/20. Margarita Salas ikertzaileak "2019ko Europako Asmatzailearen Saria" jaso zuen. DNA polimerasa biralaren patentea izan da bere ekarpen nagusietako bat\, CSICen emankorrena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210621-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210621
+SUMMARY:1997/6/21
+DESCRIPTION:1997/6/21. Alboko Esklerosi Amiotrofikoaren Nazioarteko Eguna ezarri zen. Mundu osoko paziente elkarteek bultzatzen dute\, eta oraindik sendaezina den gaixotasun horri buruz informatzea eta sentsibilizatzea du helburu.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210622-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210622
+SUMMARY:1939/6/22
+DESCRIPTION:1939/6/22. Ada Yonath kristalografoa jaio zen. Kimikaren Nobel Saria irabazi zuen\, erribosomen egituraren gainean egin zituen lan aitzindariengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210623-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210623
+SUMMARY:1912/6/23
+DESCRIPTION:1912/6/23. Alan Turing matematikaria\, logikaria eta kriptoanalista jaio zen. Informatika modernoaren bide-erakuslea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210624-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210624
+SUMMARY:1400/6/24
+DESCRIPTION:1400/6/24. Johannes Gutenberg jaio zen. Tipo mugikorren bidezko inprimategi modernoa asmatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210625-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210625
+SUMMARY:1866/6/25
+DESCRIPTION:1866/6/25. Eloísa Díaz jaio zen\, Hego Amerikako lehen emakume medikoa. Txileko Eskola Zerbitzu Medikoaren zuzendaria izanik\, Eloisak hainbat eta hainbat ikasleri txertoa jartzea lortu zuen\, eta errakitismoaren eta tuberkulosiaren aurka borrokatu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210626-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210626
+SUMMARY:1974/6/26
+DESCRIPTION:1974/6/26. Estatu Batuetako Ohioko Marsh supermerkatuan\, barra-kode baten munduko lehen irakurketa egin zuten. Txikle-pakete batekin egin zuten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210627-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210627
+SUMMARY:1915/6/27
+DESCRIPTION:1915/6/27. Traude Bernert fisikaria jaio zen. Berta Karlik kimikariarekin batera\, astatoaren 215\, 216 eta 218 isotopoak identifikatu zituen. Elementu hori radioaren\, torioaren eta aktinioaren deskonposizioan zehar sortzen zela ere aurkitu zuten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210628-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210628
+SUMMARY:2013/6/28
+DESCRIPTION:2013/6/28. MITen\, X izpien bidez ikusteko eskuzko gailu bat asmatu zuten\, horman barrena mugimendua detektatzen duena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210629-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210629
+SUMMARY:1954/6/29
+DESCRIPTION:1954/6/29. Stanley Cohenek\, Rita Levi-Montalcinik eta Viktor Hamburgerrek nerbio-hazkundeko lehen faktoreari buruzko aurkikuntza argitaratu zuten. Lehen biek Fisiologia edo Medikuntzaren Nobel Saria jaso zuten\, 1986. urtean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210630-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210630
+SUMMARY:1905/6/30
+DESCRIPTION:1905/6/30. Albert Einsteinek "Mugitzen ari diren gorputzen elektrodinamikari buruz" izeneko lana argitaratu zuen. Erlatibitate bereziaren teoriaren hasiera izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210701-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210701
+SUMMARY:1935/7/1
+DESCRIPTION:1935/7/1. Josefina Castellví biologo eta ozeanografoa jaio zen. Antartikan nazioarteko espedizio batean parte hartu zuen lehen emakume espainiarra izan zen. Espainiako lehen base antartikoaren instalazioan lagundu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210702-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210702
+SUMMARY:1982/7/2
+DESCRIPTION:1982/7/2. Richard Walters Lawrencek heliozko 45 globo lotu zituen lorategiko aulki batera\, eta aulkia 4.500 metrotik gora igo zen. Estatu Batuetako Indar Amatuetako pilotua izateko ametsa zapuztuta\, modu xelebre horretan bere kasa hegan egitea erabaki zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210703-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210703
+SUMMARY:1865/7/3
+DESCRIPTION:1865/7/3. Mary A. Kingsbury irakaslea jaio zen. Erasmus Hall Institutuko liburutegiaren ardura hartu zuen\, eta historiako lehen emakume eskola-liburuzain bihurtu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210704-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210704
+SUMMARY:2019/7/4
+DESCRIPTION:2019/7/4. PRISMA aurkeztu zen\, Madrilgo Zientzia Naturalen Museo Nazionalean. PRISMA\, Zientzia\, Teknologia eta Berrikuntzaren Aniztasun Afektibo-sexualerako eta Genero Aniztasunerako Elkartea da. Zientziaren munduan LGTBIQA+ kolektiboaren agerikotasuna areagotzea du helburutzat.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210705-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210705
+SUMMARY:1904/7/5
+DESCRIPTION:1904/7/5. Ernst Walter Mayr biologoa jaio zen. Neodarwinismoaren garapenean aitzindaria izan zen\, eboluzioaren teoria eta genetikaren alorreko ezagutzak uztartuz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210706-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210706
+SUMMARY:1885/7/6
+DESCRIPTION:1885/7/6. Louis Pasteurrek amorruaren txertoa jarri zion Josef Meister 9 urteko haurrari\, txakur amorratu batek hari koska egin ondoren. Arrisku handiko jarduna izan zen\, Pasteur ez zelako mediku-titulazioaren jabe\, eta txertoa oraindik onartu gabe zegoelako. Alabaina\, horri esker Josefen bizitza salbatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210707-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210707
+SUMMARY:1924/7/7
+DESCRIPTION:1924/7/7. Natalia Petrovna Bekhtereva neurozientifiko eta psikologoa jaio zen. Pentsamenduaren\, oroimenaren\, emozioen eta sormenaren garun-mekanismoak aztertzeko metodo konplexu bat jarri zuen abian.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210708-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210708
+SUMMARY:1926/7/8
+DESCRIPTION:1926/7/8. Elizabeth Kubler-Ross psikiatra jaio zen. Heriotzaren psikologiako aditu nagusitzat hartzen da gaur egun.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210709-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210709
+SUMMARY:2015/7/9
+DESCRIPTION:2015/7/9. IGMEko\, Unibertsitate Konplutentseko eta Bartzelonako Unibertsitateko ikerketa-talde batek orain 105 milioi urteko euli bat aurkitu zuen\, kontserbazio-egoera ezin hobean. Eulia anbarrean kontserbatu zen Kantabriako El Soplao kobazuloan\, eta oraindik polen-karga bat zeraman abdomenean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210710-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210710
+SUMMARY:2020/7/10
+DESCRIPTION:2020/7/10. CSICk nanozundak garatu zituen\, gaixotasunen diagnostiko eta tratamendurako aplikazioekin. Nanozundak erabil daitezke gaixotasun baten lehen estadioak detektatzeko\, botikak modu fokalizatuan bideratzeko\, eta DNA edo birusak garraiatzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210711-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210711
+SUMMARY:1901/7/11
+DESCRIPTION:1901/7/11. Angélique Arvanitaki neurofisiologoa jaio zen. Nick Chalazonitisekin batera\, neuronen jarduera elektrikoa ikertu zuen\, barraskilo arruntaren nerbio-zuntzak erabiliz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210712-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210712
+SUMMARY:1764/7/12
+DESCRIPTION:1764/7/12. Lehen aldiz nebulosa bat begiztatu zuten. Charles Messier astronomoak aurkitu zuen\, eta bere katalogoaren 27 zenbakia jarri zion (M27). Dumbbell nebulosa ere esaten zaio.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210713-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210713
+SUMMARY:1923/7/13
+DESCRIPTION:1923/7/13. Lehen aldiz onartu zen fosilizatutako dinosauro-arrautzak zeudela. Gobiko basamortuan aurkitu zituzten. Hasiera batean uste zuten Protoceratops espeziearenak zirela\, baina 1995ean Oviraptor espeziearen arrautzak zirela ebatzi zuten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210714-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210714
+SUMMARY:1862/7/14
+DESCRIPTION:1862/7/14. Florence Bascom kristalografian\, mineralogian eta petrografian aditua jaio zen. Estatu Batuetako lehen geologoa izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210715-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210715
+SUMMARY:1799/7/15
+DESCRIPTION:1799/7/15. Napoleonen Egiptoko kanpainan\, Rosetta harria aurkitu zuten. Harri horretan inskripzioak zeuden\, grekoz\, hieroglifikoz\, eta demotikoz idatziak\, eta hieroglifiko egiptoarrak deszifratzeko gakoa izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210716-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210716
+SUMMARY:2020/7/16
+DESCRIPTION:2020/7/16. ESA Europako Agentzia Espazialaren eta NASAren Solar Orbiter misioak\, CSICen parte-hartzearekin\, Eguzkiaren lehen mapa magnetikoa lortu zuen. Eguzki-eremu magnetikoak eragiten ditu Eguzkian ikus ditzakegun fenomenoak\, hala nola orbanak\, ekaitzak edo eguzki-haizea.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210717-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210717
+SUMMARY:1819/7/17
+DESCRIPTION:1819/7/17. Eunice Newton Foote klimatologo eta asmatzailea jaio zen. Aitzindaria izan zen berotegi-efektuaren ikerketan. Hiru urtez aurrea hartu zien John Tyndallen esperimentuei\; CO2ak atmosferan eragindako efektuaren aurkitzailetzat hartzen zen Tyndall.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210718-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210718
+SUMMARY:1881/7/18
+DESCRIPTION:1881/7/18. María de Maeztu pedagogoa eta humanista jaio zen. Emakumeen irakaskuntzako erakunde pedagogiko nagusietako zuzendaria izan zen: Residencia Internacional de Señoritas\, Instituto-Escuela eta Lyceum Club Femenino. Ikasleen eskura prestakuntza intelektual bat jartzeko\, eta horren bitartez\, gizartean berdintasunezko parte-hartze integrala eta erantzukizun zibila sustatzeko lan egin zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210719-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210719
+SUMMARY:1945/7/19
+DESCRIPTION:1945/7/19. Nancy Wexler genetista jaio zen. Huntingtonen gaixotasuna eragiten duen genearen lokalizazioa aurkitzeko lanetan lagundu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210720-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210720
+SUMMARY:1969/7/20
+DESCRIPTION:1969/7/20. Apolo 11 misioaren Eagle izeneko ilargi-modulua Ilargiratzeko saioa arrakastaz burutu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210721-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210721
+SUMMARY:2013/7/21
+DESCRIPTION:2013/7/21. Larruazal elektroniko sentikor eta malgu bat garatu zen\, benetako giza larruazalaren antzekoa. Larruazal horrek zenbait presio-maila detekta ditzake\, eta horien aurrean erantzun dezake.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210722-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210722
+SUMMARY:1871/7/22
+DESCRIPTION:1871/7/22. Eskozian\, Tay ibaiko trenbide-zubiaren lehen harria jarri zuten. Bere garaian\, munduko zubirik luzeena izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210723-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210723
+SUMMARY:2020/7/23
+DESCRIPTION:2020/7/23. CSICen parte-hartzea izan zuen azterlan batek aditzera eman zuenez\, giza jarduerak sorrarazitako zarata sismikoa % 50 murriztu zen. Eta murrizketa hori gertatu zen\, koronabirusaren pandemiaren eraginez hartutako konfinamendu-neurrien ondorioz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210724-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210724
+SUMMARY:2009/7/24
+DESCRIPTION:2009/7/24. Canarias Teleskopio Handia inauguratu zen\, Roque de los Muchachos-eko Behatokian. Munduko teleskopio optikorik handiena bihurtu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210725-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210725
+SUMMARY:1938/7/25
+DESCRIPTION:1938/7/25. Davida Teller psikologoa jaio zen. Bere lana lagungarria izan zen haurren ikusmenaren garapena ulertzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210726-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210726
+SUMMARY:2005/7/26
+DESCRIPTION:2005/7/26. Mangladien ekosistemaren defentsarako Nazioarteko lehen Eguna egin zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210727-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210727
+SUMMARY:1995/7/27
+DESCRIPTION:1995/7/27. Sheila Rowan irakasleak grabitazio-uhinen gaineko doktorego-tesia aurkeztu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210728-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210728
+SUMMARY:1635/7/28
+DESCRIPTION:1635/7/28. Robert Hooke zientzialari ingelesa jaio zen. Micrographia liburuan\, bizitza mikroskopikoa deskribatu zuen lehen pertsona izan zen. Zelula hitza liburu horretan agertu zen lehen aldiz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210729-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210729
+SUMMARY:1796/7/29
+DESCRIPTION:1796/7/29. Walter Hunt asmatzailea jaio zen. Kateorratza sortu zuelako da ezaguna.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210730-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210730
+SUMMARY:1889/7/30
+DESCRIPTION:1889/7/30. Vladimir Zworykin ingeniaria jaio zen. Izpi katodikoen hodia asmatu zuen\, eta horregatik\, telebistaren aita dela esaten da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210731-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210731
+SUMMARY:1923/7/31
+DESCRIPTION:1923/7/31. Stephanie Kwolek kimikaria jaio zen. Kevlar polimeroa sintetizatu zuen lehen aldiz. Pneumatikoen\, itsas belen edo balen aurkako txalekoen fabrikazioan erabiltzen da polimero hori\, arina delako eta aparteko erresistentzia duelako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210801-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210801
+SUMMARY:1920/8/1
+DESCRIPTION:1920/8/1. Henrietta Lacks jaio zen. 31 urterekin\, umetoki-lepoko minbizi baten ondorioz hil zen\, eta\, nahi gabe\, bere minbizi-zelulen emaile bihurtu zen. Zelula horiekin zelula-kultiboko linea hilezkor bat garatu zen\, HeLa izenekoa (haren izenaren akronimoa)\, milaka eta milaka azterlan zientifiko egiteko baliagarri izan dena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210802-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210802
+SUMMARY:1941/8/2
+DESCRIPTION:1941/8/2. Jules Hoffmann biologoa jaio zen. Nobel Saria jaso zuen immunologiaren alorrean egindako azterlanengatik. Lan horiek goitik behera aldatu zuten immunologia-sistema ulertzeko modua\, haren aktibaziorako funtsezkoak diren printzipioak aurkituz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210803-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210803
+SUMMARY:1958/8/3
+DESCRIPTION:1958/8/3. Nautilus urpekari atomikoa Ozeano Artikoko azal izoztuaren azpitik igaro zen\, Ozeano Baretik Atlantikoraino.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210804-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210804
+SUMMARY:1932/8/4
+DESCRIPTION:1932/8/4. Frances Elizabeth Allen informatikaria jaio zen. 2006an\, Turing Saria irabazi zuen lehen emakumea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210805-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210805
+SUMMARY:2013/8/5
+DESCRIPTION:2013/8/5. Japoniako konpainia batek tirita berrerabilgarri bat garatu zuen hipertentsio arterial kronikoa tratatzeko\, bisoprolola etengabe askatuz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210806-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210806
+SUMMARY:1991/8/6
+DESCRIPTION:1991/8/6. 1 Tim Berners-Lee konputazioko zientzialariak lehen web zerbitzaria jarri zuen martxan. CERN Ikerketa Nuklearrerako Europako Erakundean zegoen zerbitzari hori."
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210807-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210807
+SUMMARY:1933/8/7
+DESCRIPTION:1933/8/7. Elinor Ostrom politologoa jaio zen. 2009an\, Ekonomiaren Nobel Saria lortu zuen lehen emakumea izan zen. Pertsonek baliabide komunen produkzio-mailak epe luzera iraunarazteko nola interaktuatzen duten aztertu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210808-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210808
+SUMMARY:1948/8/8
+DESCRIPTION:1948/8/8. Svetlana Savítskaya ingeniari eta kosmonauta jaio zen. Kanpo-espaziora bi bidaia egin zituen eta hartan barrena ibili zen lehen emakumea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210809-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210809
+SUMMARY:1966/8/9
+DESCRIPTION:1966/8/9. Glenn Postolski ikertzailea jaio zen. Gizarte Zientzien alorreko lanak egin zituen\, komunikabide masiboen politikak eta komunikaziorako eskubidea ardatz hartuta.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210810-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210810
+SUMMARY:2017/8/10
+DESCRIPTION:2017/8/10. IGMEko talde batek lehen aldiz lortu zuen sumendi-lumen irudi akustikoen sekuentzia bat\, urpeko sumendi baten erupzioan zehar. El Hierro uhartetik gertu egin zen ikerketa.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210811-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210811
+SUMMARY:1858/8/11
+DESCRIPTION:1858/8/11. Christiaan Eijkman Nobel Saria jaio zen. Bitaminek dietan duten garrantzia aurkitu zuelako da ezaguna. B1 bitamina aurkitu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210812-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210812
+SUMMARY:1898/8/12
+DESCRIPTION:1898/8/12. María Vasílievna Kliónova itsas geologoa jaio zen. Antartikan ikertu zuen lehen emakumea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210813-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210813
+SUMMARY:1797/8/13
+DESCRIPTION:1797/8/13. Casiano de Prado ingeniari eta geologoa jaio zen. 1862an\, Iberiar penintsulako lehen aurkikuntza paleolitikoetan parte hartu zuen Manzanares ibaiaren haranean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210814-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210814
+SUMMARY:1777/8/14
+DESCRIPTION:1777/8/14. Hans Christian Oersted jaio zen. Elektromagnetismoa aurkitu zuen fisikaria izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210815-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210815
+SUMMARY:1896/8/15
+DESCRIPTION:1896/8/15. Gerty Cori biokimikaria jaio zen. Carl senarrarekin batera\, glukogenoaren bihurketa katalitikoaren mekanismoa aurkitu zuen: Coriren zikloa. Fisiologia eta Medikuntzaren Nobel Saria irabazi zuen lehen emakumea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210816-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210816
+SUMMARY:1884/8/16
+DESCRIPTION:1884/8/16. Hugo Gernsback fikzio-zientziaren aitzindaria jaio zen. Egundoko talentua eta irudimena zuen\, eta patente ugari erregistratu zituen. Esaterako\, irratiko soinua hobeto hartzeko tresna bat\, argizaririk gabe bipiltzeko metodo berri bat\, edo makina hegalariak lurreratzeko plataforma bat.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210817-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210817
+SUMMARY:1737/8/17
+DESCRIPTION:1737/8/17. Antoine Parmentier agronomo\, higienista eta nutrizionista jaio zen. Haren ahaleginei esker\, patataren hazkuntza debekatzen zuten legeak indargabetu ziren. Ordura arte\, Europako ia herrialde guztiek uste zuten patata ezin zitekeela jan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210818-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210818
+SUMMARY:1824/8/18
+DESCRIPTION:1824/8/18. Real Conservatorio de Artes y Oficios sortu zen\; informazio teknologiko guztia biltegiratzen du\, eta jabetza intelektualaren erregistroa da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210819-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210819
+SUMMARY:1790/8/19
+DESCRIPTION:1790/8/19. Edward John Dent erlojugilea jaio zen. Zehaztasun handiko erlojuak eta itsas kronometroak sortu zituelako da ezaguna. Londreseko Big Ben dago bere erlojurik ospetsuenen artean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210820-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210820
+SUMMARY:1994/8/20
+DESCRIPTION:1994/8/20. Txertaketa-kanpainei esker\, Amerikako kontinentean poliomielitisa desagerrarazia zela deklaratu zuten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210821-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210821
+SUMMARY:1961/8/21
+DESCRIPTION:1961/8/21. Mara Dierssen neurobiologoa jaio zen. Mundu-mailako aditua da neurobiologia eta farmakologiaren eremuan\, eta Downen sindromearen ikertzaile nagusietako bat.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210822-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210822
+SUMMARY:1945/8/22
+DESCRIPTION:1945/8/22. Ida Henrietta Hyde fisiologoa hil zen. Mikroelektrodo bat garatu zuen\, ehunak estimulatzeko behar adinako indarra izanik\, zelula batetik ehuna ateratzeko behar bezain txikia zena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210823-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210823
+SUMMARY:1931/8/23
+DESCRIPTION:1931/8/23. Hamilton O. Smith mikrobiologoa jaio zen. Nobel Saria jaso zuen murrizketa-entzimen gainean egin zituen lanengatik\; puntu jakinetan azido nukleikoak ebakitzeko gai dira entzima horiek.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210824-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210824
+SUMMARY:1890/8/24
+DESCRIPTION:1890/8/24. Pearl Louella Kendrick bakteriologoa jaio zen. Tosferinaren aurkako lehen txertoa garatu zuelako da ezaguna. Grace Eldering osasun publikoko adituarekin eta Loney Gordon kimikariarekin elkarlanean egin zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210825-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210825
+SUMMARY:1900/8/25
+DESCRIPTION:1900/8/25. Hans Adolf Krebs Nobel Saria jaio zen. “Krebsen zikloari” izena eman zion: ibilbide metaboliko bat da\, zelula aerobioetarako energia lortzea ahalbidetzen duena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210826-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210826
+SUMMARY:1860/8/26
+DESCRIPTION:1860/8/26. Luis Siret y Cels ingeniari eta arkeologoa jaio zen. Kultura argarikoaren lehen aztarnategiak aurkitu zituen\, Espainiako ipar-ekialdean. Gizarte argarikoa garrantzitsuenetako bat izan zen Europan\, K.a. III. eta II. milurtekoetan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210827-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210827
+SUMMARY:1956/8/27
+DESCRIPTION:1956/8/27. Calder Halleko zentral nuklearra\, Erresuma Batuan biztanleria zibila elektrizitatez hornitu zuen lehena izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210828-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210828
+SUMMARY:2013/8/28
+DESCRIPTION:2013/8/28. Miniaturazko giza garunak hazi ziren\, ilar baten tamainakoak\, ama zeluletatik abiatuta.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210829-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210829
+SUMMARY:2019/8/29
+DESCRIPTION:2019/8/29. Geneek sexu-jokabidean duten garrantzia aztertzeko egin den azterlanik handienak berretsi zuen homosexualitatearen gen bakar bat ez dagoela\, giza sexualitatearen konplexutasuna agerian jarriz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210830-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210830
+SUMMARY:1984/8/30
+DESCRIPTION:1984/8/30. Discovery espaziontzia lehen aldiz aireratu zen. NASArentzat 39 misio egin zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210831-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210831
+SUMMARY:1912/8/31
+DESCRIPTION:1912/8/31. Robert F. Borkenstein ikertzailea jaio zen. Alkohol-kontsumoak trafiko-istripuetan duen eragina ikertu zuen. Alkoholimetroa asmatu zuen\, botatako arnasan alkohol-maila neurtzeko tresna iraultzaile bat.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210901-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210901
+SUMMARY:1914/9/1
+DESCRIPTION:1914/9/1. Martha hil zen\, azken uso migratzailea (Ectopistes migratorius). 29 urte zeuzkan\, eta itxian bizi zen Cincinnatiko zoologikoan\, Estatu Batuetan. Mende bakar batean Ipar Ameriketan hegazti ugariena izatetik desagertzera igaro zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210902-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210902
+SUMMARY:1948/9/2
+DESCRIPTION:1948/9/2. Christa Corrigan McAuliffe bigarren hezkuntzako irakaslea jaio zen. 11.000 eskatzaile baino gehiagoren artean hautatu zuten NASAren "Irakaslea Espazioan" Proiektuan parte hartzeko. Christaren asmoa zen espaziotik esperimentuak egitea eta eskolak ematea. Bidaian zeraman transbordadore espaziala lehertu zen\, aireratu eta 72 segundora.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210903-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210903
+SUMMARY:1938/9/3
+DESCRIPTION:1938/9/3. Ryōji Noyori kimikaria jaio zen. Nobel Saria irabazi zuen katalisiari buruz egin zituen ikerketengatik. Besteak beste\, mentola sortzeko erabiltzen dira haren metodoak.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210904-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210904
+SUMMARY:1998/9/4
+DESCRIPTION:1998/9/4. Larry Pagek eta Sergei Brinek Google sortu zuten. Bilatzailea 1996an garatzen hasi zen ikerketa-proiektu baten antzera\, biak doktoregoa ikasten ari zirela.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210905-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210905
+SUMMARY:1885/9/5
+DESCRIPTION:1885/9/5. Lehen gasolindegia ezarri zen. Indianako garaje batean izan zen\, Estatu Batuetan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210906-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210906
+SUMMARY:1860/9/6
+DESCRIPTION:1860/9/6. Jane Addams soziologoa eta Bakearen Nobel Saria jaio zen. Aitzindaria izan zen gizarte-lanean\, eta Hull House harrera-etxea sortu zuen\, emakumeentzako erakunde soziologiko gisa ere baliatu zena. Haren lanek eragin handia izan zuten Chicagoko soziologia-eskolan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210907-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210907
+SUMMARY:2016/9/7
+DESCRIPTION:2016/9/7. IGMEko\, CSICeko Instituto de Ciencias del Mar-eko eta Kanaria Handiko Las Palmaseko Unibertsitateko ikertzaileek aurkitu zutenez\, El Hierro uharteak bere bolumenaren % 40 galdu zuen luizi itzel baten ondorioz. Megairristatze hori orain 80.000 urte gertatu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210908-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210908
+SUMMARY:1871/9/8
+DESCRIPTION:1871/9/8. Mary Elizabeth Hallock-Greenewalt asmatzailea eta pianista jaio zen. Haren patenteek bide eman zuten Sarabet "koloretako organoa" garatzeko. Tresna horrek koloretako argiak emititzen zituen\, musikarekin sinkronizatuta zeuden intentsitate eta ñabardurekin.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210909-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210909
+SUMMARY:1936/9/9
+DESCRIPTION:1936/9/9. Daisy Roulland-Dussoix mikrobiologo molekularra jaio zen. Murrizketa-entzimen aurkikuntzan lagundu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210910-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210910
+SUMMARY:1984/9/10
+DESCRIPTION:1984/9/10. Aztarna genetikoaren teknika abian jarri zen\, pertsonak DNAren arabera identifikatzea ahalbidetzen duena. Pixka bat geroago\, teknika hori kriminologian erabiltzen hasi zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210911-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210911
+SUMMARY:1942/9/11
+DESCRIPTION:1942/9/11. Deirdre McCloskey ekonomialaria eta ekonomiaren historialaria jaio zen. Besteak beste\, mundu modernoko jatorrien\, ekonomian esangura estatistikoa gaizki erabiltzearen eta kapitalismoaren gaineko ikerketak egin zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210912-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210912
+SUMMARY:1958/9/12
+DESCRIPTION:1958/9/12. Jack Kilby ingeniari elektrikoak munduko lehen zirkuitu integratua aurkeztu zuen. Zirkuitu integratuei txipak edo mikrotxipak ere esaten zaie.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210913-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210913
+SUMMARY:1956/9/13
+DESCRIPTION:1956/9/13. IBM enpresak aurkeztu zuen diskoan biltegiratzeko aukera ematen zuen lehen ordenagailu komertziala.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210914-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210914
+SUMMARY:1849/9/14
+DESCRIPTION:1849/9/14. Iván Pavlov fisiologoa eta Nobel Sariduna jaio zen. Txakurrengan estimulua-erantzuna eredua deskribatu zuen: Pavloven baldintzapena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210915-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210915
+SUMMARY:1885/9/15
+DESCRIPTION:1885/9/15. Constantin Fahlbergek sakarina patentatu zuen. Gozagarri hori lehen aldiz sintetizatu zen harrikatz-mundrunaren deribatuetatik abiatuta.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210916-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210916
+SUMMARY:1884/9/16
+DESCRIPTION:1884/9/16. Anestesia lokalaren eraginpeko lehen ebakuntza egin zen. Arrakasta izan zuenez\, haren erabilera odontologian orokortu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210917-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210917
+SUMMARY:1857/9/17
+DESCRIPTION:1857/9/17. Konstantín Tsiolkovski fisikaria eta matematikaria jaio zen. 10 urte zituela gor geratu zen\, eta guztiz autodidakta izan zen. Haren lanek ahalbidetu zuten lehen satelite artifiziala orbitan jartzea\, eta pertsona batek espaziora lehen bidaia egitea.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210918-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210918
+SUMMARY:1819/9/18
+DESCRIPTION:1819/9/18. Jean Foucault fisikaria jaio zen. Giroskopioa asmatu zuen\, baita Lurraren biraketa frogatzen duen pendulua ere.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210919-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210919
+SUMMARY:1991/9/19
+DESCRIPTION:1991/9/19. Paleolitoko pertsona baten (Ötzi) hondar momifikatuak aurkitu zituzten Alpeetako Similaun glaziarrean\, Italiaren eta Austriaren arteko mugan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210920-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210920
+SUMMARY:1906/9/20
+DESCRIPTION:1906/9/20. Vera Faddéyeva matematikaria jaio zen. Algebra linealari buruzko lehen lanetako batzuk argitaratu zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210921-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210921
+SUMMARY:1866/9/21
+DESCRIPTION:1866/9/21. Charles Nicolle medikua eta mikrobiologoa jaio zen. Nobel Saria irabazi zuen\, zorriak tifusaren transmisore nagusiak zirela aurkitu zuelako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210922-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210922
+SUMMARY:1863/9/22
+DESCRIPTION:1863/9/22. Alexandre Yersin mikrobiologoa jaio zen. Izurri bubonikoa eragiten duen bakterioaren koaurkitzailea izan zen\, haren omenez Yersinia pestis izendatu zutena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210923-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210923
+SUMMARY:1889/9/23
+DESCRIPTION:1889/9/23. Nintendo sortu zen. Japoniar karta-sorten fabrika bat zen hasiera batean. 1975ean bideojokoak garatzen hasi ziren\, eta\, gaur egun\, munduko enpresa nagusietako bat da entretenimenduko softwarearen eta hardwarearen alorrean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210924-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210924
+SUMMARY:1905/9/24
+DESCRIPTION:1905/9/24. Severo Ochoa mediku eta zientzialari espainiarra jaio zen. Nobel Saria irabazi zuen RNA azido erribonukleikoari buruz egin zituen azterlan aitzindariengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210925-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210925
+SUMMARY:1899/9/25
+DESCRIPTION:1899/9/25. Margaret Kennard neurologoa jaio zen. Primateen kalte neurologikoaren efektuen gainean egin zituen azterlanengatik da ezaguna.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210926-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210926
+SUMMARY:2013/9/26
+DESCRIPTION:2013/9/26. NASAko Curiosity Roverrek ur-kantitate handi bat detektatu zuen\, erraz iristeko modukoa\, Marteko Gale kraterrean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210927-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210927
+SUMMARY:1818/9/27
+DESCRIPTION:1818/9/27. Cosme García asmatzailea jaio zen. Urpekari-prototipo bat patentatu zuen lehen espainiarra izan zen. Behin eraiki ondoren\, urpekari hori arrakastaz probatu zuten Alacanteko portuan\, 1860an.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210928-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210928
+SUMMARY:1889/9/28
+DESCRIPTION:1889/9/28. Pisu eta Neurriei buruzko lehen Konferentzia Orokorrean metro baten luzera honela definitu zuten: platino eta iridioko (% 10) aleazio batez fabrikatutako barra bateko bi lerroen arteko distantzia\, izotzaren fusio-puntuan neurtua.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210929-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210929
+SUMMARY:1938/9/29
+DESCRIPTION:1938/9/29. Enrico Fermi fisikaria jaio zen. 1938an\, Fisikaren Nobel Saria jaso zuen\, erradioaktibitate artifizialari buruz egin zituen lanengatik. Lau urte geroago\, giza jatorriko lehen erreakzio nuklearra egin zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20210930-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20210930
+SUMMARY:2009/9/30
+DESCRIPTION:2009/9/30. Mallorcako Behatoki Astronomikoak iragarri zuen '2009QG31 La Sagra' kometa aurkitua zuela\, Marteren orbitatik haratago.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211001-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211001
+SUMMARY:1883/10/1
+DESCRIPTION:1883/10/1. Espainian\, telefonoz komunikatzeko lehen saiakera egin zuten. Linea Errege Jauregiaren eta Ministerioen artean zegoen\, Madrilen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211002-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211002
+SUMMARY:1846/10/2
+DESCRIPTION:1846/10/2. Gaztelako telegrafia optikoko linea abian jarri zen\, Madriletik Iruneraino. José María Mathék asmatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211003-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211003
+SUMMARY:1946/10/3
+DESCRIPTION:1946/10/3. Rosalind Franklin kimikari eta kristalografoak ikatzaren kimikaren gaineko doktorego-lana argitaratu zuen. DNAren egitura molekularra ulertzeko funtsezko lana izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211004-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211004
+SUMMARY:1949/10/4
+DESCRIPTION:1949/10/4. Mariano Barbacid biokimikaria jaio zen. Lehen giza onkogenea isolatu zuen (H-ras). Onkogeneen eraginez\, zelula arrunt bat minbizi bat garatuko duen zelula gaizto bihurtzen da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211005-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211005
+SUMMARY:1963/10/5
+DESCRIPTION:1963/10/5. Francisco Juan Martínez Mojica mikrobiologoa jaio zen. Arkeoetan CRISPR sekuentzia errepikatuak aurkitu zituen. Aurkikuntza horretan oinarritzen da\, neurri batean\, edizio genetikoko CRISPR-Cas teknologia.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211006-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211006
+SUMMARY:1897/10/6
+DESCRIPTION:1897/10/6. Florence Barbara Seibert biokimikaria jaio zen. Tuberkulinatik eratorritako proteina (PPD-S) arazteko metodo bat garatu zuen. Horri esker\, tuberkulosirako test fidagarri bat sortzeko aukera izan zuten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211007-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211007
+SUMMARY:1948/10/7
+DESCRIPTION:1948/10/7. Diane Ackerman naturalista eta idazlea jaio zen. Zientzia-zabalkundeko lanetan\, poesia eta estilo xume bat uztartzen ditu\, eta\, horri esker\, argitalpen-arrakasta handia lortu du.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211008-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211008
+SUMMARY:1958/10/8
+DESCRIPTION:1958/10/8. Ake Senning zirujau suediarrak lehen taupada-markagailua inplantatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211009-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211009
+SUMMARY:1902/10/9
+DESCRIPTION:1902/10/9. Nazioarteko komunitate zientifikoak Altamirako kobako Paleolito artearen egiazkotasuna onetsi zuen. María Sanz de Sautuola neskatoak lehenago aurkituak zituen pintura horiek\, Marcelino aitarekin kobazuloan barrena zebilela.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211010-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211010
+SUMMARY:1966/10/10
+DESCRIPTION:1966/10/10. Carolyn Bertozzi kimikaria jaio zen. Gluzidoek minbizian\, artritisean\, tuberkulosian eta beste hainbat gaixotasunetan betetzen duten zeregina aztertu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211011-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211011
+SUMMARY:1755/10/11
+DESCRIPTION:1755/10/11. Fausto Delhuyar kimikaria jaio zen. Kimikaria ere bazen Juan José anaiarekin batera\, wolframioa isolatu zuten lehen aldiz (74 zenbakia Taula Periodikoan). Metal hori oso urria da\, eta oso preziatua aplikazio ugari dauzkalako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211012-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211012
+SUMMARY:1920/10/12
+DESCRIPTION:1920/10/12. Leslie Barnett mikrobiologoa jaio zen. Geneen egituraren eta funtzioen gaineko aurrerapen eta aurkikuntza nagusietako batzuetan lagundu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211013-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211013
+SUMMARY:1914/10/13
+DESCRIPTION:1914/10/13. Garret Morganek gas-maskara patentatu zuen. Urte batzuk geroago\, asmatzaile horrek semaforo automatikoa sortu zuen\, ohartarazpen-argiaz hornitua.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211014-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211014
+SUMMARY:1865/10/14
+DESCRIPTION:1865/10/14. Edith Rebecca Saunders genetista jaio zen. Zeregin garrantzitsu bat bete zuen Mendelen legearen berraurkikuntzan eta landareen genetika ulertzean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211015-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211015
+SUMMARY:1902/10/15
+DESCRIPTION:1902/10/15. Amparo Poch y Gascón medikua jaio zen. Haur-heziketan espezializatu zen\, eta hezkuntza-lan handia egin zuen klase sozial apalenen artean\, gaixotasun benereoak saihesteko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211016-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211016
+SUMMARY:1969/10/16
+DESCRIPTION:1969/10/16. Doñana Parke Nazional bihurtu zen. Bertako padura paseko\, hazkuntzako eta negu-pasako gunea da Europako eta Afrikako milaka hegaztirentzat.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211017-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211017
+SUMMARY:1919/10/17
+DESCRIPTION:1919/10/17. Espainiako lehen metro-linea abian jarri zen. Puerta del Soletik Cuatro Caminosera zihoan\, Madrilen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211018-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211018
+SUMMARY:1799/10/18
+DESCRIPTION:1799/10/18. Christian Schoenbein kimikaria jaio zen. Nitrozelulosa aurkitu zuen\, eta ozonoari izena eman zion.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211019-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211019
+SUMMARY:1924/10/19
+DESCRIPTION:1924/10/19. Rosemary Bamforth patologoa jaio zen. Itsasontzietako langileen minbiziagatiko heriotzaren eta amiantoarekiko esposizioaren arteko lotura ezarri zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211020-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211020
+SUMMARY:1850/10/20
+DESCRIPTION:1850/10/20. Alice Blanche Balfour naturalista jaio zen. Entomologiaren alorrean jardun zuen\, eta genetikan aitzindaria izan zen. Zebren marretako patroia nola heredatzen den aztertu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211021-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211021
+SUMMARY:1879/10/21
+DESCRIPTION:1879/10/21. Thomas Edisonek bonbila elektrikoa aurkeztu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211022-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211022
+SUMMARY:1949/10/22
+DESCRIPTION:1949/10/22. Rafael Matesanz medikua jaio zen. 1989an Organización Nacional de Trasplantes (ONT) erakundea sortu zuen\, eta\, bertan ezarritako protokoloei esker\, Espainia liderra da munduan transplanteen alorrean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211023-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211023
+SUMMARY:1887/10/23
+DESCRIPTION:1887/10/23. Espainiako Armada Peral urpekaria eraikitzen hasi zen. Propultsio elektriko bidezko torpedo-urpekari hori historiako lehen urpekari militarra izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211024-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211024
+SUMMARY:1924/10/24
+DESCRIPTION:1924/10/24. Evangelina Villegas biokimikaria eta zerealetan aditua jaio zen. Surinder K. Vasal lankidearekin batera\, kalitate handiko arto-proteina garatu zuen\, eta horregatik\, Elikagaien Mundu Saria lortu zuten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211025-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211025
+SUMMARY:1906/10/25
+DESCRIPTION:1906/10/25. Santiago Ramón y Cajali jakinarazi zioten Medikuntzaren Nobel Saria irabazia zuela. Itxura denez\, "ikasleen txantxa" baten aurrean zegoela esan zuen\, hasiera batean. Hurrengo egunean egunkarietan irakurri zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211026-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211026
+SUMMARY:1878/10/26
+DESCRIPTION:1878/10/26. Sixto Cámara Tecedor matematikaria jaio zen. Asociación Española para el Progreso de las Ciencias\, Sociedad Matemática Española eta Laboratorio y Seminario Matemático de la Junta para la Ampliación de Estudios erakundeen kofundatzailea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211027-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211027
+SUMMARY:1904/10/27
+DESCRIPTION:1904/10/27. Philip Downingek\, oraindik erabiltzen dugun posta-kutxa asmatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211028-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211028
+SUMMARY:1848/10/28
+DESCRIPTION:1848/10/28. Iberiar penintsulako lehen trenbidea inauguratu zen. Bartzelona eta Mataró lotzen zituen\, eta\, eraikuntza-lanetarako\, Espainiako lehen trenbide-tunela zulatu behar izan zuten.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211029-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211029
+SUMMARY:1969/10/29
+DESCRIPTION:1969/10/29. Kaliforniako unibertsitate desberdinetako bi ordenagailuk elkarrekin konektatzea eta ARPANET protokolo berriaren bitartez mezu bat bidaltzea lortu zuten. Sare hori Interneten aitzindaria izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211030-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211030
+SUMMARY:1900/10/30
+DESCRIPTION:1900/10/30. Ragnar Granit zientzialaria jaio zen. Nobel Saria irabazi zuen begiko prozesu fisiologiko eta kimikoak aurkitzeagatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211031-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211031
+SUMMARY:1798/10/31
+DESCRIPTION:1798/10/31. John Daltonek diskromatopsia aurkitu zuen. Ikusmenaren gaixotasun horri daltonismoa esaten zaio normalean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211101-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211101
+SUMMARY:1952/11/1
+DESCRIPTION:1952/11/1. 100 atomo-zenbakia daraman elementu kimikoa lehen aldiz isolatu zen. Fermio izena jarri zioten\, Enrico Fermi fisikariaren omenez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211102-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211102
+SUMMARY:1919/11/2
+DESCRIPTION:1919/11/2. Marie Morisawa jaio zen\, ingurumen-geomorfologiaren fundatzaileetako bat. Geomorfologiak geografia eta geologia uztartzen ditu\, lurreko azalaren formak aztertzeko eta gaur egun nola osatzen eta portatzen diren ulertzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211103-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211103
+SUMMARY:1957/11/3
+DESCRIPTION:1957/11/3. Laikak espaziora bidaia egin zuen\, Sputnik 2 ontzian. Hala\, hegaldi espazial bat egin zuen lehen animalia izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211104-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211104
+SUMMARY:2008/11/4
+DESCRIPTION:2008/11/4. IGMEko ikerketa-talde batek El Soplaoko Kretazeoko anbar-hobiaren berri eman zuen. Aparteko tamaina eta aberastasuna dauzka\, eta bertako anbar moreak sekulako luminiszentzia dauka\, munduan parerik ez duena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211105-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211105
+SUMMARY:1794/11/5
+DESCRIPTION:1794/11/5. Elizabeth Fulhame kimikariak "Errekuntzari buruzko saiakera bat" argitaratu zuen. Lehen katalisi-adibidea deskribatu zuen bertan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211106-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211106
+SUMMARY:1935/11/6
+DESCRIPTION:1935/11/6. Edwin Armstrong ingeniariak "Irratiko eragozpenak murrizteko metodo bat\, frekuentzia bidezko modulazio-sistema baten bidezkoa" izeneko azterlana aurkeztu zuen. Horrela FM irratia sortu zen: frekuentzia modulatua.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211107-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211107
+SUMMARY:1867/11/7
+DESCRIPTION:1867/11/7. Marie Curie kimikari eta fisikaria jaio zen. Erradioaktibitatea terminoa sortu zuen\, eta espezialitate desberdinetan (Fisika eta Kimika) bi Nobel Sari jaso zituen lehen pertsona izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211108-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211108
+SUMMARY:1878/11/8
+DESCRIPTION:1878/11/8. Dorothea Bate paleontologo eta zoologoa jaio zen. Zooarkeologian aitzindaria izan zen\, eta\, Dorothy Garrodekin batera\, deskribatu gabe zeuden hainbat espezieren hondar fosilak aurkitu zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211109-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211109
+SUMMARY:1795/11/9
+DESCRIPTION:1795/11/9. James Barry zirujaua jaio zen. Armada britainiarreko medikua izan zen\, eta zauritutako soldaduen baldintzak hobetzeko lan egin zuen. Afrikan egiaztatutako lehen zesarea arrakastatsua gauzatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211110-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211110
+SUMMARY:1983/11/10
+DESCRIPTION:1983/11/10. Fred Cohen doktorego-ikasleak programa informatiko bat sortu zuen\, berez instalatzeko\, erreplikatzeko eta beste makina batzuetara hedatzeko gai dena. Horrela\, lehen birus informatikoa sortu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211111-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211111
+SUMMARY:1930/11/11
+DESCRIPTION:1930/11/11. Mildred Dresselhaus fisikaria jaio zen. Ikatzaren zientziako erregina deitzen diote grafitoaren gaineko lan bikainak egin dituelako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211112-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211112
+SUMMARY:1919/11/12
+DESCRIPTION:1919/11/12. Grete Kellenberger-Gujer biologo molekularra jaio zen. Ospea lortu du birkonbinazio genetikoaren eta DNAren murrizketaren gainean egin dituen aurkikuntzengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211113-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211113
+SUMMARY:2013/11/13
+DESCRIPTION:2013/11/13. NASAk bideo bat aurkeztu zuen\, orain 4.000 milioi urte Marte\, zeru urdinekin eta urarekin\, nola izan zitekeen erakusteko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211114-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211114
+SUMMARY:1863/11/14
+DESCRIPTION:1863/11/14. Leo Baekeland kimikaria jaio zen. Bakelita asmatu zuen\, lehen plastiko sintetikoa. Oso ezaguna egin zen merkea eta moldaerraza zelako.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211115-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211115
+SUMMARY:1873/11/15
+DESCRIPTION:1873/11/15. Sara Josephine Baker medikua jaio zen. Haurren heriotza-tasa murrizteko ekarpen garrantzitsuak egin zituen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211116-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211116
+SUMMARY:1940/11/16
+DESCRIPTION:1940/11/16. María Josefa Yzuel Giménez fisikaria jaio zen. Optikaren alorreko ikerlanak egin ditu\, eta hainbat sari jaso ditu estatuan eta nazioartean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211117-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211117
+SUMMARY:2015/11/17
+DESCRIPTION:2015/11/17. Guztira 195 estatuk berretsi zuten UNESCOren Mundu Geoparkeen sorkuntza. Leku horietako ondare geologikoak garrantzia du nazioartean\, eta\, horregatik\, bertan bizi diren komunitateen garapen jasangarria sustatzeko erabiltzen dira.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211118-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211118
+SUMMARY:2010/11/18
+DESCRIPTION:2010/11/18. ASURrek Eskola Egutegi Zientifikoaren lehen edizioa kaleratu zuen\, Errumanian.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211119-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211119
+SUMMARY:2006/11/19
+DESCRIPTION:2006/11/19. Japoniako Nintendo bideojoko-konpainiak Wii kontsola merkaturatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211120-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211120
+SUMMARY:1985/11/20
+DESCRIPTION:1985/11/20. Leonard Lee Bailey zirujauak haur jaio berri bati lehen bihotz-transplante arrakastatsua egin zion.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211121-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211121
+SUMMARY:2013/11/21
+DESCRIPTION:2013/11/21. Hego Poloko IceCube behatokiak energia handiko neutrinoak detektatu zituen\, jatorri estralurtarrekoak. Gure eguzki-sistemaren kanpotik datoz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211122-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211122
+SUMMARY:2013/11/22
+DESCRIPTION:2013/11/22. Bönneko Unibertsitateko ikerketa-talde batek jatorri neandertaleko gene bat aurkitu zuen gaur egungo pertsonengan. Immunitatearen genea da\, giza gorputz barrura sartzen diren arrotz arriskutsuak ezagutzeko eta erantzun immune bat emanez haien aurrean defendatzeko aukera ematen duena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211123-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211123
+SUMMARY:2002/11/23
+DESCRIPTION:2002/11/23. Ángel Martín Municio biokimikaria hil zen\, Biologia Molekularreko Europako Erakundeko lehen kide espainiarra. Zientzia Zehatzen\, Fisikoen eta Naturalen Errege Akademiako presidentea izan zen\, 17 urtez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211124-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211124
+SUMMARY:2021/11/24
+DESCRIPTION:2021/11/24. Eboluzioaren eguna. 1859an Charles Darwinen "Espezieen jatorria" liburua argitaratu izana ospatzen da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211125-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211125
+SUMMARY:1884/11/25
+DESCRIPTION:1884/11/25. Esne lurrundua sortzeko metodo bat patentatu zen\, esnea luzaroago kontserbatzeko aproposa. Egun berean makina bat patentatu zen\, esne hori kontserbatzeko erabilitako latak esterilizatzearren.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211126-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211126
+SUMMARY:1857/11/26
+DESCRIPTION:1857/11/26. Ferdinand de Saussure hizkuntzalaria jaio zen. Hizkuntzalaritza zientifikoaren aitzindaria da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211127-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211127
+SUMMARY:1895/11/27
+DESCRIPTION:1895/11/27. Alfred Nobelek bere testamentua sinatu zuen. Testamentu horretan ezarri zuen funts bat sortu beharra zegoela urtean bost sari emateko: Nobel Sariak.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211128-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211128
+SUMMARY:1920/11/28
+DESCRIPTION:1920/11/28. Sagrario Ramírez Gallardo kimikaria jaio zen. Gasolina solidoa asmatu eta patentatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211129-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211129
+SUMMARY:1926/11/29
+DESCRIPTION:1926/11/29. Dilhan Eryurt astronomoa jaio zen. Haren lanari esker\, NASAk funtsezko informazioa eskuratu zuen\, eguzkiak ilargiaren ingurunean eragindako inpaktua modelatzeko. Sari bat eman zioten Apolo 11 ilargiratzean egin zuen ekarpenarengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211130-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211130
+SUMMARY:1720/11/30
+DESCRIPTION:1720/11/30. María Andresa Casamayor y de la Coma matematikari eta idazlea jaio zen. "Tirocinio Arithmetico" idatzi zuen\, matematika eguneroko bizitzatik eta eguneroko bizitzarako irakasteko lana. Casandro Mamés de La Marca y Araioa gizonezko ezizenarekin argitaratu zuen liburu hori\, bere izeneko letrak beste ordena batean erabiliz.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211201-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211201
+SUMMARY:1913/12/1
+DESCRIPTION:1913/12/1. Mary Ainsworth psikologoa jaio zen. John Bowlbyrekin batera\, atxikimenduaren teoria garatu zuen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211202-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211202
+SUMMARY:1942/12/2
+DESCRIPTION:1942/12/2. Enrico Fermik Chicago Pile-1 jarri zuen martxan\, munduko lehen erreaktore nuklear artifiziala. Uraniozko pila bat eta grafitozko blokeak erabili zituzten erreaktorea osatzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211203-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211203
+SUMMARY:1842/12/3
+DESCRIPTION:1842/12/3. Ellen Swallow Richards kimikari eta ekologoa jaio zen. Ingurumen-higienearen fundatzaileetako bat izan zen\, ekologia modernoaren aurreko fase batean.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211204-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211204
+SUMMARY:1844/12/4
+DESCRIPTION:1844/12/4. Augusto Arcimís jaio zen. Espainiako lehen meteorologo profesionala eta Institutu Zentral Meteorologikoko (gaur egun\, Meteorologiako Estatu Agentzia) lehen zuzendaria izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211205-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211205
+SUMMARY:1854/12/5
+DESCRIPTION:1854/12/5. Aaron H. Allenek eserleku eraisgarriko besaulkia patentatu zuen. Gaur egun\, besaulki mota hori munduko ia antzoki eta auditorium guztietan erabiltzen da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211206-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211206
+SUMMARY:1888/12/6
+DESCRIPTION:1888/12/6. Libbie Henrietta Hyman zoologoa jaio zen. "Ornogabeak" idatzi zuen\, sei liburukiko lana\, oraindik ere erreferentziazkoa dena.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211207-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211207
+SUMMARY:1949/12/7
+DESCRIPTION:1949/12/7. Ángela Ruiz Roblesek Entziklopedia Mekanikoa patentatu zuen. Asmakizun hori liburu elektronikoaren aitzindaritzat jotzen da. Aniztasunaren arretarako ikuspegi sendo bat biltzen zuen\, integratzeko arazoak zeuzkaten ikasleei audio eta lupak eskuratzeko aukera emanez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211208-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211208
+SUMMARY:2013/12/8
+DESCRIPTION:2013/12/8. Lyongo Unibertsitatean\, harkaitzetatik eta uretik hidrogenoa ateratzeko metodo berri bat aurkeztu zuten. Teknika hori\, energia berdeko iturri berri bat izan liteke.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211209-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211209
+SUMMARY:1979/12/9
+DESCRIPTION:1979/12/9. Lehen aldiz\, gaixotasun bat desagerrarazi zen. Baztanga izan zen\, eta txertaketari esker lortu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211210-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211210
+SUMMARY:1823/12/10
+DESCRIPTION:1823/12/10. Mary Anning paleontologoak plesiosaurio baten lehen eskeleto osoa aurkitu zuen. Itsas narrasti handi hori Jurasikoaren hasieran bizi izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211211-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211211
+SUMMARY:1863/12/11
+DESCRIPTION:1863/12/11. Annie Jump Cannon astronomoa jaio zen. 300 izar aldakor aurkitu zituen\, eta bere katalogazio-lana funtsezkoa izan zen gaur egun dugun izar-sailkapena lortzeko.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211212-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211212
+SUMMARY:1901/12/12
+DESCRIPTION:1901/12/12. Guglielmo Marconik lehen irrati-komunikazio transatlantikoa gauzatu zuen\, Erresuma Batuko Cornuallesetik Kanadako Ternuara bitarte.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211213-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211213
+SUMMARY:1816/12/13
+DESCRIPTION:1816/12/13. Werner von Siemens asmatzailea jaio zen. Ingeniaritza elektrikoaren aitetako bat dela esaten da\, eta haren abizena\, sortu zuen enpresari lotuta geratu da betiko: Siemens.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211214-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211214
+SUMMARY:1911/12/14
+DESCRIPTION:1911/12/14. Roald Amundsenek zuzendutako norvegiar espedizioa Hego Polora iritsi zen. Bertan denda bat utzi zuten\, eta\, dendaren barruan\, gutun bat\, lorpenaren testigantza uzteko\, litekeena zelako taldeak onik itzultzeko aukerarik ez izatea.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211215-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211215
+SUMMARY:2010/12/15
+DESCRIPTION:2010/12/15. Malaspina Zirkumnabigazio Espedizioa abiatu zen. Hespérides eta Sarmiento de Gamboa (CSIC) ontziek munduari bira eman zioten\, ikerketa zientifikoak egiteko\, ikertzaile gazteak trebatzeko eta itsas zientziak sustatzeko. XVIII. mendean Alejandro Malaspinak zuzendu zuen espedizioaren omenez jarri zioten izen hori.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211216-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211216
+SUMMARY:1954/12/16
+DESCRIPTION:1954/12/16. Tracy Hallek lehen diamante sintetikoak sortu zituen General Electrics-en laborategietan.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211217-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211217
+SUMMARY:2014/12/17
+DESCRIPTION:2014/12/17. IGMEko eta Bartzelonako eta Harvardeko Unibertsitateetako azterlan batek\, Araban "lurreko ganbak" zeudela frogatu zuen. Krustazeo horiek orain 105 milioi urte bizi izan ziren\, eta anbarrean kontserbatu ziren.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211218-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211218
+SUMMARY:2019/12/18
+DESCRIPTION:2019/12/18. Martsupialengan parasito espezie berri bat deskribatu zen. Theileria lupei du izena\, eta Guadalupe Miró albaitaria omendu nahi du parasitologiari egindako ekarpenarengatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211219-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211219
+SUMMARY:2016/12/19
+DESCRIPTION:2016/12/19. Nature aldizkariaren ustetan\, Alexandra Elbakyan zientziaren urteko hamar pertsona garrantzitsuenetako bat izan zen. Alexandrak Sci-Hub sortu zuen\, milioika zientzia-artikulutan doan sartzeko bidea ematen duen webgunea.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211220-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211220
+SUMMARY:1852/12/20
+DESCRIPTION:1852/12/20. Kitasato Shibasaburō bakteriologoa jaio zen. Izurri bubonikoa eragiten duen bakterioaren koaurkitzailea izan zen\, eta tetanoserako\, difteriarako eta antraxerako tratamenduak garatu zituen. Horrez gain\, laborategiko tresna bati izena eman zion: kitasato matrazea.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211221-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211221
+SUMMARY:1773/12/21
+DESCRIPTION:1773/12/21. Robert Brown botanikaria jaio zen. Likidoetan esekitako partikula txiki-txikiak mugitu egiten direla aurkitu zuen. Brownen mugimendua esaten zaio horri.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211222-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211222
+SUMMARY:1882/12/22
+DESCRIPTION:1882/12/22. Edward Hibberd Johnson\, munduan Gabonetako zuhaitza argi elektrikoekin apaindu zuen lehen pertsona izan zen. Garai hartan kandelak erabiltzeko ohitura zuten\, eta horren ondorioz sute ugari izaten ziren.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211223-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211223
+SUMMARY:1947/12/23
+DESCRIPTION:1947/12/23. Walter Brattain eta John Bardeen fisikariek lehen transistorea garatu zuten. Gailu hori\, aparatu elektroniko gehienen funtzionamenduaren oinarria da.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211224-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211224
+SUMMARY:1913/12/24
+DESCRIPTION:1913/12/24. Miriam Michael Stimson kimikaria jaio zen. Potasio-bromurozko diskoaren teknika garatu zuen. Laginak prestatzeko metodo horrek analisia hobetzen du espektroskopia infragorriaren bitartez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211225-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211225
+SUMMARY:1901/12/25
+DESCRIPTION:1901/12/25. Richard Shope jaio zen\, animalien patologian espezialista eta influenzabirus bat lehen aldiz isolatu zuena. Birus horiek gripea eragiten dute hegazti eta ugaztunengan\, gizakiak barne.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211226-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211226
+SUMMARY:1780/12/26
+DESCRIPTION:1780/12/26. Mary Fairfax Greig Somerville matematikari eta astronomoa jaio zen. Uranoren orbita aldarazten zuen planeta bat zegoela proposatu zuen. Ondoren\, planeta hori Neptuno zela frogatu zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211227-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211227
+SUMMARY:1822/12/27
+DESCRIPTION:1822/12/27. Louis Pasteur kimikari eta mikrobiologoa jaio zen. Hartziduraren atzean mikroorganismoak zeudela frogatu zuen\, eta pasteurizazioa asmatu zuen. Metodo horrek ahalbidetzen du mikrobioak likidoetan kontrolatzea\, esnean adibidez.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211228-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211228
+SUMMARY:1956/12/28
+DESCRIPTION:1956/12/28. Teresa Rodrigo Anoro fisikaria jaio zen. Zeresan handia izan zuen Higgs bosoiaren aurkikuntzan\, 2012. urtean. Kantabriako Fisika Institutuko zuzendaria izan zen\, eta CERNeko Politika Zientifikoko Batzordeko kidea izan zen.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211229-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211229
+SUMMARY:1800/12/29
+DESCRIPTION:1800/12/29. Charles Goodyear asmatzailea jaio zen. Kautxua bulkanizatzeko prozesua aurkitu zuen\, pneumatikoak egiteko baliagarria.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211230-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211230
+SUMMARY:1930/12/30
+DESCRIPTION:1930/12/30. Youyou Tu kimikari eta farmazialaria jaio zen. Nobel Saria jaso zuen malariaren aurkako terapia berri bat aurkitzeagatik.
+ACTION:DISPLAY
+END:VEVENT
+BEGIN:VEVENT
+UID:20211231-eus
+DTSTAMP:20210116T111317Z
+DTSTART;VALUE=DATE:20211231
+SUMMARY:2019/12/31
+DESCRIPTION:2019/12/31. OMEren Txinako bulegoak abisu bat jaso zuen\, Wuhan hirian jatorri ezezaguneko zenbait pneumonia-kasu zeudela zioena. Geroago\, gaixotasunaren eragilea SARS-CoV-2 koronabirusa zela zehaztu zuten
+ACTION:DISPLAY
+END:VEVENT
+END:VCALENDAR
