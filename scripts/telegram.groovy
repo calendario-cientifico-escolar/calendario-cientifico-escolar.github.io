@@ -50,8 +50,9 @@ html = ''
     }
 
     if( !html ){
-        html = """@CalCientifico        
-        <a href="https://jagedn.github.io/calendario-cientifico/images/celebridades/${found[3]}.png"> </a>
+        html = """Tal día como hoy
+        
+        <a href="https://calendario-cientifico-escolar.github.io/images/personajes/${found[3]}.png"> </a>
         """
     }
 
