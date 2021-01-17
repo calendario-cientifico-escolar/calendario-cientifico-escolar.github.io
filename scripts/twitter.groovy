@@ -71,7 +71,7 @@ def splitText( String text, String suffix ){
 	def words = text.split(' ')
 	def current = ''
 	words.eachWithIndex{ w, i ->
-		if( current.length() > 200 ){
+		if( current.length() > 180 ){
 			ret.add current
 			current = ''
 		}
