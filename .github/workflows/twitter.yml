@@ -20,18 +20,22 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GROOVY_VERSION: 3.0.5
-      twitter4j.oauth.consumerKey: ${{ secrets.CONSUMERKEY }}
-      twitter4j.oauth.consumerSecret: ${{ secrets.CONSUMERSECRET }}
-      twitter4j.oauth.accessToken: ${{ secrets.ACCESSTOKEN }}
-      twitter4j.oauth.accessTokenSecret: ${{ secrets.ACCESSTOKENSECRET }}
+      CONSUMERKEY: ${{ secrets.CONSUMERKEY }}
+      CONSUMERSECRET: ${{ secrets.CONSUMERSECRET }}
+      ACCESSTOKEN: ${{ secrets.ACCESSTOKEN }}
+      ACCESSTOKENSECRET: ${{ secrets.ACCESSTOKENSECRET }}
     steps:
       - uses: actions/checkout@v2
       - id: install
         shell: bash
-        run: |
-          echo ${twitter4j.oauth.consumerKey}
+        run: |          
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
           sdk install groovy $GROOVY_VERSION
-          groovy scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }}
+          groovy \
+            -Dtwitter4j.oauth.consumerKey=CONSUMERKEY \
+            -Dtwitter4j.oauth.consumerSecret=CONSUMERSECRET \
+            -Dtwitter4j.oauth.accessToken=ACCESSTOKEN \
+            -Dtwitter4j.oauth.accessTokenSecret=ACCESSTOKENSECRET \
+            scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }}
 
