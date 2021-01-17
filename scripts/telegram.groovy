@@ -52,7 +52,7 @@ html = ''
     if( !html ){
         html = """Tal día como hoy
         
-        <a href="https://calendario-cientifico-escolar.github.io/images/personajes/${found[3]}.png"> </a>
+        <a href="https://calendario-cientifico-escolar.github.io/images/personajes-min/${found[3]}.png"> </a>
         """
     }
 
