@@ -31,12 +31,11 @@ jobs:
         run: |          
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
-          sdk install groovy $GROOVY_VERSION
-          echo $CONSUMERKEY
+          sdk install groovy $GROOVY_VERSION          
           groovy \
-            -Dtwitter4j.oauth.consumerKey=CONSUMERKEY \
-            -Dtwitter4j.oauth.consumerSecret=CONSUMERSECRET \
-            -Dtwitter4j.oauth.accessToken=ACCESSTOKEN \
-            -Dtwitter4j.oauth.accessTokenSecret=ACCESSTOKENSECRET \
+            -Dtwitter4j.oauth.consumerKey=${CONSUMERKEY} \
+            -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
+            -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
+            -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
             scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }}
 
