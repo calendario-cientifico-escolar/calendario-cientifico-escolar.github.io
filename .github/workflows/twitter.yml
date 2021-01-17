@@ -32,6 +32,7 @@ jobs:
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
           sdk install groovy $GROOVY_VERSION
+          echo $CONSUMERKEY
           groovy \
             -Dtwitter4j.oauth.consumerKey=CONSUMERKEY \
             -Dtwitter4j.oauth.consumerSecret=CONSUMERSECRET \
