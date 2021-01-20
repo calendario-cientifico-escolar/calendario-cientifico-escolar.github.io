@@ -16,7 +16,7 @@ println "Processing $year/$month/$day"
     'astu':'#CalendariuCientificu',
     'cat':'#CalendariCientífic',
     'eus':'#ZientziaEskolaEgutegia',
-    'gal':'#CalendariuCientificu',
+    'gal':'#CalendarioCientifico',
     'en':'#ScientificCalendar',    
 ].each{ kv ->    
     String lang = kv.key
