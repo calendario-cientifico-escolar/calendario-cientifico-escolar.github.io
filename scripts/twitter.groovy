@@ -54,11 +54,11 @@ println "Processing $year/$month/$day"
     tweets.eachWithIndex{ str, i ->
         String page = tweets.size() == 1 ? "" : "${i+1}/${tweets.size()}"
 		StatusUpdate status = new StatusUpdate("$str\n$page").inReplyToStatusId(inReply)
-        if( i == tweets.size()-1 ){
+        //if( i == tweets.size()-1 ){
             def bytes = "https://calendario-cientifico-escolar.github.io/images/personajes/${found[3]}.png".toURL().bytes
             println "image con $bytes.length"
             status.media "${found[3]}", new ByteArrayInputStream(bytes)
-        }
+        //}
 		inReply = TwitterFactory.singleton.updateStatus(status).id
 		println status.status
     }
