@@ -47,7 +47,8 @@ println "Processing $year/$month/$day"
     String title=  found[4].split('\\.').first()
 	String body=  found[4].split('\\.').drop(1).join(' ')
 	String link = ""
-	String hashtags = "${hashtag}"
+	String hashtags = "${hashtag} "
+    hashtags += lang=='es' ? findTags(day,month) : ""
 
     long inReply = 0
 	def tweets = splitText("$title\n$body", "$link\n$hashtags")
@@ -56,7 +57,6 @@ println "Processing $year/$month/$day"
 		StatusUpdate status = new StatusUpdate("$str\n$page").inReplyToStatusId(inReply)
         if( i == 0 ){
             def bytes = "https://calendario-cientifico-escolar.github.io/images/personajes/${found[3]}.png".toURL().bytes
-            println "image con $bytes.length"
             status.media "${found[3]}", new ByteArrayInputStream(bytes)
         }
 		inReply = TwitterFactory.singleton.updateStatus(status).id
@@ -81,3 +81,26 @@ def splitText( String text, String suffix ){
 	ret.add current
 	ret
 }
+
+def findTags(int day, int month){
+    String ret = ""
+    try{
+    new File("static/data/csv/etiquetas.csv").withReader{ reader ->
+        reader.readLine()
+        String line
+        while( (line=reader.readLine()) != null){
+            def fields = line.split(';')
+            if( fields.length != 3)
+                continue
+            if( fields[0] as int == day && fields[1] as int == month){
+                ret = "\nCC ${fields[2]}"
+                break
+            }
+        }
+    }      
+    }catch(e){        
+    }
+    ret
+}
+
+
