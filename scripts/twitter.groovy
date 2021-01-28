@@ -85,7 +85,7 @@ def splitText( String text, String suffix ){
 def findTags(int day, int month){
     String ret = ""
     try{
-    new File("static/data/csv/etiquetas.csv").withReader{ reader ->
+    new File("static/data/csv/etiqueta.csv").withReader{ reader ->
         reader.readLine()
         String line
         while( (line=reader.readLine()) != null){
