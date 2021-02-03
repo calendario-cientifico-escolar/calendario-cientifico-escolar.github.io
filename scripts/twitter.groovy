@@ -64,7 +64,7 @@ println "Processing $year/$month/$day"
             def bytes = "https://calendario-cientifico-escolar.github.io/images/personajes/${found[3]}.png".toURL().bytes
             status.media "${found[3]}", new ByteArrayInputStream(bytes)
         }
-		//inReply = TwitterFactory.singleton.updateStatus(status).id
+		inReply = TwitterFactory.singleton.updateStatus(status).id
 		println status.status
     }
    
