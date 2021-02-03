@@ -10,17 +10,21 @@ day = args.length > 2 ? args[2] as int : new Date()[DAY_OF_MONTH]
 
 println "Processing $year/$month/$day"
 
-
 [
     'es':'#CalendarioCientifico',
-    'astu':'#CalendariuCientificu',
-    'cat':'#CalendariCientífic',
-    'eus':'#ZientziaEskolaEgutegia',
     'gal':'#CalendarioCientifico',
+    'astu':'#CalendariuCientificu',
+    'eus':'#ZientziaEskolaEgutegia',
+    'cat':'#CalendariCientífic',
+    'arag':'#CalandarioScientifico',
     'en':'#ScientificCalendar',    
 ].each{ kv ->    
     String lang = kv.key
     String hashtag = kv.value
+
+    if( args.length > 3 && lang != args[3]){
+        return
+    }
 
     String[]found
 
@@ -59,7 +63,7 @@ println "Processing $year/$month/$day"
             def bytes = "https://calendario-cientifico-escolar.github.io/images/personajes/${found[3]}.png".toURL().bytes
             status.media "${found[3]}", new ByteArrayInputStream(bytes)
         }
-		inReply = TwitterFactory.singleton.updateStatus(status).id
+		//inReply = TwitterFactory.singleton.updateStatus(status).id
 		println status.status
     }
    
