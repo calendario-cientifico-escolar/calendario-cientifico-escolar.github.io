@@ -36,16 +36,13 @@ jobs:
       ACCESSTOKENSECRET: ${{ secrets.ACCESSTOKENSECRET }}
     steps:
       - uses: actions/checkout@v2
-      - name: install
-        shell: bash
-        run: |          
-          curl -s "https://get.sdkman.io" | bash
-          source "$HOME/.sdkman/bin/sdkman-init.sh"
-          sdk install groovy $GROOVY_VERSION          
 
       - name: manual
         if: github.event.inputs.lang
         run: |          
+          curl -s "https://get.sdkman.io" | bash
+          source "$HOME/.sdkman/bin/sdkman-init.sh"
+          sdk install groovy $GROOVY_VERSION          
           LANG=${{ github.event.inputs.lang }} groovy \
             -Dtwitter4j.oauth.consumerKey=${CONSUMERKEY} \
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
@@ -56,6 +53,9 @@ jobs:
       - name: esp
         if: github.event.schedule=='0 5 * * *'
         run: |          
+          curl -s "https://get.sdkman.io" | bash
+          source "$HOME/.sdkman/bin/sdkman-init.sh"
+          sdk install groovy $GROOVY_VERSION          
           LANG=esp groovy \
             -Dtwitter4j.oauth.consumerKey=${CONSUMERKEY} \
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
