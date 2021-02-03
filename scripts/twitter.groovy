@@ -23,6 +23,7 @@ println "Processing $year/$month/$day"
     String hashtag = kv.value
 
     if( args.length > 3 && lang != args[3]){
+        println "skip lang $lang"    
         return
     }
 
