@@ -4,9 +4,10 @@ import twitter4j.TwitterFactory
 import twitter4j.StatusUpdate
 import static java.util.Calendar.*
 
-year = args.length > 0 ? args[0] as int : new Date()[YEAR]
-month = args.length > 1 ? args[1] as int : new Date()[MONTH]+1
-day = args.length > 2 ? args[2] as int : new Date()[DAY_OF_MONTH]
+filterLang = args[0]
+year = args.length > 1 ? args[1] as int : new Date()[YEAR]
+month = args.length > 2 ? args[2] as int : new Date()[MONTH]+1
+day = args.length > 3 ? args[3] as int : new Date()[DAY_OF_MONTH]
 
 println "Processing $year/$month/$day"
 
@@ -22,7 +23,7 @@ println "Processing $year/$month/$day"
     String lang = kv.key
     String hashtag = kv.value
 
-    if( args.length > 3 && lang != args[3]){
+    if( lang != filterLang ){
         println "skip lang $lang"    
         return
     }
