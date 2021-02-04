@@ -48,7 +48,7 @@ jobs:
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
             -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
             -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} ${{ github.event.inputs.lang }}
+            scripts/twitter.groovy ${{ github.event.inputs.lang }} ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} 
 
       - name: esp
         if: github.event.schedule=='0 5 * * *'
@@ -61,10 +61,10 @@ jobs:
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
             -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
             -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} esp
+            scripts/twitter.groovy esp ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }}
 
       - name: gal
-        if: github.event.schedule=='0 10 * * *'
+        if: github.event.schedule=='5 5 * * *'
         run: |          
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
@@ -74,10 +74,10 @@ jobs:
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
             -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
             -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} gal
+            scripts/twitter.groovy gal ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} 
 
       - name: astu
-        if: github.event.schedule=='0 15 * * *'
+        if: github.event.schedule=='10 5 * * *'
         run: |          
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
@@ -87,10 +87,10 @@ jobs:
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
             -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
             -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} astu
+            scripts/twitter.groovy astu ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} 
 
       - name: eus
-        if: github.event.schedule=='0 20 * * *'
+        if: github.event.schedule=='15 5 * * *'
         run: |          
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
@@ -100,10 +100,10 @@ jobs:
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
             -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
             -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} eus
+            scripts/twitter.groovy eus ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} 
 
       - name: cat
-        if: github.event.schedule=='0 25 * * *'
+        if: github.event.schedule=='20 5 * * *'
         run: |          
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
@@ -113,10 +113,10 @@ jobs:
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
             -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
             -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} cat
+            scripts/twitter.groovy cat ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} 
 
       - name: arag
-        if: github.event.schedule=='0 30 * * *'
+        if: github.event.schedule=='25 5 * * *'
         run: |          
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
@@ -126,10 +126,10 @@ jobs:
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
             -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
             -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} arag
+            scripts/twitter.groovy arag ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} 
 
       - name: en
-        if: github.event.schedule=='0 35 * * *'
+        if: github.event.schedule=='30 5 * * *'
         run: |          
           curl -s "https://get.sdkman.io" | bash
           source "$HOME/.sdkman/bin/sdkman-init.sh"
@@ -139,4 +139,4 @@ jobs:
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
             -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
             -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} en
+            scripts/twitter.groovy en ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} 
