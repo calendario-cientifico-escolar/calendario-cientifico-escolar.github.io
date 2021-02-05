@@ -59,8 +59,8 @@ println "Processing $year/$month/$day"
     long inReply = 0
 	def tweets = splitText("$title\n$body", "$link\n$hashtags")
     tweets.eachWithIndex{ str, i ->
-        String page = tweets.size() == 1 ? "" : "${i+1}/${tweets.size()}"
-		StatusUpdate status = new StatusUpdate("$str\n$page").inReplyToStatusId(inReply)
+        String page = tweets.size() == 1 ? "" : "${i+1}."
+		StatusUpdate status = new StatusUpdate("$page $str").inReplyToStatusId(inReply)
         if( i == 0 ){
             def bytes = "https://calendario-cientifico-escolar.github.io/images/personajes/${found[3]}.png".toURL().bytes
             status.media "${found[3]}", new ByteArrayInputStream(bytes)

@@ -61,7 +61,7 @@ jobs:
             -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
             -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
             -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy esp ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }}
+            scripts/twitter.groovy es ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }}
 
       - name: gal
         if: github.event.schedule=='5 5 * * *'
