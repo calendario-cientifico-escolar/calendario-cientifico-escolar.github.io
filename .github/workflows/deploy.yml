@@ -13,6 +13,14 @@ jobs:
       - name: Update theme
         run: git submodule update --init --recursive
 
+      - name: api
+        shell: bash
+        run: |
+          curl -s "https://get.sdkman.io" | bash
+          source "$HOME/.sdkman/bin/sdkman-init.sh"
+          sdk install groovy $GROOVY_VERSION
+          groovy scripts/api.groovy static/data/csv/2021 static/data/json
+
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
