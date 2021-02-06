@@ -25,7 +25,7 @@ if( args.length != 2){
             def month = fields[1] as int
             def day = fields[0] as int     
 
-            def file = new File("${args[1]}/$lang/$year/$month/${day}.json")
+            def file = new File("${args[1]}/$year/$month/${day}_${lang}.json")
             file.parentFile.mkdirs()
             file.text = JsonOutput.prettyPrint(JsonOutput.toJson([
                 lang:lang,
