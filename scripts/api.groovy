@@ -14,6 +14,8 @@ if( args.length != 2){
     'arag',
     'en',
 ].each{ lang ->
+    root = new File("${args[1]}/${lang}/$year/$month")
+    root.mkdirs()
     new File("${args[0]}_${lang}.tsv").withReader{ r->
         r.readLine()
         def line
@@ -25,7 +27,7 @@ if( args.length != 2){
             def month = fields[1] as int
             def day = fields[0] as int     
 
-            def file = new File("${args[1]}/$year/$month/${day}_${lang}.json")
+            def file = new File(root,"${day}.json")
             file.parentFile.mkdirs()
             file.text = JsonOutput.prettyPrint(JsonOutput.toJson([
                 lang:lang,
@@ -33,7 +35,8 @@ if( args.length != 2){
                 month:month,
                 day:day,
                 title:title,
-                body:body
+                body:body,
+		image:"https://calendario-cientifico-escolar.github.io/images/personajes/${args[3]}.png"
             ]))
         }
     }    
