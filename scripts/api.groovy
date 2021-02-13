@@ -34,7 +34,19 @@ if( args.length != 2){
                 day:day,
                 title:title,
                 body:body,
-		image:"https://calendario-cientifico-escolar.github.io/images/personajes/${fields[3]}.png"
+		        image:"https://calendario-cientifico-escolar.github.io/images/personajes/${fields[3]}.png"
+            ]))
+
+            file = new File("${args[1]}/$year/$month/${day}_${lang}.json")
+            file.parentFile.mkdirs()
+            file.text = JsonOutput.prettyPrint(JsonOutput.toJson([
+                lang:lang,
+                year:year,
+                month:month,
+                day:day,
+                title:title,
+                body:body,
+		        image:"https://calendario-cientifico-escolar.github.io/images/personajes/${fields[3]}.png"
             ]))
         }
     }    
