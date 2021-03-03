@@ -95,7 +95,7 @@ def findTags(int day, int month){
         reader.readLine()
         String line
         while( (line=reader.readLine()) != null){
-            def fields = line.split(';')
+            def fields = line.split(',')
             if( fields.length != 3)
                 continue
             if( fields[0] as int == day && fields[1] as int == month){
