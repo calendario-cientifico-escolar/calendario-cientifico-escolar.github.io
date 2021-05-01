@@ -1,3 +1,4 @@
 twitter4j.properties
 static/data/json
-
+node_modules/
+.env

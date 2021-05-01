@@ -36,19 +36,18 @@ jobs:
       ACCESSTOKENSECRET: ${{ secrets.ACCESSTOKENSECRET }}
     steps:
       - uses: actions/checkout@v2
-
+      - uses: actions/setup-node@v1
+          with:
+            node-version: 12.x
       - name: manual
         if: github.event.inputs.lang
         run: |          
-          curl -s "https://get.sdkman.io" | bash
-          source "$HOME/.sdkman/bin/sdkman-init.sh"
-          sdk install groovy $GROOVY_VERSION          
-          groovy \
-            -Dtwitter4j.oauth.consumerKey=${CONSUMERKEY} \
-            -Dtwitter4j.oauth.consumerSecret=${CONSUMERSECRET} \
-            -Dtwitter4j.oauth.accessToken=${ACCESSTOKEN} \
-            -Dtwitter4j.oauth.accessTokenSecret=${ACCESSTOKENSECRET} \
-            scripts/twitter.groovy ${{ github.event.inputs.lang }} ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} 
+          echo ${CONSUMERKEY} > .env
+          echo ${CONSUMERSECRET} >> .env
+          echo ${ACCESSTOKEN}  >> .env
+          echo ${ACCESSTOKENSECRET} >> .env
+          npm install
+          npm scripts/twitter.js ${{ github.event.inputs.lang }} ${{ github.event.inputs.year }} ${{ github.event.inputs.month }} ${{ github.event.inputs.day }} 
 
       - name: esp
         if: github.event.schedule=='0 4 * * *'
