@@ -37,8 +37,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-          with:
-            node-version: 12.x
+        with:
+          node-version: 12.x
       - name: manual
         if: github.event.inputs.lang
         run: |          
