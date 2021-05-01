@@ -56,23 +56,22 @@ findTags = async function(year,month, day){
 }
 
 findAltText = async function(year,month, day){
-    if (fs.existsSync(`static/data/csv/${year}/alttext.csv`)==false){
-        return null;
+    let tags="No tenemos disponible una descripción de esta imagen pero estamos trabajando en ello";
+    if (fs.existsSync(`static/data/csv/${year}/alttext.csv`)){
+        const rl = readline.createInterface({
+            input: fs.createReadStream(`static/data/csv/${year}/alttext.csv`),
+            console: false
+        });
+        for await (const line of rl) {
+            const fields = line.split(',');
+            if( fields.length == 3){
+                if( parseInt(fields[0]) == day && parseInt(fields[1]) == month){
+                    tags = fields[2];
+                    break;
+                }        
+            }
+        }    
     }
-    const rl = readline.createInterface({
-        input: fs.createReadStream(`static/data/csv/${year}/alttext.csv`),
-        console: false
-    });
-    let tags="";
-    for await (const line of rl) {
-        const fields = line.split(',');
-        if( fields.length == 3){
-            if( parseInt(fields[0]) == day && parseInt(fields[1]) == month){
-                tags = fields[2];
-                break;
-            }        
-        }
-    }    
     return tags;
 }
 
