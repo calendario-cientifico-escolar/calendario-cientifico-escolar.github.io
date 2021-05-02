@@ -146,4 +146,8 @@ doIt = async function(args){
     }        
 }
 
-doIt(process.argv)
+doIt(process.argv).then( ()=>{
+    console.log(process.argv)
+}).catch( (err)=>{
+    console.log
+})
