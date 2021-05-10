@@ -15,8 +15,10 @@ const T = new Twitter({
 sendTweet = async function(text, inReply, file, altText){
     let mediaIdStr=[]
     if( file ){
+        console.log(`reading ${file}`)
         const b64content = fs.readFileSync(file, { encoding: 'base64' });
         const respmedia = await T.post('media/upload', { media_data: b64content });    
+        console.log(`posted as ${respmedia.data.media_id_string}`)
         mediaIdStr.push(respmedia.data.media_id_string);
         if( altText ){
             const meta_params = { 
@@ -110,7 +112,7 @@ splitText = function( text, suffix ){
     return ret;
 }
 
-doIt = async function(args){
+async function doIt(args){
     lang = args[2] || 'es';
     year = args.length > 3 ? args[3] : new Date().getUTCFullYear();
     month = args.length > 4 ? args[4] : new Date().getMonth()+1;
@@ -143,11 +145,16 @@ doIt = async function(args){
         const str = tweets[t];
         const media = t == 0 ? `static/images/personajes/${fields[3]}.png` : null;
         inReply = await sendTweet( `${str}\n${page}`, inReply, media, altText)        
-    }        
+    }
+    return true;        
 }
 
-doIt(process.argv).then( ()=>{
-    console.log(process.argv)
-}).catch( (err)=>{
-    console.log
-})
+(async () => {
+    try {
+        console.log(process.argv)
+        var result = await doIt(process.argv);
+        console.log(result);
+    } catch (e) {
+        console.log(e);
+    }
+})();
