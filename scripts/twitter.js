@@ -11,13 +11,23 @@ const T = new Twitter({
   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
 });
 
+const sleep = (waitTimeInMs) => new Promise(resolve => setTimeout(resolve, waitTimeInMs));
 
 sendTweet = async function(text, inReply, file, altText){
     let mediaIdStr=[]
     if( file ){
         console.log(`reading ${file}`)
         const b64content = fs.readFileSync(file, { encoding: 'base64' });
-        const respmedia = await T.post('media/upload', { media_data: b64content });    
+        let respmedia;
+        for(let i=0; i<3;i++){
+            try{
+                respmedia = await T.post('media/upload', { media_data: b64content });   
+                break;
+            }catch(e){
+                console.log("error uploading file, retry");
+            }
+            await sleep(2000);
+        }
         console.log(`posted as ${respmedia.data.media_id_string}`)
         mediaIdStr.push(respmedia.data.media_id_string);
         if( altText ){
