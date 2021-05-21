@@ -26,6 +26,7 @@ sendTweet = async function(text, inReply, file, altText){
     if( file ){
         console.log(`reading ${file}`)
         const b64content = fs.readFileSync(file, { encoding: 'base64' });
+        console.log(b64content.length)
         let respmedia;
         for(let i=0; i<3;i++){
             try{
@@ -157,15 +158,15 @@ async function doIt(args){
     const tweets = splitText(`${title}\n${body}`, `${hashtags}`)
     
     let inReply = 0;
-    const source = `https://calendario-cientifico-escolar.github.io/images/personajes/${fields[3]}.png`
-    const destination = `${fields[3]}.png`
-    const file = await downloadFile(source,destination)
-    console.log(file)
+    //const source = `https://calendario-cientifico-escolar.github.io/images/personajes/${fields[3]}.png`
+    //const destination = `${fields[3]}.png`
+    //const file = await downloadFile(source,destination)
+    //console.log(file)
     for(var t in tweets){
         const p = parseInt(t)+1
         const page = tweets.length == 1 ? '' : `${p}/${tweets.length}`;
         const str = tweets[t];
-        const media = t == 0 ? `${fields[3]}.png` : null;        
+        const media = t == 0 ? `static/images/personajes/${fields[3]}.png` : null;        
         inReply = await sendTweet( `${str}\n${page}`, inReply, media, altText)        
     }
     return true;        
