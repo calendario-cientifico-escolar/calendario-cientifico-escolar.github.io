@@ -3,6 +3,7 @@ const readline = require('readline');
 const fs = require('fs');
 const Twitter = require('twit');
 const { parse } = require('dotenv');
+const fetch = require('node-fetch');
 
 const T = new Twitter({
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
@@ -12,6 +13,13 @@ const T = new Twitter({
 });
 
 const sleep = (waitTimeInMs) => new Promise(resolve => setTimeout(resolve, waitTimeInMs));
+
+async function downloadFile(source, destination) {
+    const response = await fetch(source);
+    const buffer = await response.buffer();
+    fs.writeFileSync(destination, buffer);
+}
+
 
 sendTweet = async function(text, inReply, file, altText){
     let mediaIdStr=[]
@@ -24,11 +32,11 @@ sendTweet = async function(text, inReply, file, altText){
                 respmedia = await T.post('media/upload', { media_data: b64content });   
                 break;
             }catch(e){
-                console.log("error uploading file, retry");
+                console.log(e);
             }
             await sleep(2000);
         }
-        console.log(`posted as ${respmedia.data.media_id_string}`)
+        console.log({respmedia})
         mediaIdStr.push(respmedia.data.media_id_string);
         if( altText ){
             const meta_params = { 
@@ -149,11 +157,15 @@ async function doIt(args){
     const tweets = splitText(`${title}\n${body}`, `${hashtags}`)
     
     let inReply = 0;
+    const source = `https://calendario-cientifico-escolar.github.io/images/personajes/${fields[3]}.png`
+    const destination = `${fields[3]}.png`
+    const file = await downloadFile(source,destination)
+    console.log(file)
     for(var t in tweets){
         const p = parseInt(t)+1
         const page = tweets.length == 1 ? '' : `${p}/${tweets.length}`;
         const str = tweets[t];
-        const media = t == 0 ? `static/images/personajes/${fields[3]}.png` : null;
+        const media = t == 0 ? `${fields[3]}.png` : null;        
         inReply = await sendTweet( `${str}\n${page}`, inReply, media, altText)        
     }
     return true;        

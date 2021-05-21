@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.88.2",
     "twit": "^2.2.11",
     "twitter-v2": "^1.1.0"
