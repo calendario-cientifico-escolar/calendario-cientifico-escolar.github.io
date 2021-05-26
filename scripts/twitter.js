@@ -60,7 +60,7 @@ sendTweet = async function(text, inReply, file, altText){
 
 findTags = async function(year,month, day){
     const rl = readline.createInterface({
-        input: fs.createReadStream(`static/data/csv/etiqueta.csv`),
+        input: fs.createReadStream(`static/data/csv/${year}_etiqueta.csv`),
         console: false
     });
     let tags="";
@@ -78,13 +78,13 @@ findTags = async function(year,month, day){
 
 findAltText = async function(year,month, day){
     let tags="No tenemos disponible una descripción de esta imagen pero estamos trabajando en ello";
-    if (fs.existsSync(`static/data/csv/${year}/alttext.csv`)){
+    if (fs.existsSync(`static/data/csv/${year}_alttext.csv`)){
         const rl = readline.createInterface({
-            input: fs.createReadStream(`static/data/csv/${year}/alttext.csv`),
+            input: fs.createReadStream(`static/data/csv/${year}_alttext.csv`),
             console: false
         });
         for await (const line of rl) {
-            const fields = line.split(',');
+            const fields = line.split(';');
             if( fields.length == 3){
                 if( parseInt(fields[0]) == day && parseInt(fields[1]) == month){
                     tags = fields[2];
@@ -150,7 +150,6 @@ async function doIt(args){
     const fields = await findLine(lang, year, month, day);
     const hashtag = await findTags(year, month, day);
     const altText = lang=='es' ? await findAltText(year, month, day) : null;
-
     const title=  fields[4].split('\\.')[0];
     const body=  fields[4].split('\\.').slice(1).join(' ');
 
