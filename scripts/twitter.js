@@ -148,7 +148,7 @@ async function doIt(args){
 
     const fields = await findLine(lang, year, month, day);
     const hashtag = await findTags(year, month, day);
-    const altText = findAltText(year, month, day);
+    const altText = lang === "es" ? findAltText(year, month, day) : null;
     const title=  fields[4].split('\\.')[0];
     const body=  fields[4].split('\\.').slice(1).join(' ');
 
