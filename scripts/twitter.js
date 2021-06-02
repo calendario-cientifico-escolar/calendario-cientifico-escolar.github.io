@@ -26,7 +26,6 @@ sendTweet = async function(text, inReply, file, altText){
     if( file ){
         console.log(`reading ${file}`)
         const b64content = fs.readFileSync(file, { encoding: 'base64' });
-        console.log(b64content.length)
         let respmedia;
         for(let i=0; i<3;i++){
             try{
@@ -37,7 +36,6 @@ sendTweet = async function(text, inReply, file, altText){
             }
             await sleep(2000);
         }
-        console.log({respmedia})
         mediaIdStr.push(respmedia.data.media_id_string);
         if( altText ){
             const meta_params = { 
@@ -46,7 +44,8 @@ sendTweet = async function(text, inReply, file, altText){
                     text: altText 
                 } 
             }; 
-            await T.post('media/metadata/create', meta_params);    
+            const media = await T.post('media/metadata/create', meta_params);    
+            console.log({media})
         }
     }
     const params = { 
