@@ -85,8 +85,8 @@ findAltText = async function(year,month, day){
         for await (const line of rl) {
             const fields = line.split(';');
             if( fields.length == 3){
-                if( parseInt(fields[0]) == day && parseInt(fields[1]) == month){
-                    tags = fields[2];
+                if( parseInt(fields[0]) == day && parseInt(fields[1]) == month){                    
+                    tags = fields[2];                    
                     break;
                 }        
             }
@@ -148,7 +148,7 @@ async function doIt(args){
 
     const fields = await findLine(lang, year, month, day);
     const hashtag = await findTags(year, month, day);
-    const altText = lang === "es" ? findAltText(year, month, day) : null;
+    const altText = await findAltText(year, month, day);    
     const title=  fields[4].split('\\.')[0];
     const body=  fields[4].split('\\.').slice(1).join(' ');
 
@@ -158,8 +158,7 @@ async function doIt(args){
     let inReply = 0;
     //const source = `https://calendario-cientifico-escolar.github.io/images/personajes/${fields[3]}.png`
     //const destination = `${fields[3]}.png`
-    //const file = await downloadFile(source,destination)
-    //console.log(file)
+    //const file = await downloadFile(source,destination)    
     for(var t in tweets){
         const p = parseInt(t)+1
         const page = tweets.length == 1 ? '' : `${p}/${tweets.length}`;
